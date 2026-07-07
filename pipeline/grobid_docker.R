@@ -26,7 +26,9 @@ library(httr2)
 .GROBID_IMAGE <- "lfoppiano/grobid:0.8.1"   # PINNED — matches manual invocation
 .GROBID_NAME  <- "grobid"
 .GROBID_PORT  <- 8070
-.GROBID_MEM   <- "8g"
+.GROBID_MEM   <- "12g"   # raised from 8g: the SWAP corpus OOM'd some chunks at 8g
+# (NC_SWAP code 139). Tune to your machine's available RAM;
+# the per-chunk retry handles residual OOMs by splitting.
 
 # Is the GROBID HTTP service actually answering? (Container "started" != "ready";
 # GROBID loads models for ~30-60s before /api/isalive returns.)

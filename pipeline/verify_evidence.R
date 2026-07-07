@@ -196,9 +196,8 @@ verify_corpus <- function(config, threshold = 0.85,
             stop("Evidence verification requires ingest='text' (needs extracted text as ",
                  "source of truth). Native-PDF records can't be verified this way.")
       }
-      cache_dir <- config$result_cache %||% path(config$out_dir, "_raw_cache")
-      rds <- dir_ls(cache_dir, glob = "*__text.rds")
-      if (length(rds) == 0) { message("No text-path cached results in ", cache_dir); return(invisible()) }
+      rds <- dir_ls(config$coded_dir, glob = "*__text.rds")
+      if (length(rds) == 0) { message("No text-path coded results in ", config$coded_dir); return(invisible()) }
       
       all_rows <- list()
       for (f in rds) {
@@ -209,22 +208,21 @@ verify_corpus <- function(config, threshold = 0.85,
             # truth), it handles multi-PDF documents (whose .md is the combined text),
             # and it avoids re-running GROBID. Fall back to extraction only if the .md is
             # somehow missing.
-            ext_loc <- config$extracted_dir %||%
-                  path(path_dir(config$cache_dir %||% config$docs_dir), "docs_extracted")
-            md_path <- path(ext_loc, paste0(doc_id, ".md"))
+            md_path <- path(config$extracted_dir, paste0(doc_id, ".md"))
             doc_text <- if (file_exists(md_path)) {
                   paste(readLines(md_path, warn = FALSE), collapse = "\n")
             } else {
                   # Fallback: reconstruct the descriptor (folder = multi-PDF) and re-extract.
-                  dpath <- path(config$docs_dir, doc_id)
+                  dpath <- path(config$source_dir, doc_id)
                   gcfg <- modifyList(grobid_config, list(
-                        cache_dir     = config$cache_dir %||% grobid_config$cache_dir,
+                        cache_dir     = config$tei_dir %||%
+                              path(path_dir(config$extracted_dir), "tei"),
                         extracted_dir = config$extracted_dir %||% grobid_config$extracted_dir))
                   tryCatch(
                         if (dir_exists(dpath)) {
                               extract_document_multi(doc_id, as.character(sort(dir_ls(dpath, glob = "*.pdf"))), gcfg)
                         } else {
-                              extract_text_grobid(path(config$docs_dir, paste0(doc_id, ".pdf")), gcfg)
+                              extract_text_grobid(path(config$source_dir, paste0(doc_id, ".pdf")), gcfg)
                         },
                         error = function(e) { message("  [", doc_id,
                                                       "] could not get source text: ", conditionMessage(e)); NA })
@@ -242,7 +240,8 @@ verify_corpus <- function(config, threshold = 0.85,
                             if (nrow(q)) 100 * mean(q$verified, na.rm = TRUE) else 100))
       }
       report <- do.call(rbind, all_rows)
-      rp <- report_path %||% path(config$out_dir, "evidence_verification.csv")
+      rp <- report_path %||% config$verify_report %||%
+            path(config$out_dir %||% config$finalized_dir, "verify_report.csv")
       write_csv(report, rp)
       message("\nReport: ", rp)
       

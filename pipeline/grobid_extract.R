@@ -29,7 +29,10 @@ grobid_config <- list(
       # GROBID flags. consolidateHeader/Citations OFF: we want text, not bibliographic
       # consolidation (that was the citation phase). coordinates ON so segment-level
       # info is available if needed later.
-      timeout_sec    = 300,                        # large SWAPs take a while
+      timeout_sec    = 600,                        # large SWAPs take a while (raised from
+      #   300: AR/MN timed out whole-doc at
+      #   300s). Timeout now also triggers the
+      #   chunked fallback, so this is a soft cap.
       segment_sentences = FALSE,
       # Where cached TEI / combined-text files go. NULL = alongside the PDF (old
       # behavior); set a path to keep intermediates out of the docs folder. The dir
@@ -252,7 +255,8 @@ tei_to_text <- function(tei_xml) {
 # safe and saves time on repeated pilot runs).
 
 extract_text_grobid <- function(pdf_path, config = grobid_config,
-                                cache_tei = TRUE, chunk_pages = 100) {
+                                cache_tei = TRUE, chunk_pages = 100,
+                                nest_tei = TRUE) {
       doc_id    <- path_ext_remove(path_file(pdf_path))
       
       # ARTIFACT LAYOUT (single-source-of-truth design):
@@ -265,12 +269,17 @@ extract_text_grobid <- function(pdf_path, config = grobid_config,
       #     with its [TABLE]/[page N]/[FIGURE] annotations is the one true text, and
       #     verification normalizes those annotations at compare time.
       cache_loc <- if (!is.null(config$cache_dir)) config$cache_dir else path_dir(pdf_path)
-      # docs_extracted/ is a sibling of the docs dir (files-or-subdirs rule); default
-      # to config$extracted_dir if set, else a docs_extracted/ next to the cache.
       ext_loc   <- if (!is.null(config$extracted_dir)) config$extracted_dir
       else path(path_dir(cache_loc), "docs_extracted")
-      if (cache_tei) { dir_create(cache_loc); dir_create(ext_loc) }
-      tei_path  <- path(cache_loc, paste0(doc_id, ".grobid.tei.xml"))
+      # TEI is a first-class artifact stored per-document: tei/<doc_id>/<name>.tei.xml,
+      # so tei/ contains only subdirs (files-or-subdirs rule) and a future citations
+      # phase reads tei/<doc_id>/ uniformly for single- AND multi-PDF docs. The multi-
+      # PDF caller passes cache_dir already set to the parent's tei/<parent>/ dir and
+      # nest_tei=FALSE, so each part lands flat inside it (tei/<parent>/<part>.tei.xml)
+      # rather than double-nesting.
+      tei_loc <- if (isTRUE(nest_tei)) path(cache_loc, doc_id) else cache_loc
+      if (cache_tei) { dir_create(tei_loc); dir_create(ext_loc) }
+      tei_path  <- path(tei_loc, paste0(doc_id, ".grobid.tei.xml"))
       md_path   <- path(ext_loc, paste0(doc_id, ".md"))
       
       # Canonical-text fast-path: if the .md already exists, it IS the derived text —
@@ -295,23 +304,28 @@ extract_text_grobid <- function(pdf_path, config = grobid_config,
             grobid_process_pdf(pdf_path, config),
             error = function(e) {
                   msg <- conditionMessage(e)
-                  # Triggers for the page-chunked fallback. Two distinct "document too big to
-                  # process whole" signals from GROBID:
+                  # Triggers for the page-chunked fallback. "Document too big / too slow to
+                  # process whole" signals from GROBID, all fixable by feeding smaller page
+                  # ranges:
                   #   - TOO_MANY_TOKENS: the text layer exceeds GROBID's 1M-token cap.
-                  #   - BAD_INPUT_DATA / "error code: 137": the pdfalto conversion step was
-                  #     OOM-killed (137 = SIGKILL, typically out-of-memory) on a large PDF.
-                  # Both are fixed by feeding GROBID smaller page ranges. We DON'T fall back
-                  # on these for a single-page document — there, "too big" isn't the issue and
-                  # chunking can't help, so a genuine bad PDF should surface as an error.
+                  #   - BAD_INPUT_DATA / error code 137 or 139: the pdfalto conversion step was
+                  #     killed (137=SIGKILL/OOM, 139=SIGSEGV, often also memory pressure) on a
+                  #     large PDF.
+                  #   - TIMEOUT: whole-document conversion exceeded the request timeout — a big
+                  #     doc that GROBID can process in smaller pieces within the timeout.
+                  # We DON'T fall back for a single-page document — there, "too big" isn't the
+                  # issue and chunking can't help, so a genuine bad PDF should surface.
                   size_signal <- grepl("TOO_MANY_TOKENS|too many tokens", msg, ignore.case = TRUE) ||
-                        grepl("BAD_INPUT_DATA|error code: 137|conversion failed", msg,
-                              ignore.case = TRUE)
+                        grepl("BAD_INPUT_DATA|error code: 13[79]|conversion failed", msg,
+                              ignore.case = TRUE) ||
+                        grepl("TIMEOUT|timed out", msg, ignore.case = TRUE)
                   can_chunk <- tryCatch(pdftools::pdf_length(pdf_path) > 1, error = function(e2) FALSE)
                   
                   if (size_signal && can_chunk) {
-                        message("  [", doc_id, "] whole-document extraction failed (",
-                                if (grepl("137|BAD_INPUT", msg, ignore.case = TRUE))
-                                      "likely OOM during conversion" else "token limit",
+                        reason <- if (grepl("13[79]|BAD_INPUT", msg, ignore.case = TRUE)) "likely OOM during conversion"
+                        else if (grepl("TIMEOUT|timed out", msg, ignore.case = TRUE)) "whole-doc timeout"
+                        else "token limit"
+                        message("  [", doc_id, "] whole-document extraction failed (", reason,
                                 "); falling back to ", chunk_pages, "-page chunked extraction.")
                         return(NULL)  # signal: go chunked
                   }
@@ -363,12 +377,22 @@ extract_document_multi <- function(doc_id, pdf_paths, config = grobid_config,
             return(paste(readLines(md_path, warn = FALSE), collapse = "\n"))
       }
       
-      # Extract each part. We force each part's OWN .md into a per-part subdir so the
-      # single-file writer doesn't clobber the combined doc_id.md, but reuse all the
-      # existing per-PDF extraction (TEI cache, chunking fallback, .md rendering).
+      # Extract each part. We redirect BOTH per-part artifacts into per-doc subdirs so
+      # nothing collides across documents and the single-file writers don't clobber the
+      # combined doc_id.md:
+      #   - per-part .md   -> extracted_dir/<doc_id>_parts/   (intermediate; combined
+      #                        into the canonical <doc_id>.md below)
+      #   - per-part TEI   -> tei_dir/<doc_id>/               (first-class; each part's
+      #                        structured output, namespaced by parent doc — otherwise
+      #                        two docs' "Chapter 1.pdf" TEIs overwrite each other).
       part_dir <- path(ext_loc, paste0(doc_id, "_parts"))
       if (cache_tei) dir_create(part_dir)
-      part_cfg <- modifyList(config, list(extracted_dir = part_dir))
+      tei_base <- if (!is.null(config$cache_dir)) config$cache_dir
+      else path(path_dir(ext_loc), "tei")
+      tei_doc_dir <- path(tei_base, doc_id)
+      if (cache_tei) dir_create(tei_doc_dir)
+      part_cfg <- modifyList(config, list(extracted_dir = part_dir,
+                                          cache_dir     = tei_doc_dir))
       
       parts <- lapply(seq_along(pdf_paths), function(i) {
             p <- pdf_paths[[i]]
@@ -376,7 +400,8 @@ extract_document_multi <- function(doc_id, pdf_paths, config = grobid_config,
             message("    part ", i, "/", length(pdf_paths), ": ", part_id, " ... ",
                     appendLF = FALSE)
             txt <- tryCatch(
-                  extract_text_grobid(p, part_cfg, cache_tei = cache_tei, chunk_pages = chunk_pages),
+                  extract_text_grobid(p, part_cfg, cache_tei = cache_tei,
+                                      chunk_pages = chunk_pages, nest_tei = FALSE),
                   error = function(e) { message("FAILED: ", conditionMessage(e)); "" }
             )
             message(if (nzchar(txt)) paste0("ok (", nchar(txt), " chars)") else "empty")
@@ -443,6 +468,47 @@ discover_documents <- function(docs_dir) {
 # We therefore renumber page markers to the document-global page number using
 # the chunk's starting page, so the evidence `location` field stays accurate.
 
+# Extract a single page range [start,end] via GROBID, returning page-renumbered
+# text. AUTO-RETRY: if GROBID OOMs (137/139) or times out on this range, split it
+# in half and extract each half — recursively — down to a floor of `min_pages`
+# per sub-range. This rescues documents that have one dense section busting memory
+# even at the nominal chunk size (the NC_SWAP case: chunk 201-300 OOM'd). Only a
+# range that fails at the floor size re-raises; everything above the floor is
+# retried smaller first. Genuine bad-PDF errors (not size/timeout) re-raise
+# immediately without pointless halving.
+.extract_page_range <- function(pdf_path, doc_id, start, end, config, tmp_dir,
+                                min_pages = 10) {
+      chunk_pdf <- path(tmp_dir, sprintf("%s_p%04d-%04d.pdf", doc_id, start, end))
+      pdftools::pdf_subset(pdf_path, pages = start:end, output = chunk_pdf)
+      span <- end - start + 1
+      
+      # tryCatch RETURNS the handler's value, so on a retriable failure the handler
+      # returns the recursively-assembled text and that becomes this call's result.
+      tryCatch({
+            tei <- grobid_process_pdf(chunk_pdf, config)
+            txt <- .renumber_pages(tei_to_text(tei), offset = start - 1)
+            message("    chunk pages ", start, "-", end, " ok (", nchar(txt), " chars)")
+            txt
+      }, error = function(e) {
+            msg       <- conditionMessage(e)
+            retriable <- grepl("13[79]|BAD_INPUT|conversion failed|TIMEOUT|timed out",
+                               msg, ignore.case = TRUE)
+            if (retriable && span > min_pages) {
+                  mid <- start + (span %/% 2) - 1
+                  message("    pages ", start, "-", end, " OOM/timeout -> splitting into ",
+                          start, "-", mid, " + ", mid + 1, "-", end)
+                  a <- .extract_page_range(pdf_path, doc_id, start, mid,   config, tmp_dir, min_pages)
+                  b <- .extract_page_range(pdf_path, doc_id, mid + 1, end, config, tmp_dir, min_pages)
+                  paste(a, b, sep = "\n")           # assembled, already page-renumbered
+            } else {
+                  stop("Pages ", start, "-", end, " failed GROBID even at floor size (",
+                       span, " pages): ", msg,
+                       if (retriable) "\n  -> still failing at the floor; raise GROBID --memory."
+                       else "")
+            }
+      })
+}
+
 extract_text_grobid_chunked <- function(pdf_path, config = grobid_config,
                                         chunk_pages = 100) {
       doc_id  <- path_ext_remove(path_file(pdf_path))
@@ -459,39 +525,14 @@ extract_text_grobid_chunked <- function(pdf_path, config = grobid_config,
       
       for (start in starts) {
             end <- min(start + chunk_pages - 1, n_pages)
-            chunk_pdf <- path(tmp_dir, sprintf("%s_p%04d-%04d.pdf", doc_id, start, end))
-            
-            # Write the page-range sub-PDF.
-            pdftools::pdf_subset(pdf_path, pages = start:end, output = chunk_pdf)
-            
             message("    chunk pages ", start, "-", end, " ... ", appendLF = FALSE)
-            tei <- tryCatch(
-                  grobid_process_pdf(chunk_pdf, config),
-                  error = function(e) {
-                        msg <- conditionMessage(e)
-                        oom <- grepl("137|BAD_INPUT|conversion failed", msg, ignore.case = TRUE)
-                        # Surface clearly rather than silently dropping content. The right fix
-                        # differs by cause: OOM during conversion -> give GROBID more memory;
-                        # token limit -> use smaller page ranges.
-                        stop("Chunk pages ", start, "-", end, " failed GROBID: ", msg,
-                             if (oom) {
-                                   paste0("\n  -> looks like an out-of-memory kill (code 137). ",
-                                          "Give the GROBID container more memory, e.g. ",
-                                          "docker run --memory=8g ... , and/or retry with ",
-                                          "chunk_pages = ", max(1, chunk_pages %/% 2), ".")
-                             } else {
-                                   paste0("\n  -> retry extract_text_grobid(..., chunk_pages = ",
-                                          max(1, chunk_pages %/% 2), ").")
-                             })
-                  }
-            )
-            txt <- tei_to_text(tei)
-            # Renumber per-chunk [page K] -> document-global [page K + start - 1].
-            txt <- .renumber_pages(txt, offset = start - 1)
-            parts[[length(parts) + 1]] <- paste0(
-                  "\n[chunk: pages ", start, "-", end, "]\n", txt
-            )
-            message("ok (", nchar(txt), " chars)")
+            # Extract this page range, AUTO-RETRYING with smaller sub-ranges if GROBID
+            # OOMs/times out on it (some chunks have a dense section that busts memory even
+            # at the nominal chunk size). .extract_page_range recurses, halving the range
+            # down to a floor before giving up — so one heavy section no longer fails the
+            # whole document.
+            txt <- .extract_page_range(pdf_path, doc_id, start, end, config, tmp_dir)
+            parts <- c(parts, txt)
       }
       
       paste(parts, collapse = "\n")

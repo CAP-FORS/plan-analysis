@@ -84,7 +84,7 @@ validate_record <- function(record, schema_merged_file) {
 # per-run report (validation_report.csv) and returns it. Zero API cost — use it
 # to validate an already-scored corpus retroactively.
 validate_corpus <- function(config, out_dir = NULL, report_path = NULL) {
-      dir <- out_dir %||% config$out_dir
+      dir <- out_dir %||% config$finalized_dir
       smf <- config$schema_merged_file
       files <- fs::dir_ls(dir, glob = "*.json")
       files <- files[!grepl("truncated|verification|validation|report", files)]
@@ -125,3 +125,36 @@ validate_corpus <- function(config, out_dir = NULL, report_path = NULL) {
 
 `%||%` <- function(a, b) if (is.null(a) || length(a) == 0 ||
                              (length(a) == 1 && is.na(a))) b else a
+
+# Validate an on-disk JSON record FILE directly against the merged schema, without
+# round-tripping through R (jsonvalidate accepts a file path). Use this to validate
+# already-written records (e.g. finalize() re-validating skipped docs) so we check
+# exactly what's on disk — no toJSON re-serialization that could re-introduce an
+# array/unbox discrepancy the on-disk file doesn't have. Same return shape as
+# validate_record().
+validate_json_file <- function(json_path, schema_merged_file) {
+      if (is.null(schema_merged_file) || !file.exists(schema_merged_file)) {
+            return(list(ok = NA, errors = "schema_merged_file not found; validation skipped",
+                        n_errors = NA_integer_))
+      }
+      if (!file.exists(json_path)) {
+            return(list(ok = NA, errors = paste0("record not found: ", json_path),
+                        n_errors = NA_integer_))
+      }
+      res <- tryCatch(
+            jsonvalidate::json_validate(json_path, schema_merged_file,
+                                        engine = "ajv", verbose = TRUE, greedy = TRUE,
+                                        error = FALSE),
+            error = function(e) structure(FALSE, validation_error = conditionMessage(e)))
+      if (isTRUE(res)) return(list(ok = TRUE, errors = character(0), n_errors = 0L))
+      errs <- attr(res, "errors")
+      if (is.null(errs) && !is.null(attr(res, "validation_error"))) {
+            return(list(ok = FALSE, errors = attr(res, "validation_error"), n_errors = 1L))
+      }
+      if (is.null(errs) || nrow(errs) == 0) {
+            return(list(ok = FALSE, errors = "validation failed (no detail)", n_errors = 1L))
+      }
+      msgs <- if (!is.null(errs$instancePath))
+            paste0(errs$instancePath, ": ", errs$message) else as.character(errs$message)
+      list(ok = FALSE, errors = msgs, n_errors = length(msgs))
+}

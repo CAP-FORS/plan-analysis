@@ -18,17 +18,35 @@ run_variance <- function(config, n_reps = 5,
                          base_out = "data/pilot/coded/variance") {
       message("Repeat-scoring variance: ", n_reps, " reps. ",
               "NOTE: this makes ", n_reps, " x N_docs scoring calls (real cost).")
+      # Extraction is held CONSTANT across reps (it's deterministic; we want to
+      # measure pure model/scoring variance, not extraction noise). So tei_dir and
+      # extracted_dir point at ONE shared location for all reps; only coded_dir,
+      # finalized_dir, and the reports vary per rep. Extract once up front.
+      shared_tei <- config$tei_dir
+      shared_ext <- config$extracted_dir
+      message("Extracting once (shared across reps)...")
+      extract(config)   # populates shared extracted_dir; idempotent
+      
       rep_dirs <- character(0)
       for (k in seq_len(n_reps)) {
             lab <- sprintf("rep_%02d", k)
+            ro  <- fs::path(base_out, lab)
             cfg <- modifyList(config, list(
-                  out_dir  = fs::path(base_out, lab),
-                  log_file = fs::path(base_out, lab, "run_log.csv"),
-                  overwrite = TRUE   # each rep must actually re-score, not skip
+                  out_dir         = ro,
+                  tei_dir         = shared_tei,   # shared — do NOT re-extract per rep
+                  extracted_dir   = shared_ext,   # shared
+                  coded_dir       = fs::path(ro, "coded"),      # per-rep: the varying scoring
+                  finalized_dir   = fs::path(ro, "finalized"),
+                  tables_dir      = fs::path(ro, "tables"),
+                  code_report     = fs::path(ro, "code_report.csv"),
+                  finalize_report = fs::path(ro, "finalize_report.csv"),
+                  verify_report   = fs::path(ro, "verify_report.csv"),
+                  tabulate_report = fs::path(ro, "tabulate_report.csv"),
+                  overwrite       = TRUE          # each rep must actually re-score
             ))
-            message("\n=== ", lab, " ===")
-            run_pipeline(cfg)
-            rep_dirs[[lab]] <- fs::path(base_out, lab)
+            message("\n=== ", lab, " (scoring) ===")
+            code(cfg); finalize(cfg)          # extraction already done + shared
+            rep_dirs[[lab]] <- ro
       }
       
       # Build the runs list and compare with axis = "rep".

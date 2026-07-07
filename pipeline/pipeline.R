@@ -24,99 +24,101 @@ source("pipeline/schema.R")   # load_coding_schema(): JSON Schema -> ellmer type
 source("pipeline/grobid_extract.R")  # extract_text_grobid(): PDF -> reading-order text
 source("pipeline/verify_evidence.R") # verify_evidence(): quote-vs-source checking
 source("pipeline/validate_record.R") # validate_record(): record vs schema contract
+source("pipeline/tabulate.R")        # tabulate(): finalized JSON -> analysis CSVs
 
 # ==== Configuration =============================================================
 
-config <- list(
-      # ---- Inputs & outputs ----------------------------------------------------
-      docs_dir       = "docs/swap",            # SWAP sources: one .pdf per doc,
-      #   OR a subfolder of PDFs per doc
-      #   (multi-PDF SWAPs). Both discovered.
-      out_dir        = "data/swap",    # per-doc JSON results land here.
-      #   CHANGE THIS per variance rep so each
-      #   rep re-scores into its own folder.
-      log_file       = "data/swap/run_log.csv",
-      
-      # ---- Prompt artifacts ----------------------------------------------------
-      # The system prompt is the concatenation of these three, in this order (per
-      # extraction_prompt.md "How to use this file"):
-      #   codebook -> concept dictionary -> extraction prompt (system-prompt portion).
-      codebook_file  = "pipeline/codebook.md",
-      dictionary_file = "pipeline/concept_dictionary.md",
-      prompt_file    = "pipeline/extraction_prompt.md",
-      schema_file    = "pipeline/schema.json",          # model-facing (generation)
-      schema_merged_file = "pipeline/schema_merged.json", # validation contract
-      
-      # ---- Model / provider ----------------------------------------------------
-      provider       = "claude",               # "gemini" | "claude"
-      model_gemini   = "gemini-2.5-pro",
-      model_claude   = "claude-sonnet-4-6",    # 4-6 or 5
-      codebook_version = "0.4",                # stamped into coding_meta
-      
-      # ---- Sampling / thinking (model-dependent — see make_chat) ---------------
-      # temperature: applied ONLY to models that accept non-default sampling.
-      #   Sonnet 4.6 and earlier accept it (use 0 for max reproducibility). Sonnet 5
-      #   / Opus 4.7+ REJECT non-default temperature/top_p/top_k with a 400 error —
-      #   make_chat omits it for those models automatically. NULL = provider default.
-      temperature    = NULL,                     # e.g. 0 for 4.6 reproducibility
-      max_tokens     = 16000,                    # cap on output tokens. NOTE: on
-      #   Sonnet 5, adaptive thinking is ON by
-      #   default and its thinking tokens count
-      #   against this — raise it (or disable
-      #   thinking) or structured output may
-      #   truncate. 4.6 doesn't have this issue.
-      thinking       = NULL,                     # Sonnet 5+ only. NULL = model default
-      #   (adaptive ON for 5). "disabled" turns
-      #   thinking off; "adaptive" keeps it on.
-      thinking_effort = NULL,                    # Sonnet 5+ only: "low"|"medium"|"high"|
-      #   "xhigh"|"max" (default high). Hold
-      #   constant + stamp for clean comparison.
-      
-      # ---- Design axes (stamped into coding_meta for the comparison harness) ----
-      design         = "single",               # single-call: orientation (summary +
-      #   evidence_index) emitted as the first
-      #   JSON field, then scoring, then
-      #   cross-check, all in one cached call.
-      ingest         = "text",                  # "text" (GROBID reading-order text) |
-      #   "pdf" (native, content_pdf_file).
-      #   text is the committed default: ~7x
-      #   cheaper, fits big docs, and is the
-      #   source of truth for evidence
-      #   verification. pdf retained for compare.
-      
-      # ---- Extraction cache locations (GROBID / .md) ---------------------------
-      # IMPORTANT: these are INDEPENDENT of out_dir. They control where the TEI
-      # cache and the canonical .md live. Keeping them CONSTANT across variance
-      # reps is what holds extraction fixed so you measure pure model noise —
-      # changing only out_dir reuses these automatically.
-      cache_dir      = NULL,                    # dir for GROBID TEI cache. NULL ->
-      #   grobid_config$cache_dir (else beside
-      #   the PDF). Set a path to keep TEI out
-      #   of the docs folder.
-      extracted_dir  = NULL,                    # dir for canonical <doc_id>.md (the text
-      #   scored AND verified against). NULL ->
-      #   a docs_extracted/ beside cache_dir.
-      #   This is the single source of truth.
-      
-      # ---- GROBID connection overrides -----------------------------------------
-      # NULL = inherit from grobid_config (url/endpoint/timeout/segmentation). Set
-      # here only to override the GROBID service for THIS run (rarely needed).
-      url            = NULL,                     # e.g. "http://localhost:8070"
-      endpoint       = NULL,                     # e.g. "/api/processFulltextDocument"
-      timeout_sec    = NULL,                     # GROBID request timeout (large SWAPs)
-      segment_sentences = NULL,                  # GROBID sentence segmentation flag
-      
-      # ---- Raw-result cache & re-run behavior ----------------------------------
-      result_cache   = NULL,                    # dir for cached raw model results
-      #   (saveRDS). NULL -> out_dir/_raw_cache.
-      #   Enables finalize_from_cache() to
-      #   re-run post-processing cost-free.
-      #   Tied to out_dir, so it's per-rep too.
-      overwrite      = FALSE                     # skip docs already coded unless TRUE.
-      #   Set TRUE (or use a fresh out_dir) for
-      #   variance reps, or they silently SKIP
-      #   already-coded docs -> fake zero variance.
-)
+# ==============================================================================
+# CONFIG CONSTRUCTOR
+# ==============================================================================
+# Build a run config from just source_dir + out_dir. Every phase directory and
+# report file DEFAULTS to a conventional location nested under out_dir, so the
+# common case is two lines:
+#
+#   config <- make_config(source_dir = "docs/swap_latest", out_dir = "data/run02")
+#
+# which yields:
+#   data/run02/tei/         (extract: TEI XML, one subdir per doc)
+#   data/run02/extracted/   (extract: canonical <doc>.md)
+#   data/run02/coded/       (code:    <doc>__<ingest>.rds raw results)
+#   data/run02/finalized/   (finalize:<doc>.json validated records)
+#   data/run02/extract_report.csv    (extract:  per-doc extraction status/size)
+#   data/run02/code_report.csv       (code:     per-doc scoring log — tokens/cost/status)
+#   data/run02/finalize_report.csv   (finalize: per-doc schema-validation pass/fail)
+#   data/run02/verify_report.csv     (verify:   per-quote evidence-vs-source similarity)
+# Records live in the phase subdirs; the four reports sit at the out_dir root, one
+# per phase, each named for the phase that writes it (<phase>_report.csv).
+#
+# ANY directory or report path can be overridden to break the convention — e.g.
+# re-finalize a PRIOR run's cache into a fresh finalized dir:
+#   make_config("docs/swap_latest", "data/run02", coded_dir = "data/run01/coded")
+# Non-path settings (model, prompt files, sampling, etc.) have defaults matching
+# the pilot config and can be overridden by name.
+make_config <- function(source_dir, out_dir,
+                        # --- per-dir / per-report overrides (NULL -> derive from out_dir) ---
+                        tei_dir = NULL, extracted_dir = NULL, coded_dir = NULL,
+                        finalized_dir = NULL,
+                        tables_dir = NULL,
+                        extract_report = NULL, code_report = NULL,
+                        finalize_report = NULL, verify_report = NULL,
+                        tabulate_report = NULL,
+                        # --- prompt artifacts ---
+                        codebook_file = "pipeline/codebook.md",
+                        dictionary_file = "pipeline/concept_dictionary.md",
+                        prompt_file = "pipeline/extraction_prompt.md",
+                        schema_file = "pipeline/schema.json",
+                        schema_merged_file = "pipeline/schema_merged.json",
+                        # --- model / provider ---
+                        provider = "claude", model_gemini = "gemini-2.5-pro",
+                        model_claude = "claude-sonnet-4-6", codebook_version = "0.4",
+                        # --- sampling / thinking ---
+                        temperature = NULL, max_tokens = 16000,
+                        thinking = NULL, thinking_effort = NULL,
+                        # --- design axes ---
+                        design = "single", ingest = "text",
+                        # --- GROBID connection overrides ---
+                        url = NULL, endpoint = NULL, timeout_sec = NULL,
+                        segment_sentences = NULL,
+                        # --- scoring mode / re-run ---
+                        scoring_mode = "sequential", overwrite = FALSE,
+                        verify_threshold = 0.85) {
+      list(
+            source_dir    = source_dir,
+            out_dir       = out_dir,
+            # Phase dirs default to conventional subdirs of out_dir; records live here.
+            tei_dir       = tei_dir       %||% path(out_dir, "tei"),
+            extracted_dir = extracted_dir %||% path(out_dir, "extracted"),
+            coded_dir     = coded_dir     %||% path(out_dir, "coded"),
+            finalized_dir = finalized_dir %||% path(out_dir, "finalized"),
+            tables_dir    = tables_dir    %||% path(out_dir, "tables"),
+            # Reports sit at the out_dir ROOT, one per phase, named for the phase that
+            # writes it: <phase>_report.csv — same vocabulary as the functions and dirs.
+            extract_report  = extract_report  %||% path(out_dir, "extract_report.csv"),
+            code_report     = code_report     %||% path(out_dir, "code_report.csv"),
+            finalize_report = finalize_report %||% path(out_dir, "finalize_report.csv"),
+            verify_report   = verify_report   %||% path(out_dir, "verify_report.csv"),
+            tabulate_report = tabulate_report %||% path(out_dir, "tabulate_report.csv"),
+            codebook_file = codebook_file, dictionary_file = dictionary_file,
+            prompt_file = prompt_file, schema_file = schema_file,
+            schema_merged_file = schema_merged_file,
+            provider = provider, model_gemini = model_gemini,
+            model_claude = model_claude, codebook_version = codebook_version,
+            temperature = temperature, max_tokens = max_tokens,
+            thinking = thinking, thinking_effort = thinking_effort,
+            design = design, ingest = ingest,
+            url = url, endpoint = endpoint, timeout_sec = timeout_sec,
+            segment_sentences = segment_sentences,
+            scoring_mode = scoring_mode, overwrite = overwrite,
+            verify_threshold = verify_threshold
+      )
+}
+
+# Default config: a working pilot config so `source("pipeline.R")` gives you
+# something to run/tweak immediately. Real runs: call make_config() with your
+# source_dir + out_dir (see above).
+config <- make_config(source_dir = "data/pilot/source",
+                      out_dir    = "data/pilot")
+
 
 # ==== API key check =============================================================
 # ellmer reads keys from environment variables — never pass them in code.
@@ -273,15 +275,11 @@ make_chat <- function(config, system_prompt) {
 # character vector — length 1 for a single-PDF document, N for a multi-PDF folder.
 prepare_document <- function(doc, config) {
       if (identical(config$ingest, "text")) {
-            # Extraction needs GROBID CONNECTION fields (url/endpoint, from grobid_config)
-            # AND the run's location fields (cache_dir/extracted_dir), so it reads/writes
-            # the same canonical .md the rest of the run uses. Merge the run's location
-            # overrides onto grobid_config rather than replacing it (replacing dropped the
-            # url and broke the connection).
-            gcfg <- modifyList(grobid_config, list(
-                  cache_dir     = config$cache_dir     %||% grobid_config$cache_dir,
-                  extracted_dir = config$extracted_dir %||% grobid_config$extracted_dir
-            ))
+            # Build the GROBID config (connection + TEI-cache/extracted-dir locations) via
+            # the single .grobid_cfg() helper, so the TEI cache resolves to the SAME place
+            # here (code phase) as in extract() — no divergent fallback that would split
+            # the cache across two directories.
+            gcfg <- .grobid_cfg(config)
             body <- if (isTRUE(doc$multi)) {
                   extract_document_multi(doc$doc_id, doc$pdf_paths, gcfg)
             } else {
@@ -358,7 +356,7 @@ extract_turn_usage <- function(chat) {
 # and scores in a single message, so the document is ingested ONCE and the
 # cacheable prefix stays stable across documents (which is what makes
 # cross-document prompt caching work). Returns status, the parsed result, the
-# orientation summary (surfaced from the JSON for the _pass1.txt sidecar / QA),
+# orientation summary (surfaced on res for R-level access),
 # and token/cache/stop_reason capture. Does NOT write to disk — caller's job.
 # Metadata merge happens in finalize_result(), keeping the cached raw result
 # pristine so the cheap, re-runnable finalize phase owns all post-processing.
@@ -404,9 +402,10 @@ code_document <- function(doc, config, system_prompt, coding_schema) {
             "ok"
       }
       
-      # The single call now emits the orientation (summary + evidence_index) as the
-      # first field of the JSON. Surface the summary text so the _pass1.txt sidecar
-      # and any QA continue to work — no separate orientation API call needed.
+      # The single call emits the orientation (summary + evidence_index) as the
+      # first field of the JSON (orientation.summary is the source of truth). We
+      # also surface the summary text on `res` for convenient R-level access (e.g.
+      # a corpus-summary helper) — it is NOT written to a separate file.
       summary_txt <- tryCatch(result$orientation$summary, error = function(e) NA_character_)
       if (is.null(summary_txt) || length(summary_txt) == 0) summary_txt <- NA_character_
       
@@ -524,7 +523,7 @@ code_document <- function(doc, config, system_prompt, coding_schema) {
 # Upsert one row into the run log, keyed by doc_id: if a row for this doc_id
 # already exists (from a prior run of the same doc), it is REPLACED, not
 # duplicated. This keeps the log at exactly one row per doc so re-running a single
-# doc (via code_one or run_pipeline) leaves a correct log — and the cost/agreement
+# doc (via code_one or the code() phase) leaves a correct log — and the cost/agreement
 # harness, which reads this log, never averages over stale or double-counted rows.
 # The replaced row is dropped wholesale; the new row wins (last-write-wins per doc).
 append_log <- function(log_file, row) {
@@ -570,13 +569,12 @@ append_log <- function(log_file, row) {
 # Cache is keyed by doc_id AND ingest mode (pdf/text results must not collide).
 
 .cache_path <- function(config, doc_id) {
-      cache_dir <- config$result_cache %||% path(config$out_dir, "_raw_cache")
-      dir_create(cache_dir)
-      path(cache_dir, paste0(doc_id, "__", config$ingest %||% "pdf", ".rds"))
+      dir_create(config$coded_dir)
+      path(config$coded_dir, paste0(doc_id, "__", config$ingest %||% "text", ".rds"))
 }
 
 # Turn a raw scored result (res, as returned by code_document) into the final
-# on-disk JSON + pass1 sidecar. This is ALL the post-processing — metadata merge,
+# on-disk JSON. This is ALL the post-processing — metadata merge,
 # array protection, truncation routing, file writes — in one re-runnable place.
 finalize_result <- function(res, config) {
       doc_id <- res$doc_id
@@ -584,7 +582,8 @@ finalize_result <- function(res, config) {
             message("  [finalize] ", doc_id, ": no result (status=", res$status, "); skipped.")
             return(invisible(FALSE))
       }
-      out_path <- path(config$out_dir, paste0(doc_id, ".json"))
+      dir_create(config$finalized_dir)
+      out_path <- path(config$finalized_dir, paste0(doc_id, ".json"))
       
       # ---- normalize evidence shape ----------------------------------------------
       # Single-call sometimes emits evidence as a struct-of-arrays
@@ -615,143 +614,93 @@ finalize_result <- function(res, config) {
       )
       if (is.null(result$document_meta)) result$document_meta <- list()
       result$document_meta$document_id <- doc_id
-      # Pipeline-owned, authoritative physical page count (from pdftools::pdf_length
-      # at scoring time). Overrides any value the model may have guessed. NA only if
-      # the PDF couldn't be read.
-      if (!is.null(res$page_count) && !is.na(res$page_count)) {
-            result$document_meta$page_count <- as.integer(res$page_count)
+      # Pipeline-owned, authoritative physical page count. Normally captured at scoring
+      # time (res$page_count). If the cached result predates that capture (e.g. an .rds
+      # from an older pipeline), fall back to computing it now from the source PDF(s)
+      # under source_dir — so re-finalizing old records still gets a valid page_count.
+      pc <- res$page_count
+      if (is.null(pc) || is.na(pc)) {
+            pc <- tryCatch({
+                  src <- if (!is.null(config$source_dir)) {
+                        # single file <doc>.pdf, or a multi-PDF folder <doc>/
+                        f <- path(config$source_dir, paste0(doc_id, ".pdf"))
+                        d <- path(config$source_dir, doc_id)
+                        if (file_exists(f)) f else if (dir_exists(d)) as.character(dir_ls(d, glob = "*.pdf")) else character(0)
+                  } else character(0)
+                  if (length(src) == 0) NA_integer_
+                  else sum(vapply(src, pdftools::pdf_length, integer(1)))
+            }, error = function(e) NA_integer_)
+      }
+      if (!is.null(pc) && !is.na(pc)) {
+            result$document_meta$page_count <- as.integer(pc)
       }
       
       # ---- array protection + write ----------------------------------------------
       result_out <- .protect_arrays(result)
       if (identical(res$status, "truncated")) {
-            write_json(result_out, path(config$out_dir, paste0(doc_id, ".truncated.json")),
+            write_json(result_out, path(config$finalized_dir, paste0(doc_id, ".truncated.json")),
                        auto_unbox = TRUE, pretty = TRUE)
       } else {
             write_json(result_out, out_path, auto_unbox = TRUE, pretty = TRUE)
-      }
-      if (!is.na(res$summary %||% NA_character_)) {
-            write_file(res$summary, path(config$out_dir, paste0(doc_id, "_pass1.txt")))
       }
       
       # ---- schema validation (codebook §7) ---------------------------------------
       # Validate the finalized record against schema_merged.json (the contract):
       # per-element score ranges, required fields, correct types. Flag-not-block —
       # the record is already written; a failure is surfaced for review, not
-      # discarded. Runs at zero API cost and is re-run by finalize_from_cache().
+      # discarded. Runs at zero API cost and is re-run by finalize().
+      #
+      # We append a row for EVERY doc (passed or failed), so the report is a COMPLETE
+      # per-run picture that reflects current state — not a failures-only, append-
+      # forever file that can show stale failures a later fix has already resolved.
+      # The finalize() phase clears this file once at the start of the run (see
+      # .reset_validation_report), so each run's report reflects only that run.
       v <- validate_record(result_out, config$schema_merged_file)
+      vlog <- config$finalize_report %||% path(config$finalized_dir, "finalize_report.csv")
+      readr::write_csv(
+            data.frame(doc_id  = doc_id,
+                       passed  = isTRUE(v$ok),
+                       n_errors = if (isTRUE(v$ok)) 0L else v$n_errors,
+                       errors  = if (isTRUE(v$ok)) "" else paste(v$errors, collapse = " | "),
+                       stringsAsFactors = FALSE),
+            vlog, append = file_exists(vlog))
       if (isFALSE(v$ok)) {
             message("  [validate] ", doc_id, " FAILED schema validation (",
                     v$n_errors, " issue", if (v$n_errors != 1) "s" else "", "): ",
                     substr(paste(v$errors, collapse = " | "), 1, 200))
-            # Append to a per-run validation log so failures are auditable in bulk.
-            vlog <- path(config$out_dir, "validation_failures.csv")
-            readr::write_csv(
-                  data.frame(doc_id = doc_id, n_errors = v$n_errors,
-                             errors = paste(v$errors, collapse = " | "),
-                             stringsAsFactors = FALSE),
-                  vlog, append = file_exists(vlog))
-      } else if (isTRUE(v$ok)) {
+      } else {
             message("  [validate] ", doc_id, " ok")
       }
       
       invisible(TRUE)
 }
 
-# Re-run finalize over all cached raw results for the current ingest mode WITHOUT
-# re-querying the model. Use this after fixing a post-processing bug: fix code,
-# call finalize_from_cache(config), get corrected JSON for free.
-finalize_from_cache <- function(config) {
-      cache_dir <- config$result_cache %||% path(config$out_dir, "_raw_cache")
-      if (!dir_exists(cache_dir)) stop("No cache dir: ", cache_dir)
-      mode <- config$ingest %||% "pdf"
-      rds <- dir_ls(cache_dir, glob = paste0("*__", mode, ".rds"))
-      if (length(rds) == 0) {
-            message("No cached results for ingest='", mode, "' in ", cache_dir); return(invisible())
-      }
-      message("Finalizing ", length(rds), " cached results (ingest=", mode, ")...")
-      for (f in rds) {
-            res <- readRDS(f)
-            ok <- tryCatch(finalize_result(res, config),
-                           error = function(e) { message("  [finalize ERROR] ", res$doc_id,
-                                                         ": ", conditionMessage(e)); FALSE })
-            message("  ", if (isTRUE(ok)) "[ok] " else "[--] ", res$doc_id)
-      }
-      invisible()
-}
 
-# ==== Single-document entry point ===============================================
-# Code ONE document end to end (score -> cache -> finalize), returning the raw
-# result invisibly. Handy for iterating, spot-checks, and the cache test (call it
-# twice in a row and inspect the second result's cache_read). Respects config$
-# config$ingest (pdf|text) like run_pipeline does. `doc_path` may be a single
-# .pdf file OR a folder of PDFs (a multi-PDF document).
-# Set return_res=TRUE to get the result back for inspecting tokens/cache fields.
-code_one <- function(doc_path, config, return_res = TRUE) {
-      check_api_key(config$provider)
-      .check_grobid_ready(config)
-      dir_create(config$out_dir)
-      system_prompt <- build_system_prompt(config)
-      coding_schema <- load_coding_schema(config$schema_file)
-      
-      # Resolve the path to a document descriptor (single-PDF or multi-PDF folder).
-      doc <- if (dir_exists(doc_path)) {
-            pdfs <- sort(dir_ls(doc_path, glob = "*.pdf"))
-            list(doc_id = path_file(doc_path), pdf_paths = as.character(pdfs), multi = TRUE)
-      } else {
-            list(doc_id = path_ext_remove(path_file(doc_path)),
-                 pdf_paths = as.character(doc_path), multi = FALSE)
-      }
-      doc_id <- doc$doc_id
-      
-      message("[code] ", doc_id, " (design=", config$design %||% "single",
-              ", ingest=", config$ingest %||% "text",
-              if (isTRUE(doc$multi)) paste0(", ", length(doc$pdf_paths), " parts") else "",
-              ") ... ", appendLF = FALSE)
-      t0  <- Sys.time()
-      res <- code_document(doc, config, system_prompt, coding_schema)
-      dt  <- round(as.numeric(difftime(Sys.time(), t0, units = "secs")), 1)
-      message(res$status, " (", dt, "s)")
-      
-      if (!is.null(res$result)) saveRDS(res, .cache_path(config, doc_id))
-      finalize_result(res, config)
-      
-      # Upsert this doc's row into the SAME run log run_pipeline uses, so a single-doc
-      # re-run updates the shared log in place (one row per doc) — no manual merging,
-      # and the cost/agreement harness reads correct, non-duplicated data. Identical
-      # schema to run_pipeline's log row.
-      append_log(config$log_file, list(
-            doc_id     = res$doc_id,
-            status     = res$status,
-            error      = substr(res$error %||% NA_character_, 1, 300),
-            tokens_in  = res$tokens_in %||% NA_integer_,
-            tokens_out = res$tokens_out %||% NA_integer_,
-            cache_creation = res$cache_creation %||% NA_integer_,
-            cache_read     = res$cache_read %||% NA_integer_,
-            stop_reason    = res$stop_reason %||% NA_character_,
-            seconds    = dt,
-            provider   = config$provider,
-            timestamp  = format(Sys.time(), "%Y-%m-%d %H:%M:%S")
-      ))
-      
-      # Print the token/cache breakdown so the cache test is one call.
-      message(sprintf("  tokens_in=%s tokens_out=%s cache_creation=%s cache_read=%s",
-                      res$tokens_in %||% NA, res$tokens_out %||% NA,
-                      res$cache_creation %||% NA, res$cache_read %||% NA))
-      if (return_res) invisible(res) else invisible(NULL)
-}
-
-# ==== Bulk run (sequential) =====================================================
-# Sequential by design — matches the localhost-Docker stability lessons and keeps
-# rate-limiting / debugging tractable. Checkpoints each doc as it finishes.
+# ==============================================================================
+# HORIZONTAL PIPELINE PHASES
+# ==============================================================================
+# The corpus is processed one PHASE at a time (not one doc at a time). Each phase
+# reads the previous phase's output directory and writes its own, so intermediate
+# results are saved after every step and every phase is independently re-runnable:
+#
+#   source_dir  --extract()-->  extracted_dir  --code()-->  coded_dir
+#     (.pdf)                       (.md)                      (.rds)
+#                                                               |
+#                              finalized_dir  <--finalize()----+
+#                                (.json)          |
+#                                                 +--verify()--> verification CSV
+#
+#   run_all(config) runs extract -> code -> finalize -> verify in sequence.
+#
+# All phases share ONE config and are idempotent: with overwrite=FALSE they SKIP
+# docs whose output already exists (resumable after an interruption); overwrite=
+# TRUE forces re-processing.
+# ==============================================================================
 
 # Fail-fast GROBID readiness guard. Only relevant for ingest="text" (the GROBID
 # path). Does NOT launch anything and creates NO Docker dependency: it runs the
 # health check ONLY if grobid_docker.R has been sourced (grobid_is_alive exists).
-# If that module isn't loaded, this is a silent no-op — the pipeline still works,
-# you just don't get the early warning. Catches the "forgot to start GROBID" and
-# "GROBID died mid-project" cases before the scoring loop wastes time failing per
-# doc.
+# If that module isn't loaded, this is a silent no-op.
 .check_grobid_ready <- function(config) {
       if (!identical(config$ingest, "text")) return(invisible(TRUE))
       if (!exists("grobid_is_alive")) return(invisible(TRUE))  # docker module not sourced
@@ -766,108 +715,292 @@ code_one <- function(doc_path, config, return_res = TRUE) {
       invisible(TRUE)
 }
 
-run_pipeline <- function(config) {
+# Build the grobid config (connection + phase dir locations) from the run config.
+# Build the grobid config (connection + phase dir locations) from the run config.
+# The TEI XML goes to tei_dir (a first-class phase output); grobid_extract.R's
+# internal field for that location is `cache_dir`, so we map tei_dir -> cache_dir.
+.grobid_cfg <- function(config) {
+      modifyList(grobid_config, list(
+            cache_dir     = config$tei_dir %||%
+                  path(path_dir(config$extracted_dir), "tei"),
+            extracted_dir = config$extracted_dir,
+            url           = config$url        %||% grobid_config$url,
+            endpoint      = config$endpoint   %||% grobid_config$endpoint,
+            timeout_sec   = config$timeout_sec %||% grobid_config$timeout_sec,
+            segment_sentences = config$segment_sentences %||% grobid_config$segment_sentences
+      ))
+}
+
+# ---- PHASE 1: extract ---------------------------------------------------------
+# source_dir (.pdf files and/or multi-PDF folders) -> extracted_dir/<doc>.md
+# Sequential (GROBID is not safe to hit concurrently). Per-doc errors (e.g. a
+# GROBID timeout) are caught so one bad doc never halts corpus extraction; failed
+# docs appear in the returned report with status="error". Idempotent: skips docs
+# whose .md already exists unless overwrite=TRUE.
+extract <- function(config) {
+      .check_grobid_ready(config)
+      dir_create(config$extracted_dir)
+      dir_create(config$tei_dir %||% path(path_dir(config$extracted_dir), "tei"))
+      gcfg <- .grobid_cfg(config)
+      docs <- discover_documents(config$source_dir)
+      if (length(docs) == 0) stop("No documents (.pdf or PDF folders) in ",
+                                  config$source_dir)
+      n_multi <- sum(vapply(docs, function(d) isTRUE(d$multi), logical(1)))
+      message("[extract] ", length(docs), " documents (", n_multi,
+              " multi-PDF) -> ", config$tei_dir, " (.xml) + ",
+              config$extracted_dir, " (.md)")
+      
+      rows <- lapply(docs, function(doc) {
+            md_path <- path(config$extracted_dir, paste0(doc$doc_id, ".md"))
+            if (file_exists(md_path) && !isTRUE(config$overwrite)) {
+                  message("  [skip] ", doc$doc_id, " (.md exists)")
+                  return(data.frame(doc_id = doc$doc_id, status = "skipped",
+                                    chars = NA_integer_, stringsAsFactors = FALSE))
+            }
+            message("  [", doc$doc_id, "]",
+                    if (isTRUE(doc$multi)) paste0(" (", length(doc$pdf_paths), " parts)")
+                    else "", " ... ", appendLF = FALSE)
+            tryCatch({
+                  txt <- if (isTRUE(doc$multi))
+                        extract_document_multi(doc$doc_id, doc$pdf_paths, gcfg)
+                  else  extract_text_grobid(doc$pdf_paths[[1]], gcfg)
+                  message(nchar(txt), " chars")
+                  data.frame(doc_id = doc$doc_id, status = "ok",
+                             chars = nchar(txt), stringsAsFactors = FALSE)
+            }, error = function(e) {
+                  message("FAILED: ", conditionMessage(e))
+                  data.frame(doc_id = doc$doc_id, status = "error",
+                             chars = NA_integer_, stringsAsFactors = FALSE)
+            })
+      })
+      report <- do.call(rbind, rows)
+      # Persist the extraction report so extraction outcomes are recoverable from
+      # disk — essential when extract and code are separated in time (extract the
+      # corpus now, batch-score later): come back and see which docs failed to
+      # extract before committing to scoring. Overwrites each run (current state).
+      erp <- config$extract_report %||% path(config$out_dir %||% config$extracted_dir,
+                                             "extract_report.csv")
+      tryCatch(write_csv(report, erp), error = function(e)
+            message("  (could not write extract_report: ", conditionMessage(e), ")"))
+      n_err <- sum(report$status == "error")
+      message("[extract] done: ", sum(report$status == "ok"), " ok, ",
+              sum(report$status == "skipped"), " skipped, ", n_err, " failed.")
+      if (n_err > 0) message("  failed: ",
+                             paste(report$doc_id[report$status == "error"], collapse = ", "))
+      invisible(report)
+}
+
+# ---- PHASE 2: code ------------------------------------------------------------
+# extracted_dir (.md, via discover_documents on source_dir) -> coded_dir/<doc>.rds
+# Sends each doc to the model, writes the RAW result (+ token/cache/stop_reason
+# metadata) as .rds. Does NOT finalize — that's a separate phase. Per-doc errors
+# are caught and logged; the run continues. Idempotent: skips docs whose .rds
+# exists unless overwrite=TRUE. Sequential now; batch is a stub (see code_batch).
+code <- function(config) {
+      if (identical(config$scoring_mode %||% "sequential", "batch")) {
+            return(code_batch(config))
+      }
       check_api_key(config$provider)
       .check_grobid_ready(config)
-      dir_create(config$out_dir)
+      dir_create(config$coded_dir)
+      system_prompt <- build_system_prompt(config)
+      coding_schema <- load_coding_schema(config$schema_file)
+      docs <- discover_documents(config$source_dir)
+      message("[code] ", length(docs), " documents -> ", config$coded_dir,
+              " (model=", config[[paste0("model_", config$provider)]], ")")
       
+      for (doc in docs) {
+            rds_path <- .cache_path(config, doc$doc_id)
+            if (file_exists(rds_path) && !isTRUE(config$overwrite)) {
+                  message("  [skip] ", doc$doc_id, " (.rds exists)"); next
+            }
+            message("  [", doc$doc_id, "]",
+                    if (isTRUE(doc$multi)) paste0(" (", length(doc$pdf_paths), " parts)")
+                    else "", " ... ", appendLF = FALSE)
+            t0 <- Sys.time()
+            tryCatch({
+                  res <- code_document(doc, config, system_prompt, coding_schema)
+                  dt  <- round(as.numeric(difftime(Sys.time(), t0, units = "secs")), 1)
+                  # Persist the raw result (even on non-ok status, if a result
+                  # exists) so finalize/inspection can use it.
+                  if (!is.null(res$result)) saveRDS(res, rds_path)
+                  .log_code_row(config, res, dt)
+                  message(res$status, " (", dt, "s)",
+                          if (!identical(res$status, "ok"))
+                                paste0(" >> ", res$error %||% "") else "")
+            }, error = function(e) {
+                  dt <- round(as.numeric(difftime(Sys.time(), t0, units = "secs")), 1)
+                  message("FAILED (", dt, "s) >> ", substr(conditionMessage(e), 1, 200),
+                          "\n         [skipped; continuing]")
+                  .log_code_row(config, list(doc_id = doc$doc_id, status = "doc_error",
+                                             error = conditionMessage(e)), dt)
+            })
+      }
+      message("[code] done. Raw results in ", config$coded_dir,
+              "; run finalize(config) next.")
+      invisible(TRUE)
+}
+
+# Batch scoring STUB — the horizontal cost-optimized path (Anthropic Message
+# Batches API via ellmer's batch_chat_structured(), ~50% cheaper, async up to
+# 24h). To be fleshed out: build one request per doc from the same system_prompt +
+# singlecall_instructions + schema, submit as a batch, persist the batch state,
+# and on completion write each result to coded_dir/<doc>.rds in the SAME shape
+# code_document() returns — so finalize()/verify() consume batch and sequential
+# output identically. Set config$scoring_mode="batch" to route here.
+code_batch <- function(config) {
+      stop("Batch scoring not yet implemented. Use scoring_mode='sequential' for ",
+           "now. (Planned: ellmer batch_chat_structured() -> coded_dir/*.rds, ",
+           "consumed by finalize() unchanged.)")
+}
+
+# Shared log-row writer for the code phase (upsert keyed by doc_id).
+.log_code_row <- function(config, res, dt) {
+      append_log(config$code_report, list(
+            doc_id     = res$doc_id,
+            status     = res$status,
+            error      = substr(res$error %||% NA_character_, 1, 300),
+            tokens_in  = res$tokens_in %||% NA_integer_,
+            tokens_out = res$tokens_out %||% NA_integer_,
+            cache_creation = res$cache_creation %||% NA_integer_,
+            cache_read     = res$cache_read %||% NA_integer_,
+            stop_reason    = res$stop_reason %||% NA_character_,
+            seconds    = dt,
+            provider   = config$provider,
+            timestamp  = format(Sys.time(), "%Y-%m-%d %H:%M:%S")
+      ))
+}
+
+# ---- PHASE 3: finalize --------------------------------------------------------
+# coded_dir/<doc>.rds -> finalized_dir/<doc>.json (+ finalize_report.csv)
+# Normalizes evidence shape, merges metadata, protects arrays, writes final JSON,
+# and validates against the merged schema contract. No API cost — fully
+# re-runnable after any post-processing fix. Reads all .rds for the current
+# ingest mode. Idempotent via overwrite (re-finalizes existing JSON if TRUE).
+finalize <- function(config) {
+      if (!dir_exists(config$coded_dir)) stop("No coded_dir: ", config$coded_dir)
+      dir_create(config$finalized_dir)
+      mode <- config$ingest %||% "text"
+      rds <- dir_ls(config$coded_dir, glob = paste0("*__", mode, ".rds"))
+      if (length(rds) == 0) {
+            message("[finalize] no coded results for ingest='", mode, "' in ",
+                    config$coded_dir); return(invisible())
+      }
+      message("[finalize] ", length(rds), " coded results -> ", config$finalized_dir)
+      # Start a fresh validation report for THIS run (see per-doc writes below).
+      vlog <- config$finalize_report %||% path(config$finalized_dir, "finalize_report.csv")
+      if (file_exists(vlog)) file_delete(vlog)
+      val_rows <- list()
+      for (f in rds) {
+            res <- readRDS(f)
+            json_path <- path(config$finalized_dir, paste0(res$doc_id, ".json"))
+            skip_write <- file_exists(json_path) && !isTRUE(config$overwrite)
+            # Always finalize_result unless the JSON already exists AND we're not
+            # overwriting — BUT even when we skip the (re)write, we still validate
+            # the existing record and record a report row, so finalize_report.csv
+            # reflects the CURRENT STATE OF THE WHOLE finalized set, not just the
+            # docs this run happened to rewrite.
+            if (skip_write) {
+                  v <- validate_json_file(json_path, config$schema_merged_file)
+                  val_rows[[length(val_rows) + 1]] <- data.frame(
+                        doc_id = res$doc_id, passed = isTRUE(v$ok),
+                        n_errors = if (isTRUE(v$ok)) 0L else (v$n_errors %||% NA_integer_),
+                        errors = if (isTRUE(v$ok)) "" else paste(v$errors, collapse = " | "),
+                        stringsAsFactors = FALSE)
+                  message("  [skip] ", res$doc_id, " (.json exists; validated)")
+                  next
+            }
+            ok <- tryCatch(finalize_result(res, config),
+                           error = function(e) { message("  [finalize ERROR] ",
+                                                         res$doc_id, ": ", conditionMessage(e)); FALSE })
+            message("  ", if (isTRUE(ok)) "[ok] " else "[--] ", res$doc_id)
+      }
+      # finalize_result() writes its own report rows for docs it (re)finalized;
+      # append the rows we collected for skipped-but-validated docs so the report
+      # is complete. (Read-back + re-append keeps a single consistent file.)
+      if (length(val_rows) > 0) {
+            skipped_df <- do.call(rbind, val_rows)
+            existing <- if (file_exists(vlog))
+                  tryCatch(readr::read_csv(vlog, show_col_types = FALSE),
+                           error = function(e) NULL) else NULL
+            readr::write_csv(if (is.null(existing)) skipped_df
+                             else rbind(existing, skipped_df), vlog)
+      }
+      message("[finalize] done. Final records in ", config$finalized_dir)
+      invisible(TRUE)
+}
+
+# ---- PHASE 4: verify ----------------------------------------------------------
+# finalized_dir/<doc>.json + extracted_dir/<doc>.md -> verify_report.csv
+# Checks every evidence quote against the canonical source text (the same .md the
+# model scored). No API cost. Thin wrapper over verify_corpus(), which reads the
+# coded .rds cache and the .md source.
+verify <- function(config, threshold = NULL) {
+      threshold <- threshold %||% config$verify_threshold %||% 0.85
+      message("[verify] checking evidence quotes against source .md ...")
+      verify_corpus(config, threshold = threshold)
+}
+
+# ---- run_all: the four phases in sequence -------------------------------------
+# extract -> code -> finalize -> verify, sharing one config. Each phase saves its
+# intermediate output, so you can also run them individually or resume after an
+# interruption. For batch scoring, set config$scoring_mode="batch" (stub for now).
+run_all <- function(config, do_verify = TRUE, do_tabulate = TRUE) {
+      message("==== run_all: extract -> code -> finalize",
+              if (do_verify) " -> verify" else "",
+              if (do_tabulate) " -> tabulate" else "", " ====")
+      extract(config)
+      code(config)
+      finalize(config)
+      if (do_verify) verify(config)
+      if (do_tabulate) tabulate(config)
+      message("==== run_all complete ====")
+      invisible(read_csv(config$code_report, show_col_types = FALSE))
+}
+
+# ---- code_one: single-doc convenience (iteration / spot-checks) ---------------
+# Runs one doc through code + finalize (not the whole corpus). `doc_path` may be a
+# single .pdf or a folder of PDFs. Upserts the log row. For quick checks and the
+# cache test (call twice, inspect cache_read on the second).
+code_one <- function(doc_path, config, return_res = TRUE) {
+      check_api_key(config$provider)
+      .check_grobid_ready(config)
+      dir_create(config$coded_dir)
       system_prompt <- build_system_prompt(config)
       coding_schema <- load_coding_schema(config$schema_file)
       
-      docs <- discover_documents(config$docs_dir)
-      if (length(docs) == 0) stop("No documents (.pdf files or PDF folders) found in ",
-                                  config$docs_dir)
-      n_multi <- sum(vapply(docs, function(d) isTRUE(d$multi), logical(1)))
-      message("Found ", length(docs), " documents (",
-              n_multi, " multi-PDF). Provider: ", config$provider)
-      
-      for (doc in docs) {
-            doc_id   <- doc$doc_id
-            out_path <- path(config$out_dir, paste0(doc_id, ".json"))
-            
-            if (file_exists(out_path) && !config$overwrite) {
-                  message("[skip] ", doc_id, " (already coded)")
-                  next
-            }
-            
-            message("[code] ", doc_id,
-                    if (isTRUE(doc$multi)) paste0(" (", length(doc$pdf_paths),
-                                                  " parts)") else "",
-                    " ... ", appendLF = FALSE)
-            t0  <- Sys.time()
-            
-            # Per-doc isolation: ANY failure in this doc (GROBID timeout or other
-            # extraction error, an unexpected crash in scoring/finalize) is caught
-            # here, logged as a failed row, and the loop CONTINUES to the next doc.
-            # One bad document never kills a corpus run. code_document already
-            # handles API errors gracefully (status="call_error"); this catches the
-            # errors that throw instead of returning — notably extraction timeouts.
-            doc_ok <- tryCatch({
-                  res <- code_document(doc, config, system_prompt, coding_schema)
-                  dt  <- round(as.numeric(difftime(Sys.time(), t0, units = "secs")), 1)
-                  
-                  # Cache the raw result BEFORE any post-processing, so finalize is
-                  # re-runnable and a finalize bug never wastes this paid scoring.
-                  if (!is.null(res$result)) {
-                        saveRDS(res, .cache_path(config, doc_id))
-                  }
-                  
-                  # Finalize: metadata merge + array protection + JSON write + pass1
-                  # sidecar. Re-runnable later via finalize_from_cache().
-                  finalize_result(res, config)
-                  
-                  append_log(config$log_file, list(
-                        doc_id     = res$doc_id,
-                        status     = res$status,
-                        error      = substr(res$error %||% NA_character_, 1, 300),
-                        tokens_in  = res$tokens_in %||% NA_integer_,
-                        tokens_out = res$tokens_out %||% NA_integer_,
-                        cache_creation = res$cache_creation %||% NA_integer_,
-                        cache_read     = res$cache_read %||% NA_integer_,
-                        stop_reason    = res$stop_reason %||% NA_character_,
-                        seconds    = dt,
-                        provider   = config$provider,
-                        timestamp  = format(Sys.time(), "%Y-%m-%d %H:%M:%S")
-                  ))
-                  
-                  if (res$status == "ok") {
-                        message(res$status, " (", dt, "s)")
-                  } else if (res$status == "truncated") {
-                        message("truncated (", dt, "s)  >> structured call hit ",
-                                "max_tokens; record is incomplete. Raise max_tokens ",
-                                "and re-run this doc.")
-                  } else {
-                        message(res$status, " (", dt, "s)  >> ",
-                                res$error %||% "(no error message)")
-                  }
-                  TRUE
-            }, error = function(e) {
-                  # Uncaught failure (e.g. GROBID timeout throwing from extraction).
-                  # Log it as a failed doc so the run's log is complete, then move on.
-                  dt <- round(as.numeric(difftime(Sys.time(), t0, units = "secs")), 1)
-                  msg <- conditionMessage(e)
-                  message("FAILED (", dt, "s)  >> ", substr(msg, 1, 200),
-                          "\n         [skipped; continuing to next document]")
-                  tryCatch(append_log(config$log_file, list(
-                        doc_id     = doc_id,
-                        status     = "doc_error",
-                        error      = substr(msg, 1, 300),
-                        tokens_in  = NA_integer_, tokens_out = NA_integer_,
-                        cache_creation = NA_integer_, cache_read = NA_integer_,
-                        stop_reason = NA_character_,
-                        seconds    = dt,
-                        provider   = config$provider,
-                        timestamp  = format(Sys.time(), "%Y-%m-%d %H:%M:%S")
-                  )), error = function(e2) NULL)  # never let logging failure crash
-                  FALSE
-            })
+      doc <- if (dir_exists(doc_path)) {
+            list(doc_id = path_file(doc_path),
+                 pdf_paths = as.character(sort(dir_ls(doc_path, glob = "*.pdf"))),
+                 multi = TRUE)
+      } else {
+            list(doc_id = path_ext_remove(path_file(doc_path)),
+                 pdf_paths = as.character(doc_path), multi = FALSE)
       }
       
-      message("Run complete. Log: ", config$log_file)
-      invisible(read_csv(config$log_file, show_col_types = FALSE))
+      message("[code_one] ", doc$doc_id, " (ingest=", config$ingest %||% "text",
+              if (isTRUE(doc$multi)) paste0(", ", length(doc$pdf_paths), " parts") else "",
+              ") ... ", appendLF = FALSE)
+      t0  <- Sys.time()
+      res <- code_document(doc, config, system_prompt, coding_schema)
+      dt  <- round(as.numeric(difftime(Sys.time(), t0, units = "secs")), 1)
+      message(res$status, " (", dt, "s)")
+      
+      if (!is.null(res$result)) saveRDS(res, .cache_path(config, doc$doc_id))
+      finalize_result(res, config)
+      .log_code_row(config, res, dt)
+      
+      message(sprintf("  tokens_in=%s tokens_out=%s cache_creation=%s cache_read=%s",
+                      res$tokens_in %||% NA, res$tokens_out %||% NA,
+                      res$cache_creation %||% NA, res$cache_read %||% NA))
+      if (return_res) invisible(res) else invisible(NULL)
 }
 
-# ==== Entry point ===============================================================
-
-# log <- run_pipeline(config)
-# print(log)
+# ---- Example -----------------------------------------------------------------
+# source("pipeline/grobid_docker.R"); ensure_grobid()   # start GROBID
+# extract(config)      # PDFs  -> .md
+# code(config)         # .md   -> .rds   (raw model results)
+# finalize(config)     # .rds  -> .json  (validated final records)
+# verify(config)       # .json -> verify_report.csv
+# # or all at once:
+# run_all(config)

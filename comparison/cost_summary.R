@@ -1,5 +1,5 @@
 # ==== Cost Summary (per run) ====================================================
-# Reads each run's run_log.csv and computes per-document token usage and dollar
+# Reads each run's code_report.csv and computes per-document token usage and dollar
 # cost, so cost sits beside agreement/verification in the comparison report —
 # answering "how much quality for how much money" that drives the pdf/text and
 # single/two-pass decisions. Uses the token/cache breakdown the pipeline logs.
@@ -38,8 +38,8 @@
                            cache_write_mult = 1.25, cache_read_mult = 0.10)
 )
 
-# runs: named list of run dirs (each expected to contain run_log.csv).
-cost_by_run <- function(runs, rates = .RATES, log_name = "run_log.csv") {
+# runs: named list of run dirs (each expected to contain code_report.csv).
+cost_by_run <- function(runs, rates = .RATES, log_name = "code_report.csv") {
       rows <- lapply(names(runs), function(lab) {
             lp <- fs::path(runs[[lab]], log_name)
             n_json <- length(fs::dir_ls(runs[[lab]], glob = "*.json"))
