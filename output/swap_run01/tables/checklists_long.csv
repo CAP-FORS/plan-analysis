@@ -1,0 +1,1706 @@
+doc_id,juris,doc_type,year,draft,jurisdiction,document_type,page_count,theme,checklist,category,present,n_evidence
+AK_SWAP_2025,AK,SWAP,2025,FALSE,Alaska,SWAP,NA,concepts,adaptive_capacity_components,demography,TRUE,1
+AK_SWAP_2025,AK,SWAP,2025,FALSE,Alaska,SWAP,NA,concepts,adaptive_capacity_components,distribution,TRUE,1
+AK_SWAP_2025,AK,SWAP,2025,FALSE,Alaska,SWAP,NA,concepts,adaptive_capacity_components,movement,TRUE,1
+AK_SWAP_2025,AK,SWAP,2025,FALSE,Alaska,SWAP,NA,concepts,adaptive_capacity_components,evolutionary_potential,FALSE,0
+AK_SWAP_2025,AK,SWAP,2025,FALSE,Alaska,SWAP,NA,concepts,adaptive_capacity_components,ecological_dependencies,TRUE,1
+AK_SWAP_2025,AK,SWAP,2025,FALSE,Alaska,SWAP,NA,concepts,adaptive_capacity_components,abiotic_niche,TRUE,1
+AK_SWAP_2025,AK,SWAP,2025,FALSE,Alaska,SWAP,NA,concepts,adaptive_capacity_components,life_history,TRUE,1
+AK_SWAP_2025,AK,SWAP,2025,FALSE,Alaska,SWAP,NA,context,management_scale,local,TRUE,1
+AK_SWAP_2025,AK,SWAP,2025,FALSE,Alaska,SWAP,NA,context,management_scale,site,TRUE,1
+AK_SWAP_2025,AK,SWAP,2025,FALSE,Alaska,SWAP,NA,context,management_scale,watershed,TRUE,1
+AK_SWAP_2025,AK,SWAP,2025,FALSE,Alaska,SWAP,NA,context,management_scale,city,FALSE,0
+AK_SWAP_2025,AK,SWAP,2025,FALSE,Alaska,SWAP,NA,context,management_scale,county,FALSE,0
+AK_SWAP_2025,AK,SWAP,2025,FALSE,Alaska,SWAP,NA,context,management_scale,within_state_region,TRUE,1
+AK_SWAP_2025,AK,SWAP,2025,FALSE,Alaska,SWAP,NA,context,management_scale,state,TRUE,1
+AK_SWAP_2025,AK,SWAP,2025,FALSE,Alaska,SWAP,NA,context,management_scale,multistate,TRUE,1
+AK_SWAP_2025,AK,SWAP,2025,FALSE,Alaska,SWAP,NA,context,management_scale,national,TRUE,1
+AK_SWAP_2025,AK,SWAP,2025,FALSE,Alaska,SWAP,NA,context,management_scale,transnational,TRUE,1
+AK_SWAP_2025,AK,SWAP,2025,FALSE,Alaska,SWAP,NA,context,management_scale,ecosystem,TRUE,1
+AK_SWAP_2025,AK,SWAP,2025,FALSE,Alaska,SWAP,NA,context,management_scale,ecoregion,TRUE,1
+AK_SWAP_2025,AK,SWAP,2025,FALSE,Alaska,SWAP,NA,context,management_scale,province,FALSE,0
+AK_SWAP_2025,AK,SWAP,2025,FALSE,Alaska,SWAP,NA,context,management_scale,section,FALSE,0
+AK_SWAP_2025,AK,SWAP,2025,FALSE,Alaska,SWAP,NA,context,management_scale,subsection,FALSE,0
+AK_SWAP_2025,AK,SWAP,2025,FALSE,Alaska,SWAP,NA,context,management_scale,lake,FALSE,0
+AK_SWAP_2025,AK,SWAP,2025,FALSE,Alaska,SWAP,NA,context,management_scale,river,FALSE,0
+AK_SWAP_2025,AK,SWAP,2025,FALSE,Alaska,SWAP,NA,context,management_scale,district,FALSE,0
+AK_SWAP_2025,AK,SWAP,2025,FALSE,Alaska,SWAP,NA,context,biological_unit_components,species,TRUE,1
+AK_SWAP_2025,AK,SWAP,2025,FALSE,Alaska,SWAP,NA,context,biological_unit_components,population,TRUE,1
+AK_SWAP_2025,AK,SWAP,2025,FALSE,Alaska,SWAP,NA,context,biological_unit_components,habitat,TRUE,1
+AK_SWAP_2025,AK,SWAP,2025,FALSE,Alaska,SWAP,NA,context,biological_unit_components,ecosystem,TRUE,1
+AK_SWAP_2025,AK,SWAP,2025,FALSE,Alaska,SWAP,NA,context,biological_unit_components,community,TRUE,1
+AK_SWAP_2025,AK,SWAP,2025,FALSE,Alaska,SWAP,NA,context,biological_unit_components,genotype_phenotype,FALSE,0
+AL_SWAP_2015,AL,SWAP,2015,FALSE,Alabama,SWAP,491,concepts,adaptive_capacity_components,demography,TRUE,1
+AL_SWAP_2015,AL,SWAP,2015,FALSE,Alabama,SWAP,491,concepts,adaptive_capacity_components,distribution,TRUE,1
+AL_SWAP_2015,AL,SWAP,2015,FALSE,Alabama,SWAP,491,concepts,adaptive_capacity_components,movement,TRUE,1
+AL_SWAP_2015,AL,SWAP,2015,FALSE,Alabama,SWAP,491,concepts,adaptive_capacity_components,evolutionary_potential,TRUE,1
+AL_SWAP_2015,AL,SWAP,2015,FALSE,Alabama,SWAP,491,concepts,adaptive_capacity_components,ecological_dependencies,FALSE,0
+AL_SWAP_2015,AL,SWAP,2015,FALSE,Alabama,SWAP,491,concepts,adaptive_capacity_components,abiotic_niche,TRUE,1
+AL_SWAP_2015,AL,SWAP,2015,FALSE,Alabama,SWAP,491,concepts,adaptive_capacity_components,life_history,TRUE,1
+AL_SWAP_2015,AL,SWAP,2015,FALSE,Alabama,SWAP,491,context,management_scale,local,TRUE,1
+AL_SWAP_2015,AL,SWAP,2015,FALSE,Alabama,SWAP,491,context,management_scale,site,TRUE,1
+AL_SWAP_2015,AL,SWAP,2015,FALSE,Alabama,SWAP,491,context,management_scale,watershed,TRUE,1
+AL_SWAP_2015,AL,SWAP,2015,FALSE,Alabama,SWAP,491,context,management_scale,city,FALSE,0
+AL_SWAP_2015,AL,SWAP,2015,FALSE,Alabama,SWAP,491,context,management_scale,county,FALSE,0
+AL_SWAP_2015,AL,SWAP,2015,FALSE,Alabama,SWAP,491,context,management_scale,within_state_region,TRUE,1
+AL_SWAP_2015,AL,SWAP,2015,FALSE,Alabama,SWAP,491,context,management_scale,state,TRUE,1
+AL_SWAP_2015,AL,SWAP,2015,FALSE,Alabama,SWAP,491,context,management_scale,multistate,TRUE,1
+AL_SWAP_2015,AL,SWAP,2015,FALSE,Alabama,SWAP,491,context,management_scale,national,TRUE,1
+AL_SWAP_2015,AL,SWAP,2015,FALSE,Alabama,SWAP,491,context,management_scale,transnational,FALSE,0
+AL_SWAP_2015,AL,SWAP,2015,FALSE,Alabama,SWAP,491,context,management_scale,ecosystem,TRUE,1
+AL_SWAP_2015,AL,SWAP,2015,FALSE,Alabama,SWAP,491,context,management_scale,ecoregion,TRUE,1
+AL_SWAP_2015,AL,SWAP,2015,FALSE,Alabama,SWAP,491,context,management_scale,province,FALSE,0
+AL_SWAP_2015,AL,SWAP,2015,FALSE,Alabama,SWAP,491,context,management_scale,section,FALSE,0
+AL_SWAP_2015,AL,SWAP,2015,FALSE,Alabama,SWAP,491,context,management_scale,subsection,FALSE,0
+AL_SWAP_2015,AL,SWAP,2015,FALSE,Alabama,SWAP,491,context,management_scale,lake,FALSE,0
+AL_SWAP_2015,AL,SWAP,2015,FALSE,Alabama,SWAP,491,context,management_scale,river,TRUE,1
+AL_SWAP_2015,AL,SWAP,2015,FALSE,Alabama,SWAP,491,context,management_scale,district,FALSE,0
+AL_SWAP_2015,AL,SWAP,2015,FALSE,Alabama,SWAP,491,context,biological_unit_components,species,TRUE,1
+AL_SWAP_2015,AL,SWAP,2015,FALSE,Alabama,SWAP,491,context,biological_unit_components,population,TRUE,1
+AL_SWAP_2015,AL,SWAP,2015,FALSE,Alabama,SWAP,491,context,biological_unit_components,habitat,TRUE,1
+AL_SWAP_2015,AL,SWAP,2015,FALSE,Alabama,SWAP,491,context,biological_unit_components,ecosystem,TRUE,1
+AL_SWAP_2015,AL,SWAP,2015,FALSE,Alabama,SWAP,491,context,biological_unit_components,community,TRUE,1
+AL_SWAP_2015,AL,SWAP,2015,FALSE,Alabama,SWAP,491,context,biological_unit_components,genotype_phenotype,FALSE,0
+AR_SWAP_2025_draft,AR,SWAP,2025,TRUE,Arkansas,SWAP,885,concepts,adaptive_capacity_components,demography,TRUE,1
+AR_SWAP_2025_draft,AR,SWAP,2025,TRUE,Arkansas,SWAP,885,concepts,adaptive_capacity_components,distribution,TRUE,1
+AR_SWAP_2025_draft,AR,SWAP,2025,TRUE,Arkansas,SWAP,885,concepts,adaptive_capacity_components,movement,TRUE,1
+AR_SWAP_2025_draft,AR,SWAP,2025,TRUE,Arkansas,SWAP,885,concepts,adaptive_capacity_components,evolutionary_potential,FALSE,0
+AR_SWAP_2025_draft,AR,SWAP,2025,TRUE,Arkansas,SWAP,885,concepts,adaptive_capacity_components,ecological_dependencies,TRUE,1
+AR_SWAP_2025_draft,AR,SWAP,2025,TRUE,Arkansas,SWAP,885,concepts,adaptive_capacity_components,abiotic_niche,TRUE,1
+AR_SWAP_2025_draft,AR,SWAP,2025,TRUE,Arkansas,SWAP,885,concepts,adaptive_capacity_components,life_history,TRUE,1
+AR_SWAP_2025_draft,AR,SWAP,2025,TRUE,Arkansas,SWAP,885,context,management_scale,local,TRUE,1
+AR_SWAP_2025_draft,AR,SWAP,2025,TRUE,Arkansas,SWAP,885,context,management_scale,site,TRUE,1
+AR_SWAP_2025_draft,AR,SWAP,2025,TRUE,Arkansas,SWAP,885,context,management_scale,watershed,TRUE,1
+AR_SWAP_2025_draft,AR,SWAP,2025,TRUE,Arkansas,SWAP,885,context,management_scale,city,FALSE,0
+AR_SWAP_2025_draft,AR,SWAP,2025,TRUE,Arkansas,SWAP,885,context,management_scale,county,TRUE,1
+AR_SWAP_2025_draft,AR,SWAP,2025,TRUE,Arkansas,SWAP,885,context,management_scale,within_state_region,TRUE,1
+AR_SWAP_2025_draft,AR,SWAP,2025,TRUE,Arkansas,SWAP,885,context,management_scale,state,TRUE,1
+AR_SWAP_2025_draft,AR,SWAP,2025,TRUE,Arkansas,SWAP,885,context,management_scale,multistate,TRUE,1
+AR_SWAP_2025_draft,AR,SWAP,2025,TRUE,Arkansas,SWAP,885,context,management_scale,national,TRUE,1
+AR_SWAP_2025_draft,AR,SWAP,2025,TRUE,Arkansas,SWAP,885,context,management_scale,transnational,TRUE,1
+AR_SWAP_2025_draft,AR,SWAP,2025,TRUE,Arkansas,SWAP,885,context,management_scale,ecosystem,TRUE,1
+AR_SWAP_2025_draft,AR,SWAP,2025,TRUE,Arkansas,SWAP,885,context,management_scale,ecoregion,TRUE,1
+AR_SWAP_2025_draft,AR,SWAP,2025,TRUE,Arkansas,SWAP,885,context,management_scale,province,FALSE,0
+AR_SWAP_2025_draft,AR,SWAP,2025,TRUE,Arkansas,SWAP,885,context,management_scale,section,FALSE,0
+AR_SWAP_2025_draft,AR,SWAP,2025,TRUE,Arkansas,SWAP,885,context,management_scale,subsection,FALSE,0
+AR_SWAP_2025_draft,AR,SWAP,2025,TRUE,Arkansas,SWAP,885,context,management_scale,lake,FALSE,0
+AR_SWAP_2025_draft,AR,SWAP,2025,TRUE,Arkansas,SWAP,885,context,management_scale,river,TRUE,1
+AR_SWAP_2025_draft,AR,SWAP,2025,TRUE,Arkansas,SWAP,885,context,management_scale,district,FALSE,0
+AR_SWAP_2025_draft,AR,SWAP,2025,TRUE,Arkansas,SWAP,885,context,biological_unit_components,species,TRUE,1
+AR_SWAP_2025_draft,AR,SWAP,2025,TRUE,Arkansas,SWAP,885,context,biological_unit_components,population,TRUE,1
+AR_SWAP_2025_draft,AR,SWAP,2025,TRUE,Arkansas,SWAP,885,context,biological_unit_components,habitat,TRUE,1
+AR_SWAP_2025_draft,AR,SWAP,2025,TRUE,Arkansas,SWAP,885,context,biological_unit_components,ecosystem,TRUE,1
+AR_SWAP_2025_draft,AR,SWAP,2025,TRUE,Arkansas,SWAP,885,context,biological_unit_components,community,TRUE,1
+AR_SWAP_2025_draft,AR,SWAP,2025,TRUE,Arkansas,SWAP,885,context,biological_unit_components,genotype_phenotype,FALSE,0
+AZ_SWAP_2022,AZ,SWAP,2022,FALSE,Arizona Game and Fish Department (AZGFD),SWAP,393,concepts,adaptive_capacity_components,demography,TRUE,1
+AZ_SWAP_2022,AZ,SWAP,2022,FALSE,Arizona Game and Fish Department (AZGFD),SWAP,393,concepts,adaptive_capacity_components,distribution,TRUE,1
+AZ_SWAP_2022,AZ,SWAP,2022,FALSE,Arizona Game and Fish Department (AZGFD),SWAP,393,concepts,adaptive_capacity_components,movement,TRUE,1
+AZ_SWAP_2022,AZ,SWAP,2022,FALSE,Arizona Game and Fish Department (AZGFD),SWAP,393,concepts,adaptive_capacity_components,evolutionary_potential,TRUE,2
+AZ_SWAP_2022,AZ,SWAP,2022,FALSE,Arizona Game and Fish Department (AZGFD),SWAP,393,concepts,adaptive_capacity_components,ecological_dependencies,TRUE,1
+AZ_SWAP_2022,AZ,SWAP,2022,FALSE,Arizona Game and Fish Department (AZGFD),SWAP,393,concepts,adaptive_capacity_components,abiotic_niche,TRUE,1
+AZ_SWAP_2022,AZ,SWAP,2022,FALSE,Arizona Game and Fish Department (AZGFD),SWAP,393,concepts,adaptive_capacity_components,life_history,TRUE,1
+AZ_SWAP_2022,AZ,SWAP,2022,FALSE,Arizona Game and Fish Department (AZGFD),SWAP,393,context,management_scale,local,TRUE,1
+AZ_SWAP_2022,AZ,SWAP,2022,FALSE,Arizona Game and Fish Department (AZGFD),SWAP,393,context,management_scale,site,TRUE,1
+AZ_SWAP_2022,AZ,SWAP,2022,FALSE,Arizona Game and Fish Department (AZGFD),SWAP,393,context,management_scale,watershed,TRUE,1
+AZ_SWAP_2022,AZ,SWAP,2022,FALSE,Arizona Game and Fish Department (AZGFD),SWAP,393,context,management_scale,city,FALSE,0
+AZ_SWAP_2022,AZ,SWAP,2022,FALSE,Arizona Game and Fish Department (AZGFD),SWAP,393,context,management_scale,county,TRUE,1
+AZ_SWAP_2022,AZ,SWAP,2022,FALSE,Arizona Game and Fish Department (AZGFD),SWAP,393,context,management_scale,within_state_region,TRUE,1
+AZ_SWAP_2022,AZ,SWAP,2022,FALSE,Arizona Game and Fish Department (AZGFD),SWAP,393,context,management_scale,state,TRUE,1
+AZ_SWAP_2022,AZ,SWAP,2022,FALSE,Arizona Game and Fish Department (AZGFD),SWAP,393,context,management_scale,multistate,TRUE,1
+AZ_SWAP_2022,AZ,SWAP,2022,FALSE,Arizona Game and Fish Department (AZGFD),SWAP,393,context,management_scale,national,FALSE,0
+AZ_SWAP_2022,AZ,SWAP,2022,FALSE,Arizona Game and Fish Department (AZGFD),SWAP,393,context,management_scale,transnational,TRUE,1
+AZ_SWAP_2022,AZ,SWAP,2022,FALSE,Arizona Game and Fish Department (AZGFD),SWAP,393,context,management_scale,ecosystem,TRUE,1
+AZ_SWAP_2022,AZ,SWAP,2022,FALSE,Arizona Game and Fish Department (AZGFD),SWAP,393,context,management_scale,ecoregion,TRUE,1
+AZ_SWAP_2022,AZ,SWAP,2022,FALSE,Arizona Game and Fish Department (AZGFD),SWAP,393,context,management_scale,province,FALSE,0
+AZ_SWAP_2022,AZ,SWAP,2022,FALSE,Arizona Game and Fish Department (AZGFD),SWAP,393,context,management_scale,section,FALSE,0
+AZ_SWAP_2022,AZ,SWAP,2022,FALSE,Arizona Game and Fish Department (AZGFD),SWAP,393,context,management_scale,subsection,FALSE,0
+AZ_SWAP_2022,AZ,SWAP,2022,FALSE,Arizona Game and Fish Department (AZGFD),SWAP,393,context,management_scale,lake,FALSE,0
+AZ_SWAP_2022,AZ,SWAP,2022,FALSE,Arizona Game and Fish Department (AZGFD),SWAP,393,context,management_scale,river,TRUE,1
+AZ_SWAP_2022,AZ,SWAP,2022,FALSE,Arizona Game and Fish Department (AZGFD),SWAP,393,context,management_scale,district,FALSE,0
+AZ_SWAP_2022,AZ,SWAP,2022,FALSE,Arizona Game and Fish Department (AZGFD),SWAP,393,context,biological_unit_components,species,TRUE,1
+AZ_SWAP_2022,AZ,SWAP,2022,FALSE,Arizona Game and Fish Department (AZGFD),SWAP,393,context,biological_unit_components,population,TRUE,1
+AZ_SWAP_2022,AZ,SWAP,2022,FALSE,Arizona Game and Fish Department (AZGFD),SWAP,393,context,biological_unit_components,habitat,TRUE,1
+AZ_SWAP_2022,AZ,SWAP,2022,FALSE,Arizona Game and Fish Department (AZGFD),SWAP,393,context,biological_unit_components,ecosystem,TRUE,1
+AZ_SWAP_2022,AZ,SWAP,2022,FALSE,Arizona Game and Fish Department (AZGFD),SWAP,393,context,biological_unit_components,community,TRUE,1
+AZ_SWAP_2022,AZ,SWAP,2022,FALSE,Arizona Game and Fish Department (AZGFD),SWAP,393,context,biological_unit_components,genotype_phenotype,FALSE,0
+AmericanSamoa_CWCS_2018,AmericanSamoa,CWCS,2018,FALSE,American Samoa (Territory of the United States),CWCS (Comprehensive Wildlife Conservation Strategy),220,concepts,adaptive_capacity_components,demography,FALSE,0
+AmericanSamoa_CWCS_2018,AmericanSamoa,CWCS,2018,FALSE,American Samoa (Territory of the United States),CWCS (Comprehensive Wildlife Conservation Strategy),220,concepts,adaptive_capacity_components,distribution,TRUE,1
+AmericanSamoa_CWCS_2018,AmericanSamoa,CWCS,2018,FALSE,American Samoa (Territory of the United States),CWCS (Comprehensive Wildlife Conservation Strategy),220,concepts,adaptive_capacity_components,movement,TRUE,1
+AmericanSamoa_CWCS_2018,AmericanSamoa,CWCS,2018,FALSE,American Samoa (Territory of the United States),CWCS (Comprehensive Wildlife Conservation Strategy),220,concepts,adaptive_capacity_components,evolutionary_potential,FALSE,0
+AmericanSamoa_CWCS_2018,AmericanSamoa,CWCS,2018,FALSE,American Samoa (Territory of the United States),CWCS (Comprehensive Wildlife Conservation Strategy),220,concepts,adaptive_capacity_components,ecological_dependencies,FALSE,0
+AmericanSamoa_CWCS_2018,AmericanSamoa,CWCS,2018,FALSE,American Samoa (Territory of the United States),CWCS (Comprehensive Wildlife Conservation Strategy),220,concepts,adaptive_capacity_components,abiotic_niche,TRUE,1
+AmericanSamoa_CWCS_2018,AmericanSamoa,CWCS,2018,FALSE,American Samoa (Territory of the United States),CWCS (Comprehensive Wildlife Conservation Strategy),220,concepts,adaptive_capacity_components,life_history,FALSE,0
+AmericanSamoa_CWCS_2018,AmericanSamoa,CWCS,2018,FALSE,American Samoa (Territory of the United States),CWCS (Comprehensive Wildlife Conservation Strategy),220,context,management_scale,local,TRUE,1
+AmericanSamoa_CWCS_2018,AmericanSamoa,CWCS,2018,FALSE,American Samoa (Territory of the United States),CWCS (Comprehensive Wildlife Conservation Strategy),220,context,management_scale,site,TRUE,1
+AmericanSamoa_CWCS_2018,AmericanSamoa,CWCS,2018,FALSE,American Samoa (Territory of the United States),CWCS (Comprehensive Wildlife Conservation Strategy),220,context,management_scale,watershed,FALSE,0
+AmericanSamoa_CWCS_2018,AmericanSamoa,CWCS,2018,FALSE,American Samoa (Territory of the United States),CWCS (Comprehensive Wildlife Conservation Strategy),220,context,management_scale,city,FALSE,0
+AmericanSamoa_CWCS_2018,AmericanSamoa,CWCS,2018,FALSE,American Samoa (Territory of the United States),CWCS (Comprehensive Wildlife Conservation Strategy),220,context,management_scale,county,FALSE,0
+AmericanSamoa_CWCS_2018,AmericanSamoa,CWCS,2018,FALSE,American Samoa (Territory of the United States),CWCS (Comprehensive Wildlife Conservation Strategy),220,context,management_scale,within_state_region,FALSE,0
+AmericanSamoa_CWCS_2018,AmericanSamoa,CWCS,2018,FALSE,American Samoa (Territory of the United States),CWCS (Comprehensive Wildlife Conservation Strategy),220,context,management_scale,state,TRUE,1
+AmericanSamoa_CWCS_2018,AmericanSamoa,CWCS,2018,FALSE,American Samoa (Territory of the United States),CWCS (Comprehensive Wildlife Conservation Strategy),220,context,management_scale,multistate,FALSE,0
+AmericanSamoa_CWCS_2018,AmericanSamoa,CWCS,2018,FALSE,American Samoa (Territory of the United States),CWCS (Comprehensive Wildlife Conservation Strategy),220,context,management_scale,national,FALSE,0
+AmericanSamoa_CWCS_2018,AmericanSamoa,CWCS,2018,FALSE,American Samoa (Territory of the United States),CWCS (Comprehensive Wildlife Conservation Strategy),220,context,management_scale,transnational,TRUE,1
+AmericanSamoa_CWCS_2018,AmericanSamoa,CWCS,2018,FALSE,American Samoa (Territory of the United States),CWCS (Comprehensive Wildlife Conservation Strategy),220,context,management_scale,ecosystem,TRUE,1
+AmericanSamoa_CWCS_2018,AmericanSamoa,CWCS,2018,FALSE,American Samoa (Territory of the United States),CWCS (Comprehensive Wildlife Conservation Strategy),220,context,management_scale,ecoregion,TRUE,1
+AmericanSamoa_CWCS_2018,AmericanSamoa,CWCS,2018,FALSE,American Samoa (Territory of the United States),CWCS (Comprehensive Wildlife Conservation Strategy),220,context,management_scale,province,FALSE,0
+AmericanSamoa_CWCS_2018,AmericanSamoa,CWCS,2018,FALSE,American Samoa (Territory of the United States),CWCS (Comprehensive Wildlife Conservation Strategy),220,context,management_scale,section,FALSE,0
+AmericanSamoa_CWCS_2018,AmericanSamoa,CWCS,2018,FALSE,American Samoa (Territory of the United States),CWCS (Comprehensive Wildlife Conservation Strategy),220,context,management_scale,subsection,FALSE,0
+AmericanSamoa_CWCS_2018,AmericanSamoa,CWCS,2018,FALSE,American Samoa (Territory of the United States),CWCS (Comprehensive Wildlife Conservation Strategy),220,context,management_scale,lake,FALSE,0
+AmericanSamoa_CWCS_2018,AmericanSamoa,CWCS,2018,FALSE,American Samoa (Territory of the United States),CWCS (Comprehensive Wildlife Conservation Strategy),220,context,management_scale,river,FALSE,0
+AmericanSamoa_CWCS_2018,AmericanSamoa,CWCS,2018,FALSE,American Samoa (Territory of the United States),CWCS (Comprehensive Wildlife Conservation Strategy),220,context,management_scale,district,FALSE,0
+AmericanSamoa_CWCS_2018,AmericanSamoa,CWCS,2018,FALSE,American Samoa (Territory of the United States),CWCS (Comprehensive Wildlife Conservation Strategy),220,context,biological_unit_components,species,TRUE,1
+AmericanSamoa_CWCS_2018,AmericanSamoa,CWCS,2018,FALSE,American Samoa (Territory of the United States),CWCS (Comprehensive Wildlife Conservation Strategy),220,context,biological_unit_components,population,FALSE,0
+AmericanSamoa_CWCS_2018,AmericanSamoa,CWCS,2018,FALSE,American Samoa (Territory of the United States),CWCS (Comprehensive Wildlife Conservation Strategy),220,context,biological_unit_components,habitat,TRUE,1
+AmericanSamoa_CWCS_2018,AmericanSamoa,CWCS,2018,FALSE,American Samoa (Territory of the United States),CWCS (Comprehensive Wildlife Conservation Strategy),220,context,biological_unit_components,ecosystem,TRUE,1
+AmericanSamoa_CWCS_2018,AmericanSamoa,CWCS,2018,FALSE,American Samoa (Territory of the United States),CWCS (Comprehensive Wildlife Conservation Strategy),220,context,biological_unit_components,community,FALSE,0
+AmericanSamoa_CWCS_2018,AmericanSamoa,CWCS,2018,FALSE,American Samoa (Territory of the United States),CWCS (Comprehensive Wildlife Conservation Strategy),220,context,biological_unit_components,genotype_phenotype,FALSE,0
+CA_SWAP_2025,CA,SWAP,2025,FALSE,California (CDFW),SWAP,914,concepts,adaptive_capacity_components,demography,TRUE,1
+CA_SWAP_2025,CA,SWAP,2025,FALSE,California (CDFW),SWAP,914,concepts,adaptive_capacity_components,distribution,TRUE,1
+CA_SWAP_2025,CA,SWAP,2025,FALSE,California (CDFW),SWAP,914,concepts,adaptive_capacity_components,movement,TRUE,2
+CA_SWAP_2025,CA,SWAP,2025,FALSE,California (CDFW),SWAP,914,concepts,adaptive_capacity_components,evolutionary_potential,TRUE,1
+CA_SWAP_2025,CA,SWAP,2025,FALSE,California (CDFW),SWAP,914,concepts,adaptive_capacity_components,ecological_dependencies,TRUE,1
+CA_SWAP_2025,CA,SWAP,2025,FALSE,California (CDFW),SWAP,914,concepts,adaptive_capacity_components,abiotic_niche,TRUE,1
+CA_SWAP_2025,CA,SWAP,2025,FALSE,California (CDFW),SWAP,914,concepts,adaptive_capacity_components,life_history,TRUE,1
+CA_SWAP_2025,CA,SWAP,2025,FALSE,California (CDFW),SWAP,914,context,management_scale,local,FALSE,0
+CA_SWAP_2025,CA,SWAP,2025,FALSE,California (CDFW),SWAP,914,context,management_scale,site,TRUE,1
+CA_SWAP_2025,CA,SWAP,2025,FALSE,California (CDFW),SWAP,914,context,management_scale,watershed,TRUE,1
+CA_SWAP_2025,CA,SWAP,2025,FALSE,California (CDFW),SWAP,914,context,management_scale,city,FALSE,0
+CA_SWAP_2025,CA,SWAP,2025,FALSE,California (CDFW),SWAP,914,context,management_scale,county,FALSE,0
+CA_SWAP_2025,CA,SWAP,2025,FALSE,California (CDFW),SWAP,914,context,management_scale,within_state_region,TRUE,1
+CA_SWAP_2025,CA,SWAP,2025,FALSE,California (CDFW),SWAP,914,context,management_scale,state,TRUE,1
+CA_SWAP_2025,CA,SWAP,2025,FALSE,California (CDFW),SWAP,914,context,management_scale,multistate,TRUE,1
+CA_SWAP_2025,CA,SWAP,2025,FALSE,California (CDFW),SWAP,914,context,management_scale,national,FALSE,0
+CA_SWAP_2025,CA,SWAP,2025,FALSE,California (CDFW),SWAP,914,context,management_scale,transnational,FALSE,0
+CA_SWAP_2025,CA,SWAP,2025,FALSE,California (CDFW),SWAP,914,context,management_scale,ecosystem,TRUE,1
+CA_SWAP_2025,CA,SWAP,2025,FALSE,California (CDFW),SWAP,914,context,management_scale,ecoregion,TRUE,1
+CA_SWAP_2025,CA,SWAP,2025,FALSE,California (CDFW),SWAP,914,context,management_scale,province,TRUE,1
+CA_SWAP_2025,CA,SWAP,2025,FALSE,California (CDFW),SWAP,914,context,management_scale,section,TRUE,1
+CA_SWAP_2025,CA,SWAP,2025,FALSE,California (CDFW),SWAP,914,context,management_scale,subsection,FALSE,0
+CA_SWAP_2025,CA,SWAP,2025,FALSE,California (CDFW),SWAP,914,context,management_scale,lake,FALSE,0
+CA_SWAP_2025,CA,SWAP,2025,FALSE,California (CDFW),SWAP,914,context,management_scale,river,FALSE,0
+CA_SWAP_2025,CA,SWAP,2025,FALSE,California (CDFW),SWAP,914,context,management_scale,district,FALSE,0
+CA_SWAP_2025,CA,SWAP,2025,FALSE,California (CDFW),SWAP,914,context,biological_unit_components,species,TRUE,1
+CA_SWAP_2025,CA,SWAP,2025,FALSE,California (CDFW),SWAP,914,context,biological_unit_components,population,TRUE,1
+CA_SWAP_2025,CA,SWAP,2025,FALSE,California (CDFW),SWAP,914,context,biological_unit_components,habitat,TRUE,1
+CA_SWAP_2025,CA,SWAP,2025,FALSE,California (CDFW),SWAP,914,context,biological_unit_components,ecosystem,TRUE,1
+CA_SWAP_2025,CA,SWAP,2025,FALSE,California (CDFW),SWAP,914,context,biological_unit_components,community,TRUE,1
+CA_SWAP_2025,CA,SWAP,2025,FALSE,California (CDFW),SWAP,914,context,biological_unit_components,genotype_phenotype,FALSE,0
+CNMI_SWAP_2025_draft,CNMI,SWAP,2025,TRUE,Commonwealth of the Northern Mariana Islands (CNMI),SWAP,321,concepts,adaptive_capacity_components,demography,TRUE,1
+CNMI_SWAP_2025_draft,CNMI,SWAP,2025,TRUE,Commonwealth of the Northern Mariana Islands (CNMI),SWAP,321,concepts,adaptive_capacity_components,distribution,TRUE,1
+CNMI_SWAP_2025_draft,CNMI,SWAP,2025,TRUE,Commonwealth of the Northern Mariana Islands (CNMI),SWAP,321,concepts,adaptive_capacity_components,movement,TRUE,1
+CNMI_SWAP_2025_draft,CNMI,SWAP,2025,TRUE,Commonwealth of the Northern Mariana Islands (CNMI),SWAP,321,concepts,adaptive_capacity_components,evolutionary_potential,TRUE,1
+CNMI_SWAP_2025_draft,CNMI,SWAP,2025,TRUE,Commonwealth of the Northern Mariana Islands (CNMI),SWAP,321,concepts,adaptive_capacity_components,ecological_dependencies,TRUE,1
+CNMI_SWAP_2025_draft,CNMI,SWAP,2025,TRUE,Commonwealth of the Northern Mariana Islands (CNMI),SWAP,321,concepts,adaptive_capacity_components,abiotic_niche,TRUE,1
+CNMI_SWAP_2025_draft,CNMI,SWAP,2025,TRUE,Commonwealth of the Northern Mariana Islands (CNMI),SWAP,321,concepts,adaptive_capacity_components,life_history,TRUE,1
+CNMI_SWAP_2025_draft,CNMI,SWAP,2025,TRUE,Commonwealth of the Northern Mariana Islands (CNMI),SWAP,321,context,management_scale,local,TRUE,1
+CNMI_SWAP_2025_draft,CNMI,SWAP,2025,TRUE,Commonwealth of the Northern Mariana Islands (CNMI),SWAP,321,context,management_scale,site,TRUE,1
+CNMI_SWAP_2025_draft,CNMI,SWAP,2025,TRUE,Commonwealth of the Northern Mariana Islands (CNMI),SWAP,321,context,management_scale,watershed,TRUE,1
+CNMI_SWAP_2025_draft,CNMI,SWAP,2025,TRUE,Commonwealth of the Northern Mariana Islands (CNMI),SWAP,321,context,management_scale,city,FALSE,0
+CNMI_SWAP_2025_draft,CNMI,SWAP,2025,TRUE,Commonwealth of the Northern Mariana Islands (CNMI),SWAP,321,context,management_scale,county,FALSE,0
+CNMI_SWAP_2025_draft,CNMI,SWAP,2025,TRUE,Commonwealth of the Northern Mariana Islands (CNMI),SWAP,321,context,management_scale,within_state_region,TRUE,1
+CNMI_SWAP_2025_draft,CNMI,SWAP,2025,TRUE,Commonwealth of the Northern Mariana Islands (CNMI),SWAP,321,context,management_scale,state,TRUE,1
+CNMI_SWAP_2025_draft,CNMI,SWAP,2025,TRUE,Commonwealth of the Northern Mariana Islands (CNMI),SWAP,321,context,management_scale,multistate,FALSE,0
+CNMI_SWAP_2025_draft,CNMI,SWAP,2025,TRUE,Commonwealth of the Northern Mariana Islands (CNMI),SWAP,321,context,management_scale,national,FALSE,0
+CNMI_SWAP_2025_draft,CNMI,SWAP,2025,TRUE,Commonwealth of the Northern Mariana Islands (CNMI),SWAP,321,context,management_scale,transnational,FALSE,0
+CNMI_SWAP_2025_draft,CNMI,SWAP,2025,TRUE,Commonwealth of the Northern Mariana Islands (CNMI),SWAP,321,context,management_scale,ecosystem,TRUE,1
+CNMI_SWAP_2025_draft,CNMI,SWAP,2025,TRUE,Commonwealth of the Northern Mariana Islands (CNMI),SWAP,321,context,management_scale,ecoregion,FALSE,0
+CNMI_SWAP_2025_draft,CNMI,SWAP,2025,TRUE,Commonwealth of the Northern Mariana Islands (CNMI),SWAP,321,context,management_scale,province,FALSE,0
+CNMI_SWAP_2025_draft,CNMI,SWAP,2025,TRUE,Commonwealth of the Northern Mariana Islands (CNMI),SWAP,321,context,management_scale,section,FALSE,0
+CNMI_SWAP_2025_draft,CNMI,SWAP,2025,TRUE,Commonwealth of the Northern Mariana Islands (CNMI),SWAP,321,context,management_scale,subsection,FALSE,0
+CNMI_SWAP_2025_draft,CNMI,SWAP,2025,TRUE,Commonwealth of the Northern Mariana Islands (CNMI),SWAP,321,context,management_scale,lake,TRUE,1
+CNMI_SWAP_2025_draft,CNMI,SWAP,2025,TRUE,Commonwealth of the Northern Mariana Islands (CNMI),SWAP,321,context,management_scale,river,FALSE,0
+CNMI_SWAP_2025_draft,CNMI,SWAP,2025,TRUE,Commonwealth of the Northern Mariana Islands (CNMI),SWAP,321,context,management_scale,district,FALSE,0
+CNMI_SWAP_2025_draft,CNMI,SWAP,2025,TRUE,Commonwealth of the Northern Mariana Islands (CNMI),SWAP,321,context,biological_unit_components,species,TRUE,1
+CNMI_SWAP_2025_draft,CNMI,SWAP,2025,TRUE,Commonwealth of the Northern Mariana Islands (CNMI),SWAP,321,context,biological_unit_components,population,TRUE,1
+CNMI_SWAP_2025_draft,CNMI,SWAP,2025,TRUE,Commonwealth of the Northern Mariana Islands (CNMI),SWAP,321,context,biological_unit_components,habitat,TRUE,1
+CNMI_SWAP_2025_draft,CNMI,SWAP,2025,TRUE,Commonwealth of the Northern Mariana Islands (CNMI),SWAP,321,context,biological_unit_components,ecosystem,TRUE,1
+CNMI_SWAP_2025_draft,CNMI,SWAP,2025,TRUE,Commonwealth of the Northern Mariana Islands (CNMI),SWAP,321,context,biological_unit_components,community,TRUE,1
+CNMI_SWAP_2025_draft,CNMI,SWAP,2025,TRUE,Commonwealth of the Northern Mariana Islands (CNMI),SWAP,321,context,biological_unit_components,genotype_phenotype,TRUE,1
+CO_SWAP_2015,CO,SWAP,2015,FALSE,Colorado,SWAP,865,concepts,adaptive_capacity_components,demography,TRUE,1
+CO_SWAP_2015,CO,SWAP,2015,FALSE,Colorado,SWAP,865,concepts,adaptive_capacity_components,distribution,TRUE,1
+CO_SWAP_2015,CO,SWAP,2015,FALSE,Colorado,SWAP,865,concepts,adaptive_capacity_components,movement,TRUE,1
+CO_SWAP_2015,CO,SWAP,2015,FALSE,Colorado,SWAP,865,concepts,adaptive_capacity_components,evolutionary_potential,FALSE,0
+CO_SWAP_2015,CO,SWAP,2015,FALSE,Colorado,SWAP,865,concepts,adaptive_capacity_components,ecological_dependencies,TRUE,1
+CO_SWAP_2015,CO,SWAP,2015,FALSE,Colorado,SWAP,865,concepts,adaptive_capacity_components,abiotic_niche,TRUE,1
+CO_SWAP_2015,CO,SWAP,2015,FALSE,Colorado,SWAP,865,concepts,adaptive_capacity_components,life_history,TRUE,1
+CO_SWAP_2015,CO,SWAP,2015,FALSE,Colorado,SWAP,865,context,management_scale,local,TRUE,1
+CO_SWAP_2015,CO,SWAP,2015,FALSE,Colorado,SWAP,865,context,management_scale,site,TRUE,1
+CO_SWAP_2015,CO,SWAP,2015,FALSE,Colorado,SWAP,865,context,management_scale,watershed,TRUE,1
+CO_SWAP_2015,CO,SWAP,2015,FALSE,Colorado,SWAP,865,context,management_scale,city,FALSE,0
+CO_SWAP_2015,CO,SWAP,2015,FALSE,Colorado,SWAP,865,context,management_scale,county,FALSE,0
+CO_SWAP_2015,CO,SWAP,2015,FALSE,Colorado,SWAP,865,context,management_scale,within_state_region,TRUE,1
+CO_SWAP_2015,CO,SWAP,2015,FALSE,Colorado,SWAP,865,context,management_scale,state,TRUE,1
+CO_SWAP_2015,CO,SWAP,2015,FALSE,Colorado,SWAP,865,context,management_scale,multistate,TRUE,1
+CO_SWAP_2015,CO,SWAP,2015,FALSE,Colorado,SWAP,865,context,management_scale,national,FALSE,0
+CO_SWAP_2015,CO,SWAP,2015,FALSE,Colorado,SWAP,865,context,management_scale,transnational,FALSE,0
+CO_SWAP_2015,CO,SWAP,2015,FALSE,Colorado,SWAP,865,context,management_scale,ecosystem,TRUE,1
+CO_SWAP_2015,CO,SWAP,2015,FALSE,Colorado,SWAP,865,context,management_scale,ecoregion,TRUE,1
+CO_SWAP_2015,CO,SWAP,2015,FALSE,Colorado,SWAP,865,context,management_scale,province,FALSE,0
+CO_SWAP_2015,CO,SWAP,2015,FALSE,Colorado,SWAP,865,context,management_scale,section,FALSE,0
+CO_SWAP_2015,CO,SWAP,2015,FALSE,Colorado,SWAP,865,context,management_scale,subsection,FALSE,0
+CO_SWAP_2015,CO,SWAP,2015,FALSE,Colorado,SWAP,865,context,management_scale,lake,FALSE,0
+CO_SWAP_2015,CO,SWAP,2015,FALSE,Colorado,SWAP,865,context,management_scale,river,TRUE,1
+CO_SWAP_2015,CO,SWAP,2015,FALSE,Colorado,SWAP,865,context,management_scale,district,FALSE,0
+CO_SWAP_2015,CO,SWAP,2015,FALSE,Colorado,SWAP,865,context,biological_unit_components,species,TRUE,1
+CO_SWAP_2015,CO,SWAP,2015,FALSE,Colorado,SWAP,865,context,biological_unit_components,population,TRUE,1
+CO_SWAP_2015,CO,SWAP,2015,FALSE,Colorado,SWAP,865,context,biological_unit_components,habitat,TRUE,1
+CO_SWAP_2015,CO,SWAP,2015,FALSE,Colorado,SWAP,865,context,biological_unit_components,ecosystem,TRUE,1
+CO_SWAP_2015,CO,SWAP,2015,FALSE,Colorado,SWAP,865,context,biological_unit_components,community,TRUE,1
+CO_SWAP_2015,CO,SWAP,2015,FALSE,Colorado,SWAP,865,context,biological_unit_components,genotype_phenotype,FALSE,0
+CT_SWAP_2025,CT,SWAP,2025,FALSE,Connecticut,SWAP,NA,concepts,adaptive_capacity_components,demography,TRUE,1
+CT_SWAP_2025,CT,SWAP,2025,FALSE,Connecticut,SWAP,NA,concepts,adaptive_capacity_components,distribution,TRUE,1
+CT_SWAP_2025,CT,SWAP,2025,FALSE,Connecticut,SWAP,NA,concepts,adaptive_capacity_components,movement,TRUE,1
+CT_SWAP_2025,CT,SWAP,2025,FALSE,Connecticut,SWAP,NA,concepts,adaptive_capacity_components,evolutionary_potential,TRUE,1
+CT_SWAP_2025,CT,SWAP,2025,FALSE,Connecticut,SWAP,NA,concepts,adaptive_capacity_components,ecological_dependencies,TRUE,1
+CT_SWAP_2025,CT,SWAP,2025,FALSE,Connecticut,SWAP,NA,concepts,adaptive_capacity_components,abiotic_niche,TRUE,1
+CT_SWAP_2025,CT,SWAP,2025,FALSE,Connecticut,SWAP,NA,concepts,adaptive_capacity_components,life_history,TRUE,1
+CT_SWAP_2025,CT,SWAP,2025,FALSE,Connecticut,SWAP,NA,context,management_scale,local,TRUE,1
+CT_SWAP_2025,CT,SWAP,2025,FALSE,Connecticut,SWAP,NA,context,management_scale,site,TRUE,1
+CT_SWAP_2025,CT,SWAP,2025,FALSE,Connecticut,SWAP,NA,context,management_scale,watershed,TRUE,1
+CT_SWAP_2025,CT,SWAP,2025,FALSE,Connecticut,SWAP,NA,context,management_scale,city,FALSE,0
+CT_SWAP_2025,CT,SWAP,2025,FALSE,Connecticut,SWAP,NA,context,management_scale,county,TRUE,1
+CT_SWAP_2025,CT,SWAP,2025,FALSE,Connecticut,SWAP,NA,context,management_scale,within_state_region,TRUE,1
+CT_SWAP_2025,CT,SWAP,2025,FALSE,Connecticut,SWAP,NA,context,management_scale,state,TRUE,1
+CT_SWAP_2025,CT,SWAP,2025,FALSE,Connecticut,SWAP,NA,context,management_scale,multistate,TRUE,1
+CT_SWAP_2025,CT,SWAP,2025,FALSE,Connecticut,SWAP,NA,context,management_scale,national,TRUE,1
+CT_SWAP_2025,CT,SWAP,2025,FALSE,Connecticut,SWAP,NA,context,management_scale,transnational,FALSE,0
+CT_SWAP_2025,CT,SWAP,2025,FALSE,Connecticut,SWAP,NA,context,management_scale,ecosystem,TRUE,1
+CT_SWAP_2025,CT,SWAP,2025,FALSE,Connecticut,SWAP,NA,context,management_scale,ecoregion,TRUE,1
+CT_SWAP_2025,CT,SWAP,2025,FALSE,Connecticut,SWAP,NA,context,management_scale,province,FALSE,0
+CT_SWAP_2025,CT,SWAP,2025,FALSE,Connecticut,SWAP,NA,context,management_scale,section,FALSE,0
+CT_SWAP_2025,CT,SWAP,2025,FALSE,Connecticut,SWAP,NA,context,management_scale,subsection,FALSE,0
+CT_SWAP_2025,CT,SWAP,2025,FALSE,Connecticut,SWAP,NA,context,management_scale,lake,TRUE,1
+CT_SWAP_2025,CT,SWAP,2025,FALSE,Connecticut,SWAP,NA,context,management_scale,river,TRUE,1
+CT_SWAP_2025,CT,SWAP,2025,FALSE,Connecticut,SWAP,NA,context,management_scale,district,FALSE,0
+CT_SWAP_2025,CT,SWAP,2025,FALSE,Connecticut,SWAP,NA,context,biological_unit_components,species,TRUE,1
+CT_SWAP_2025,CT,SWAP,2025,FALSE,Connecticut,SWAP,NA,context,biological_unit_components,population,TRUE,1
+CT_SWAP_2025,CT,SWAP,2025,FALSE,Connecticut,SWAP,NA,context,biological_unit_components,habitat,TRUE,1
+CT_SWAP_2025,CT,SWAP,2025,FALSE,Connecticut,SWAP,NA,context,biological_unit_components,ecosystem,TRUE,1
+CT_SWAP_2025,CT,SWAP,2025,FALSE,Connecticut,SWAP,NA,context,biological_unit_components,community,TRUE,1
+CT_SWAP_2025,CT,SWAP,2025,FALSE,Connecticut,SWAP,NA,context,biological_unit_components,genotype_phenotype,TRUE,1
+DC_SWAP_2015,DC,SWAP,2015,FALSE,District of Columbia,SWAP,214,concepts,adaptive_capacity_components,demography,TRUE,1
+DC_SWAP_2015,DC,SWAP,2015,FALSE,District of Columbia,SWAP,214,concepts,adaptive_capacity_components,distribution,TRUE,1
+DC_SWAP_2015,DC,SWAP,2015,FALSE,District of Columbia,SWAP,214,concepts,adaptive_capacity_components,movement,TRUE,1
+DC_SWAP_2015,DC,SWAP,2015,FALSE,District of Columbia,SWAP,214,concepts,adaptive_capacity_components,evolutionary_potential,FALSE,0
+DC_SWAP_2015,DC,SWAP,2015,FALSE,District of Columbia,SWAP,214,concepts,adaptive_capacity_components,ecological_dependencies,TRUE,1
+DC_SWAP_2015,DC,SWAP,2015,FALSE,District of Columbia,SWAP,214,concepts,adaptive_capacity_components,abiotic_niche,TRUE,1
+DC_SWAP_2015,DC,SWAP,2015,FALSE,District of Columbia,SWAP,214,concepts,adaptive_capacity_components,life_history,TRUE,1
+DC_SWAP_2015,DC,SWAP,2015,FALSE,District of Columbia,SWAP,214,context,management_scale,local,TRUE,1
+DC_SWAP_2015,DC,SWAP,2015,FALSE,District of Columbia,SWAP,214,context,management_scale,site,TRUE,1
+DC_SWAP_2015,DC,SWAP,2015,FALSE,District of Columbia,SWAP,214,context,management_scale,watershed,TRUE,1
+DC_SWAP_2015,DC,SWAP,2015,FALSE,District of Columbia,SWAP,214,context,management_scale,city,TRUE,1
+DC_SWAP_2015,DC,SWAP,2015,FALSE,District of Columbia,SWAP,214,context,management_scale,county,FALSE,0
+DC_SWAP_2015,DC,SWAP,2015,FALSE,District of Columbia,SWAP,214,context,management_scale,within_state_region,FALSE,0
+DC_SWAP_2015,DC,SWAP,2015,FALSE,District of Columbia,SWAP,214,context,management_scale,state,TRUE,1
+DC_SWAP_2015,DC,SWAP,2015,FALSE,District of Columbia,SWAP,214,context,management_scale,multistate,TRUE,1
+DC_SWAP_2015,DC,SWAP,2015,FALSE,District of Columbia,SWAP,214,context,management_scale,national,TRUE,1
+DC_SWAP_2015,DC,SWAP,2015,FALSE,District of Columbia,SWAP,214,context,management_scale,transnational,FALSE,0
+DC_SWAP_2015,DC,SWAP,2015,FALSE,District of Columbia,SWAP,214,context,management_scale,ecosystem,TRUE,1
+DC_SWAP_2015,DC,SWAP,2015,FALSE,District of Columbia,SWAP,214,context,management_scale,ecoregion,TRUE,1
+DC_SWAP_2015,DC,SWAP,2015,FALSE,District of Columbia,SWAP,214,context,management_scale,province,FALSE,0
+DC_SWAP_2015,DC,SWAP,2015,FALSE,District of Columbia,SWAP,214,context,management_scale,section,FALSE,0
+DC_SWAP_2015,DC,SWAP,2015,FALSE,District of Columbia,SWAP,214,context,management_scale,subsection,FALSE,0
+DC_SWAP_2015,DC,SWAP,2015,FALSE,District of Columbia,SWAP,214,context,management_scale,lake,FALSE,0
+DC_SWAP_2015,DC,SWAP,2015,FALSE,District of Columbia,SWAP,214,context,management_scale,river,TRUE,1
+DC_SWAP_2015,DC,SWAP,2015,FALSE,District of Columbia,SWAP,214,context,management_scale,district,TRUE,1
+DC_SWAP_2015,DC,SWAP,2015,FALSE,District of Columbia,SWAP,214,context,biological_unit_components,species,TRUE,1
+DC_SWAP_2015,DC,SWAP,2015,FALSE,District of Columbia,SWAP,214,context,biological_unit_components,population,TRUE,1
+DC_SWAP_2015,DC,SWAP,2015,FALSE,District of Columbia,SWAP,214,context,biological_unit_components,habitat,TRUE,1
+DC_SWAP_2015,DC,SWAP,2015,FALSE,District of Columbia,SWAP,214,context,biological_unit_components,ecosystem,TRUE,1
+DC_SWAP_2015,DC,SWAP,2015,FALSE,District of Columbia,SWAP,214,context,biological_unit_components,community,TRUE,1
+DC_SWAP_2015,DC,SWAP,2015,FALSE,District of Columbia,SWAP,214,context,biological_unit_components,genotype_phenotype,FALSE,0
+DE_SWAP_2015,DE,SWAP,2015,FALSE,Delaware,SWAP,1288,concepts,adaptive_capacity_components,demography,FALSE,0
+DE_SWAP_2015,DE,SWAP,2015,FALSE,Delaware,SWAP,1288,concepts,adaptive_capacity_components,distribution,TRUE,1
+DE_SWAP_2015,DE,SWAP,2015,FALSE,Delaware,SWAP,1288,concepts,adaptive_capacity_components,movement,TRUE,1
+DE_SWAP_2015,DE,SWAP,2015,FALSE,Delaware,SWAP,1288,concepts,adaptive_capacity_components,evolutionary_potential,FALSE,0
+DE_SWAP_2015,DE,SWAP,2015,FALSE,Delaware,SWAP,1288,concepts,adaptive_capacity_components,ecological_dependencies,TRUE,1
+DE_SWAP_2015,DE,SWAP,2015,FALSE,Delaware,SWAP,1288,concepts,adaptive_capacity_components,abiotic_niche,TRUE,1
+DE_SWAP_2015,DE,SWAP,2015,FALSE,Delaware,SWAP,1288,concepts,adaptive_capacity_components,life_history,FALSE,0
+DE_SWAP_2015,DE,SWAP,2015,FALSE,Delaware,SWAP,1288,context,management_scale,local,FALSE,0
+DE_SWAP_2015,DE,SWAP,2015,FALSE,Delaware,SWAP,1288,context,management_scale,site,TRUE,1
+DE_SWAP_2015,DE,SWAP,2015,FALSE,Delaware,SWAP,1288,context,management_scale,watershed,TRUE,1
+DE_SWAP_2015,DE,SWAP,2015,FALSE,Delaware,SWAP,1288,context,management_scale,city,FALSE,0
+DE_SWAP_2015,DE,SWAP,2015,FALSE,Delaware,SWAP,1288,context,management_scale,county,TRUE,1
+DE_SWAP_2015,DE,SWAP,2015,FALSE,Delaware,SWAP,1288,context,management_scale,within_state_region,TRUE,1
+DE_SWAP_2015,DE,SWAP,2015,FALSE,Delaware,SWAP,1288,context,management_scale,state,TRUE,1
+DE_SWAP_2015,DE,SWAP,2015,FALSE,Delaware,SWAP,1288,context,management_scale,multistate,TRUE,1
+DE_SWAP_2015,DE,SWAP,2015,FALSE,Delaware,SWAP,1288,context,management_scale,national,TRUE,1
+DE_SWAP_2015,DE,SWAP,2015,FALSE,Delaware,SWAP,1288,context,management_scale,transnational,FALSE,0
+DE_SWAP_2015,DE,SWAP,2015,FALSE,Delaware,SWAP,1288,context,management_scale,ecosystem,TRUE,1
+DE_SWAP_2015,DE,SWAP,2015,FALSE,Delaware,SWAP,1288,context,management_scale,ecoregion,TRUE,1
+DE_SWAP_2015,DE,SWAP,2015,FALSE,Delaware,SWAP,1288,context,management_scale,province,FALSE,0
+DE_SWAP_2015,DE,SWAP,2015,FALSE,Delaware,SWAP,1288,context,management_scale,section,FALSE,0
+DE_SWAP_2015,DE,SWAP,2015,FALSE,Delaware,SWAP,1288,context,management_scale,subsection,FALSE,0
+DE_SWAP_2015,DE,SWAP,2015,FALSE,Delaware,SWAP,1288,context,management_scale,lake,FALSE,0
+DE_SWAP_2015,DE,SWAP,2015,FALSE,Delaware,SWAP,1288,context,management_scale,river,TRUE,1
+DE_SWAP_2015,DE,SWAP,2015,FALSE,Delaware,SWAP,1288,context,management_scale,district,FALSE,0
+DE_SWAP_2015,DE,SWAP,2015,FALSE,Delaware,SWAP,1288,context,biological_unit_components,species,TRUE,1
+DE_SWAP_2015,DE,SWAP,2015,FALSE,Delaware,SWAP,1288,context,biological_unit_components,population,TRUE,1
+DE_SWAP_2015,DE,SWAP,2015,FALSE,Delaware,SWAP,1288,context,biological_unit_components,habitat,TRUE,1
+DE_SWAP_2015,DE,SWAP,2015,FALSE,Delaware,SWAP,1288,context,biological_unit_components,ecosystem,FALSE,0
+DE_SWAP_2015,DE,SWAP,2015,FALSE,Delaware,SWAP,1288,context,biological_unit_components,community,TRUE,1
+DE_SWAP_2015,DE,SWAP,2015,FALSE,Delaware,SWAP,1288,context,biological_unit_components,genotype_phenotype,FALSE,0
+FL_SWAP_2019,FL,SWAP,2019,FALSE,Florida,SWAP,254,concepts,adaptive_capacity_components,demography,FALSE,0
+FL_SWAP_2019,FL,SWAP,2019,FALSE,Florida,SWAP,254,concepts,adaptive_capacity_components,distribution,TRUE,1
+FL_SWAP_2019,FL,SWAP,2019,FALSE,Florida,SWAP,254,concepts,adaptive_capacity_components,movement,TRUE,1
+FL_SWAP_2019,FL,SWAP,2019,FALSE,Florida,SWAP,254,concepts,adaptive_capacity_components,evolutionary_potential,FALSE,0
+FL_SWAP_2019,FL,SWAP,2019,FALSE,Florida,SWAP,254,concepts,adaptive_capacity_components,ecological_dependencies,FALSE,0
+FL_SWAP_2019,FL,SWAP,2019,FALSE,Florida,SWAP,254,concepts,adaptive_capacity_components,abiotic_niche,TRUE,1
+FL_SWAP_2019,FL,SWAP,2019,FALSE,Florida,SWAP,254,concepts,adaptive_capacity_components,life_history,FALSE,0
+FL_SWAP_2019,FL,SWAP,2019,FALSE,Florida,SWAP,254,context,management_scale,local,TRUE,1
+FL_SWAP_2019,FL,SWAP,2019,FALSE,Florida,SWAP,254,context,management_scale,site,TRUE,1
+FL_SWAP_2019,FL,SWAP,2019,FALSE,Florida,SWAP,254,context,management_scale,watershed,TRUE,1
+FL_SWAP_2019,FL,SWAP,2019,FALSE,Florida,SWAP,254,context,management_scale,city,FALSE,0
+FL_SWAP_2019,FL,SWAP,2019,FALSE,Florida,SWAP,254,context,management_scale,county,TRUE,1
+FL_SWAP_2019,FL,SWAP,2019,FALSE,Florida,SWAP,254,context,management_scale,within_state_region,TRUE,1
+FL_SWAP_2019,FL,SWAP,2019,FALSE,Florida,SWAP,254,context,management_scale,state,TRUE,1
+FL_SWAP_2019,FL,SWAP,2019,FALSE,Florida,SWAP,254,context,management_scale,multistate,TRUE,1
+FL_SWAP_2019,FL,SWAP,2019,FALSE,Florida,SWAP,254,context,management_scale,national,TRUE,1
+FL_SWAP_2019,FL,SWAP,2019,FALSE,Florida,SWAP,254,context,management_scale,transnational,FALSE,0
+FL_SWAP_2019,FL,SWAP,2019,FALSE,Florida,SWAP,254,context,management_scale,ecosystem,TRUE,1
+FL_SWAP_2019,FL,SWAP,2019,FALSE,Florida,SWAP,254,context,management_scale,ecoregion,FALSE,0
+FL_SWAP_2019,FL,SWAP,2019,FALSE,Florida,SWAP,254,context,management_scale,province,FALSE,0
+FL_SWAP_2019,FL,SWAP,2019,FALSE,Florida,SWAP,254,context,management_scale,section,FALSE,0
+FL_SWAP_2019,FL,SWAP,2019,FALSE,Florida,SWAP,254,context,management_scale,subsection,FALSE,0
+FL_SWAP_2019,FL,SWAP,2019,FALSE,Florida,SWAP,254,context,management_scale,lake,TRUE,1
+FL_SWAP_2019,FL,SWAP,2019,FALSE,Florida,SWAP,254,context,management_scale,river,TRUE,1
+FL_SWAP_2019,FL,SWAP,2019,FALSE,Florida,SWAP,254,context,management_scale,district,FALSE,0
+FL_SWAP_2019,FL,SWAP,2019,FALSE,Florida,SWAP,254,context,biological_unit_components,species,TRUE,1
+FL_SWAP_2019,FL,SWAP,2019,FALSE,Florida,SWAP,254,context,biological_unit_components,population,TRUE,1
+FL_SWAP_2019,FL,SWAP,2019,FALSE,Florida,SWAP,254,context,biological_unit_components,habitat,TRUE,1
+FL_SWAP_2019,FL,SWAP,2019,FALSE,Florida,SWAP,254,context,biological_unit_components,ecosystem,TRUE,1
+FL_SWAP_2019,FL,SWAP,2019,FALSE,Florida,SWAP,254,context,biological_unit_components,community,TRUE,1
+FL_SWAP_2019,FL,SWAP,2019,FALSE,Florida,SWAP,254,context,biological_unit_components,genotype_phenotype,FALSE,0
+GA_SWAP_2015,GA,SWAP,2015,FALSE,Georgia,SWAP,262,concepts,adaptive_capacity_components,demography,FALSE,0
+GA_SWAP_2015,GA,SWAP,2015,FALSE,Georgia,SWAP,262,concepts,adaptive_capacity_components,distribution,TRUE,1
+GA_SWAP_2015,GA,SWAP,2015,FALSE,Georgia,SWAP,262,concepts,adaptive_capacity_components,movement,TRUE,1
+GA_SWAP_2015,GA,SWAP,2015,FALSE,Georgia,SWAP,262,concepts,adaptive_capacity_components,evolutionary_potential,TRUE,1
+GA_SWAP_2015,GA,SWAP,2015,FALSE,Georgia,SWAP,262,concepts,adaptive_capacity_components,ecological_dependencies,TRUE,1
+GA_SWAP_2015,GA,SWAP,2015,FALSE,Georgia,SWAP,262,concepts,adaptive_capacity_components,abiotic_niche,TRUE,1
+GA_SWAP_2015,GA,SWAP,2015,FALSE,Georgia,SWAP,262,concepts,adaptive_capacity_components,life_history,FALSE,0
+GA_SWAP_2015,GA,SWAP,2015,FALSE,Georgia,SWAP,262,context,management_scale,local,TRUE,1
+GA_SWAP_2015,GA,SWAP,2015,FALSE,Georgia,SWAP,262,context,management_scale,site,TRUE,1
+GA_SWAP_2015,GA,SWAP,2015,FALSE,Georgia,SWAP,262,context,management_scale,watershed,TRUE,1
+GA_SWAP_2015,GA,SWAP,2015,FALSE,Georgia,SWAP,262,context,management_scale,city,FALSE,0
+GA_SWAP_2015,GA,SWAP,2015,FALSE,Georgia,SWAP,262,context,management_scale,county,FALSE,0
+GA_SWAP_2015,GA,SWAP,2015,FALSE,Georgia,SWAP,262,context,management_scale,within_state_region,TRUE,1
+GA_SWAP_2015,GA,SWAP,2015,FALSE,Georgia,SWAP,262,context,management_scale,state,TRUE,1
+GA_SWAP_2015,GA,SWAP,2015,FALSE,Georgia,SWAP,262,context,management_scale,multistate,TRUE,1
+GA_SWAP_2015,GA,SWAP,2015,FALSE,Georgia,SWAP,262,context,management_scale,national,FALSE,0
+GA_SWAP_2015,GA,SWAP,2015,FALSE,Georgia,SWAP,262,context,management_scale,transnational,FALSE,0
+GA_SWAP_2015,GA,SWAP,2015,FALSE,Georgia,SWAP,262,context,management_scale,ecosystem,TRUE,1
+GA_SWAP_2015,GA,SWAP,2015,FALSE,Georgia,SWAP,262,context,management_scale,ecoregion,TRUE,1
+GA_SWAP_2015,GA,SWAP,2015,FALSE,Georgia,SWAP,262,context,management_scale,province,FALSE,0
+GA_SWAP_2015,GA,SWAP,2015,FALSE,Georgia,SWAP,262,context,management_scale,section,FALSE,0
+GA_SWAP_2015,GA,SWAP,2015,FALSE,Georgia,SWAP,262,context,management_scale,subsection,FALSE,0
+GA_SWAP_2015,GA,SWAP,2015,FALSE,Georgia,SWAP,262,context,management_scale,lake,FALSE,0
+GA_SWAP_2015,GA,SWAP,2015,FALSE,Georgia,SWAP,262,context,management_scale,river,TRUE,1
+GA_SWAP_2015,GA,SWAP,2015,FALSE,Georgia,SWAP,262,context,management_scale,district,FALSE,0
+GA_SWAP_2015,GA,SWAP,2015,FALSE,Georgia,SWAP,262,context,biological_unit_components,species,TRUE,1
+GA_SWAP_2015,GA,SWAP,2015,FALSE,Georgia,SWAP,262,context,biological_unit_components,population,TRUE,1
+GA_SWAP_2015,GA,SWAP,2015,FALSE,Georgia,SWAP,262,context,biological_unit_components,habitat,TRUE,1
+GA_SWAP_2015,GA,SWAP,2015,FALSE,Georgia,SWAP,262,context,biological_unit_components,ecosystem,TRUE,1
+GA_SWAP_2015,GA,SWAP,2015,FALSE,Georgia,SWAP,262,context,biological_unit_components,community,TRUE,1
+GA_SWAP_2015,GA,SWAP,2015,FALSE,Georgia,SWAP,262,context,biological_unit_components,genotype_phenotype,FALSE,0
+GU_SWAP_2025_draft,GU,SWAP,2025,TRUE,Guam (U.S. territory),SWAP,314,concepts,adaptive_capacity_components,demography,FALSE,0
+GU_SWAP_2025_draft,GU,SWAP,2025,TRUE,Guam (U.S. territory),SWAP,314,concepts,adaptive_capacity_components,distribution,TRUE,1
+GU_SWAP_2025_draft,GU,SWAP,2025,TRUE,Guam (U.S. territory),SWAP,314,concepts,adaptive_capacity_components,movement,FALSE,0
+GU_SWAP_2025_draft,GU,SWAP,2025,TRUE,Guam (U.S. territory),SWAP,314,concepts,adaptive_capacity_components,evolutionary_potential,FALSE,0
+GU_SWAP_2025_draft,GU,SWAP,2025,TRUE,Guam (U.S. territory),SWAP,314,concepts,adaptive_capacity_components,ecological_dependencies,FALSE,0
+GU_SWAP_2025_draft,GU,SWAP,2025,TRUE,Guam (U.S. territory),SWAP,314,concepts,adaptive_capacity_components,abiotic_niche,FALSE,0
+GU_SWAP_2025_draft,GU,SWAP,2025,TRUE,Guam (U.S. territory),SWAP,314,concepts,adaptive_capacity_components,life_history,FALSE,0
+GU_SWAP_2025_draft,GU,SWAP,2025,TRUE,Guam (U.S. territory),SWAP,314,context,management_scale,local,TRUE,1
+GU_SWAP_2025_draft,GU,SWAP,2025,TRUE,Guam (U.S. territory),SWAP,314,context,management_scale,site,TRUE,1
+GU_SWAP_2025_draft,GU,SWAP,2025,TRUE,Guam (U.S. territory),SWAP,314,context,management_scale,watershed,TRUE,1
+GU_SWAP_2025_draft,GU,SWAP,2025,TRUE,Guam (U.S. territory),SWAP,314,context,management_scale,city,FALSE,0
+GU_SWAP_2025_draft,GU,SWAP,2025,TRUE,Guam (U.S. territory),SWAP,314,context,management_scale,county,FALSE,0
+GU_SWAP_2025_draft,GU,SWAP,2025,TRUE,Guam (U.S. territory),SWAP,314,context,management_scale,within_state_region,TRUE,1
+GU_SWAP_2025_draft,GU,SWAP,2025,TRUE,Guam (U.S. territory),SWAP,314,context,management_scale,state,TRUE,1
+GU_SWAP_2025_draft,GU,SWAP,2025,TRUE,Guam (U.S. territory),SWAP,314,context,management_scale,multistate,TRUE,1
+GU_SWAP_2025_draft,GU,SWAP,2025,TRUE,Guam (U.S. territory),SWAP,314,context,management_scale,national,FALSE,0
+GU_SWAP_2025_draft,GU,SWAP,2025,TRUE,Guam (U.S. territory),SWAP,314,context,management_scale,transnational,FALSE,0
+GU_SWAP_2025_draft,GU,SWAP,2025,TRUE,Guam (U.S. territory),SWAP,314,context,management_scale,ecosystem,TRUE,1
+GU_SWAP_2025_draft,GU,SWAP,2025,TRUE,Guam (U.S. territory),SWAP,314,context,management_scale,ecoregion,FALSE,0
+GU_SWAP_2025_draft,GU,SWAP,2025,TRUE,Guam (U.S. territory),SWAP,314,context,management_scale,province,FALSE,0
+GU_SWAP_2025_draft,GU,SWAP,2025,TRUE,Guam (U.S. territory),SWAP,314,context,management_scale,section,FALSE,0
+GU_SWAP_2025_draft,GU,SWAP,2025,TRUE,Guam (U.S. territory),SWAP,314,context,management_scale,subsection,FALSE,0
+GU_SWAP_2025_draft,GU,SWAP,2025,TRUE,Guam (U.S. territory),SWAP,314,context,management_scale,lake,TRUE,1
+GU_SWAP_2025_draft,GU,SWAP,2025,TRUE,Guam (U.S. territory),SWAP,314,context,management_scale,river,TRUE,1
+GU_SWAP_2025_draft,GU,SWAP,2025,TRUE,Guam (U.S. territory),SWAP,314,context,management_scale,district,FALSE,0
+GU_SWAP_2025_draft,GU,SWAP,2025,TRUE,Guam (U.S. territory),SWAP,314,context,biological_unit_components,species,TRUE,1
+GU_SWAP_2025_draft,GU,SWAP,2025,TRUE,Guam (U.S. territory),SWAP,314,context,biological_unit_components,population,FALSE,0
+GU_SWAP_2025_draft,GU,SWAP,2025,TRUE,Guam (U.S. territory),SWAP,314,context,biological_unit_components,habitat,TRUE,1
+GU_SWAP_2025_draft,GU,SWAP,2025,TRUE,Guam (U.S. territory),SWAP,314,context,biological_unit_components,ecosystem,TRUE,1
+GU_SWAP_2025_draft,GU,SWAP,2025,TRUE,Guam (U.S. territory),SWAP,314,context,biological_unit_components,community,FALSE,0
+GU_SWAP_2025_draft,GU,SWAP,2025,TRUE,Guam (U.S. territory),SWAP,314,context,biological_unit_components,genotype_phenotype,FALSE,0
+HI_SWAP_2025,HI,SWAP,2025,FALSE,State of Hawai'i / DLNR,SWAP,1029,concepts,adaptive_capacity_components,demography,FALSE,0
+HI_SWAP_2025,HI,SWAP,2025,FALSE,State of Hawai'i / DLNR,SWAP,1029,concepts,adaptive_capacity_components,distribution,TRUE,1
+HI_SWAP_2025,HI,SWAP,2025,FALSE,State of Hawai'i / DLNR,SWAP,1029,concepts,adaptive_capacity_components,movement,TRUE,1
+HI_SWAP_2025,HI,SWAP,2025,FALSE,State of Hawai'i / DLNR,SWAP,1029,concepts,adaptive_capacity_components,evolutionary_potential,TRUE,1
+HI_SWAP_2025,HI,SWAP,2025,FALSE,State of Hawai'i / DLNR,SWAP,1029,concepts,adaptive_capacity_components,ecological_dependencies,TRUE,1
+HI_SWAP_2025,HI,SWAP,2025,FALSE,State of Hawai'i / DLNR,SWAP,1029,concepts,adaptive_capacity_components,abiotic_niche,TRUE,1
+HI_SWAP_2025,HI,SWAP,2025,FALSE,State of Hawai'i / DLNR,SWAP,1029,concepts,adaptive_capacity_components,life_history,FALSE,0
+HI_SWAP_2025,HI,SWAP,2025,FALSE,State of Hawai'i / DLNR,SWAP,1029,context,management_scale,local,FALSE,0
+HI_SWAP_2025,HI,SWAP,2025,FALSE,State of Hawai'i / DLNR,SWAP,1029,context,management_scale,site,TRUE,1
+HI_SWAP_2025,HI,SWAP,2025,FALSE,State of Hawai'i / DLNR,SWAP,1029,context,management_scale,watershed,TRUE,1
+HI_SWAP_2025,HI,SWAP,2025,FALSE,State of Hawai'i / DLNR,SWAP,1029,context,management_scale,city,FALSE,0
+HI_SWAP_2025,HI,SWAP,2025,FALSE,State of Hawai'i / DLNR,SWAP,1029,context,management_scale,county,TRUE,1
+HI_SWAP_2025,HI,SWAP,2025,FALSE,State of Hawai'i / DLNR,SWAP,1029,context,management_scale,within_state_region,TRUE,1
+HI_SWAP_2025,HI,SWAP,2025,FALSE,State of Hawai'i / DLNR,SWAP,1029,context,management_scale,state,TRUE,1
+HI_SWAP_2025,HI,SWAP,2025,FALSE,State of Hawai'i / DLNR,SWAP,1029,context,management_scale,multistate,FALSE,0
+HI_SWAP_2025,HI,SWAP,2025,FALSE,State of Hawai'i / DLNR,SWAP,1029,context,management_scale,national,FALSE,0
+HI_SWAP_2025,HI,SWAP,2025,FALSE,State of Hawai'i / DLNR,SWAP,1029,context,management_scale,transnational,FALSE,0
+HI_SWAP_2025,HI,SWAP,2025,FALSE,State of Hawai'i / DLNR,SWAP,1029,context,management_scale,ecosystem,TRUE,1
+HI_SWAP_2025,HI,SWAP,2025,FALSE,State of Hawai'i / DLNR,SWAP,1029,context,management_scale,ecoregion,FALSE,0
+HI_SWAP_2025,HI,SWAP,2025,FALSE,State of Hawai'i / DLNR,SWAP,1029,context,management_scale,province,FALSE,0
+HI_SWAP_2025,HI,SWAP,2025,FALSE,State of Hawai'i / DLNR,SWAP,1029,context,management_scale,section,FALSE,0
+HI_SWAP_2025,HI,SWAP,2025,FALSE,State of Hawai'i / DLNR,SWAP,1029,context,management_scale,subsection,FALSE,0
+HI_SWAP_2025,HI,SWAP,2025,FALSE,State of Hawai'i / DLNR,SWAP,1029,context,management_scale,lake,FALSE,0
+HI_SWAP_2025,HI,SWAP,2025,FALSE,State of Hawai'i / DLNR,SWAP,1029,context,management_scale,river,FALSE,0
+HI_SWAP_2025,HI,SWAP,2025,FALSE,State of Hawai'i / DLNR,SWAP,1029,context,management_scale,district,FALSE,0
+HI_SWAP_2025,HI,SWAP,2025,FALSE,State of Hawai'i / DLNR,SWAP,1029,context,biological_unit_components,species,TRUE,1
+HI_SWAP_2025,HI,SWAP,2025,FALSE,State of Hawai'i / DLNR,SWAP,1029,context,biological_unit_components,population,TRUE,1
+HI_SWAP_2025,HI,SWAP,2025,FALSE,State of Hawai'i / DLNR,SWAP,1029,context,biological_unit_components,habitat,TRUE,1
+HI_SWAP_2025,HI,SWAP,2025,FALSE,State of Hawai'i / DLNR,SWAP,1029,context,biological_unit_components,ecosystem,TRUE,1
+HI_SWAP_2025,HI,SWAP,2025,FALSE,State of Hawai'i / DLNR,SWAP,1029,context,biological_unit_components,community,TRUE,1
+HI_SWAP_2025,HI,SWAP,2025,FALSE,State of Hawai'i / DLNR,SWAP,1029,context,biological_unit_components,genotype_phenotype,FALSE,0
+IA_SWAP_2025_draft,IA,SWAP,2025,TRUE,Iowa,SWAP,282,concepts,adaptive_capacity_components,demography,FALSE,0
+IA_SWAP_2025_draft,IA,SWAP,2025,TRUE,Iowa,SWAP,282,concepts,adaptive_capacity_components,distribution,TRUE,1
+IA_SWAP_2025_draft,IA,SWAP,2025,TRUE,Iowa,SWAP,282,concepts,adaptive_capacity_components,movement,TRUE,1
+IA_SWAP_2025_draft,IA,SWAP,2025,TRUE,Iowa,SWAP,282,concepts,adaptive_capacity_components,evolutionary_potential,TRUE,1
+IA_SWAP_2025_draft,IA,SWAP,2025,TRUE,Iowa,SWAP,282,concepts,adaptive_capacity_components,ecological_dependencies,FALSE,0
+IA_SWAP_2025_draft,IA,SWAP,2025,TRUE,Iowa,SWAP,282,concepts,adaptive_capacity_components,abiotic_niche,TRUE,1
+IA_SWAP_2025_draft,IA,SWAP,2025,TRUE,Iowa,SWAP,282,concepts,adaptive_capacity_components,life_history,FALSE,0
+IA_SWAP_2025_draft,IA,SWAP,2025,TRUE,Iowa,SWAP,282,context,management_scale,local,TRUE,1
+IA_SWAP_2025_draft,IA,SWAP,2025,TRUE,Iowa,SWAP,282,context,management_scale,site,TRUE,1
+IA_SWAP_2025_draft,IA,SWAP,2025,TRUE,Iowa,SWAP,282,context,management_scale,watershed,TRUE,1
+IA_SWAP_2025_draft,IA,SWAP,2025,TRUE,Iowa,SWAP,282,context,management_scale,city,FALSE,0
+IA_SWAP_2025_draft,IA,SWAP,2025,TRUE,Iowa,SWAP,282,context,management_scale,county,TRUE,1
+IA_SWAP_2025_draft,IA,SWAP,2025,TRUE,Iowa,SWAP,282,context,management_scale,within_state_region,TRUE,1
+IA_SWAP_2025_draft,IA,SWAP,2025,TRUE,Iowa,SWAP,282,context,management_scale,state,TRUE,1
+IA_SWAP_2025_draft,IA,SWAP,2025,TRUE,Iowa,SWAP,282,context,management_scale,multistate,TRUE,1
+IA_SWAP_2025_draft,IA,SWAP,2025,TRUE,Iowa,SWAP,282,context,management_scale,national,TRUE,1
+IA_SWAP_2025_draft,IA,SWAP,2025,TRUE,Iowa,SWAP,282,context,management_scale,transnational,TRUE,1
+IA_SWAP_2025_draft,IA,SWAP,2025,TRUE,Iowa,SWAP,282,context,management_scale,ecosystem,TRUE,1
+IA_SWAP_2025_draft,IA,SWAP,2025,TRUE,Iowa,SWAP,282,context,management_scale,ecoregion,TRUE,1
+IA_SWAP_2025_draft,IA,SWAP,2025,TRUE,Iowa,SWAP,282,context,management_scale,province,FALSE,0
+IA_SWAP_2025_draft,IA,SWAP,2025,TRUE,Iowa,SWAP,282,context,management_scale,section,FALSE,0
+IA_SWAP_2025_draft,IA,SWAP,2025,TRUE,Iowa,SWAP,282,context,management_scale,subsection,FALSE,0
+IA_SWAP_2025_draft,IA,SWAP,2025,TRUE,Iowa,SWAP,282,context,management_scale,lake,TRUE,1
+IA_SWAP_2025_draft,IA,SWAP,2025,TRUE,Iowa,SWAP,282,context,management_scale,river,TRUE,1
+IA_SWAP_2025_draft,IA,SWAP,2025,TRUE,Iowa,SWAP,282,context,management_scale,district,FALSE,0
+IA_SWAP_2025_draft,IA,SWAP,2025,TRUE,Iowa,SWAP,282,context,biological_unit_components,species,TRUE,1
+IA_SWAP_2025_draft,IA,SWAP,2025,TRUE,Iowa,SWAP,282,context,biological_unit_components,population,TRUE,1
+IA_SWAP_2025_draft,IA,SWAP,2025,TRUE,Iowa,SWAP,282,context,biological_unit_components,habitat,TRUE,1
+IA_SWAP_2025_draft,IA,SWAP,2025,TRUE,Iowa,SWAP,282,context,biological_unit_components,ecosystem,TRUE,1
+IA_SWAP_2025_draft,IA,SWAP,2025,TRUE,Iowa,SWAP,282,context,biological_unit_components,community,TRUE,1
+IA_SWAP_2025_draft,IA,SWAP,2025,TRUE,Iowa,SWAP,282,context,biological_unit_components,genotype_phenotype,FALSE,0
+ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho Department of Fish and Game,SWAP,435,concepts,adaptive_capacity_components,demography,TRUE,1
+ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho Department of Fish and Game,SWAP,435,concepts,adaptive_capacity_components,distribution,TRUE,2
+ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho Department of Fish and Game,SWAP,435,concepts,adaptive_capacity_components,movement,TRUE,1
+ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho Department of Fish and Game,SWAP,435,concepts,adaptive_capacity_components,evolutionary_potential,TRUE,1
+ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho Department of Fish and Game,SWAP,435,concepts,adaptive_capacity_components,ecological_dependencies,TRUE,1
+ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho Department of Fish and Game,SWAP,435,concepts,adaptive_capacity_components,abiotic_niche,TRUE,1
+ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho Department of Fish and Game,SWAP,435,concepts,adaptive_capacity_components,life_history,FALSE,0
+ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho Department of Fish and Game,SWAP,435,context,management_scale,local,FALSE,0
+ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho Department of Fish and Game,SWAP,435,context,management_scale,site,TRUE,1
+ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho Department of Fish and Game,SWAP,435,context,management_scale,watershed,TRUE,1
+ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho Department of Fish and Game,SWAP,435,context,management_scale,city,FALSE,0
+ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho Department of Fish and Game,SWAP,435,context,management_scale,county,TRUE,1
+ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho Department of Fish and Game,SWAP,435,context,management_scale,within_state_region,TRUE,1
+ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho Department of Fish and Game,SWAP,435,context,management_scale,state,TRUE,1
+ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho Department of Fish and Game,SWAP,435,context,management_scale,multistate,TRUE,1
+ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho Department of Fish and Game,SWAP,435,context,management_scale,national,FALSE,0
+ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho Department of Fish and Game,SWAP,435,context,management_scale,transnational,FALSE,0
+ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho Department of Fish and Game,SWAP,435,context,management_scale,ecosystem,TRUE,1
+ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho Department of Fish and Game,SWAP,435,context,management_scale,ecoregion,TRUE,1
+ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho Department of Fish and Game,SWAP,435,context,management_scale,province,TRUE,1
+ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho Department of Fish and Game,SWAP,435,context,management_scale,section,FALSE,0
+ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho Department of Fish and Game,SWAP,435,context,management_scale,subsection,FALSE,0
+ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho Department of Fish and Game,SWAP,435,context,management_scale,lake,FALSE,0
+ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho Department of Fish and Game,SWAP,435,context,management_scale,river,FALSE,0
+ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho Department of Fish and Game,SWAP,435,context,management_scale,district,FALSE,0
+ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho Department of Fish and Game,SWAP,435,context,biological_unit_components,species,TRUE,1
+ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho Department of Fish and Game,SWAP,435,context,biological_unit_components,population,TRUE,1
+ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho Department of Fish and Game,SWAP,435,context,biological_unit_components,habitat,TRUE,1
+ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho Department of Fish and Game,SWAP,435,context,biological_unit_components,ecosystem,TRUE,1
+ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho Department of Fish and Game,SWAP,435,context,biological_unit_components,community,TRUE,1
+ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho Department of Fish and Game,SWAP,435,context,biological_unit_components,genotype_phenotype,FALSE,0
+IL_SWAP_2022,IL,SWAP,2022,FALSE,Illinois,SWAP,334,concepts,adaptive_capacity_components,demography,FALSE,0
+IL_SWAP_2022,IL,SWAP,2022,FALSE,Illinois,SWAP,334,concepts,adaptive_capacity_components,distribution,TRUE,1
+IL_SWAP_2022,IL,SWAP,2022,FALSE,Illinois,SWAP,334,concepts,adaptive_capacity_components,movement,TRUE,1
+IL_SWAP_2022,IL,SWAP,2022,FALSE,Illinois,SWAP,334,concepts,adaptive_capacity_components,evolutionary_potential,FALSE,0
+IL_SWAP_2022,IL,SWAP,2022,FALSE,Illinois,SWAP,334,concepts,adaptive_capacity_components,ecological_dependencies,FALSE,0
+IL_SWAP_2022,IL,SWAP,2022,FALSE,Illinois,SWAP,334,concepts,adaptive_capacity_components,abiotic_niche,TRUE,1
+IL_SWAP_2022,IL,SWAP,2022,FALSE,Illinois,SWAP,334,concepts,adaptive_capacity_components,life_history,FALSE,0
+IL_SWAP_2022,IL,SWAP,2022,FALSE,Illinois,SWAP,334,context,management_scale,local,TRUE,1
+IL_SWAP_2022,IL,SWAP,2022,FALSE,Illinois,SWAP,334,context,management_scale,site,TRUE,1
+IL_SWAP_2022,IL,SWAP,2022,FALSE,Illinois,SWAP,334,context,management_scale,watershed,TRUE,1
+IL_SWAP_2022,IL,SWAP,2022,FALSE,Illinois,SWAP,334,context,management_scale,city,TRUE,1
+IL_SWAP_2022,IL,SWAP,2022,FALSE,Illinois,SWAP,334,context,management_scale,county,TRUE,1
+IL_SWAP_2022,IL,SWAP,2022,FALSE,Illinois,SWAP,334,context,management_scale,within_state_region,TRUE,1
+IL_SWAP_2022,IL,SWAP,2022,FALSE,Illinois,SWAP,334,context,management_scale,state,TRUE,1
+IL_SWAP_2022,IL,SWAP,2022,FALSE,Illinois,SWAP,334,context,management_scale,multistate,TRUE,1
+IL_SWAP_2022,IL,SWAP,2022,FALSE,Illinois,SWAP,334,context,management_scale,national,FALSE,0
+IL_SWAP_2022,IL,SWAP,2022,FALSE,Illinois,SWAP,334,context,management_scale,transnational,FALSE,0
+IL_SWAP_2022,IL,SWAP,2022,FALSE,Illinois,SWAP,334,context,management_scale,ecosystem,TRUE,1
+IL_SWAP_2022,IL,SWAP,2022,FALSE,Illinois,SWAP,334,context,management_scale,ecoregion,FALSE,0
+IL_SWAP_2022,IL,SWAP,2022,FALSE,Illinois,SWAP,334,context,management_scale,province,FALSE,0
+IL_SWAP_2022,IL,SWAP,2022,FALSE,Illinois,SWAP,334,context,management_scale,section,FALSE,0
+IL_SWAP_2022,IL,SWAP,2022,FALSE,Illinois,SWAP,334,context,management_scale,subsection,FALSE,0
+IL_SWAP_2022,IL,SWAP,2022,FALSE,Illinois,SWAP,334,context,management_scale,lake,TRUE,1
+IL_SWAP_2022,IL,SWAP,2022,FALSE,Illinois,SWAP,334,context,management_scale,river,TRUE,1
+IL_SWAP_2022,IL,SWAP,2022,FALSE,Illinois,SWAP,334,context,management_scale,district,FALSE,0
+IL_SWAP_2022,IL,SWAP,2022,FALSE,Illinois,SWAP,334,context,biological_unit_components,species,TRUE,1
+IL_SWAP_2022,IL,SWAP,2022,FALSE,Illinois,SWAP,334,context,biological_unit_components,population,FALSE,0
+IL_SWAP_2022,IL,SWAP,2022,FALSE,Illinois,SWAP,334,context,biological_unit_components,habitat,TRUE,1
+IL_SWAP_2022,IL,SWAP,2022,FALSE,Illinois,SWAP,334,context,biological_unit_components,ecosystem,FALSE,0
+IL_SWAP_2022,IL,SWAP,2022,FALSE,Illinois,SWAP,334,context,biological_unit_components,community,FALSE,0
+IL_SWAP_2022,IL,SWAP,2022,FALSE,Illinois,SWAP,334,context,biological_unit_components,genotype_phenotype,FALSE,0
+IN_SWAP_2015,IN,SWAP,2015,FALSE,Indiana,SWAP,293,concepts,adaptive_capacity_components,demography,FALSE,0
+IN_SWAP_2015,IN,SWAP,2015,FALSE,Indiana,SWAP,293,concepts,adaptive_capacity_components,distribution,FALSE,0
+IN_SWAP_2015,IN,SWAP,2015,FALSE,Indiana,SWAP,293,concepts,adaptive_capacity_components,movement,FALSE,0
+IN_SWAP_2015,IN,SWAP,2015,FALSE,Indiana,SWAP,293,concepts,adaptive_capacity_components,evolutionary_potential,FALSE,0
+IN_SWAP_2015,IN,SWAP,2015,FALSE,Indiana,SWAP,293,concepts,adaptive_capacity_components,ecological_dependencies,FALSE,0
+IN_SWAP_2015,IN,SWAP,2015,FALSE,Indiana,SWAP,293,concepts,adaptive_capacity_components,abiotic_niche,FALSE,0
+IN_SWAP_2015,IN,SWAP,2015,FALSE,Indiana,SWAP,293,concepts,adaptive_capacity_components,life_history,FALSE,0
+IN_SWAP_2015,IN,SWAP,2015,FALSE,Indiana,SWAP,293,context,management_scale,local,FALSE,0
+IN_SWAP_2015,IN,SWAP,2015,FALSE,Indiana,SWAP,293,context,management_scale,site,TRUE,1
+IN_SWAP_2015,IN,SWAP,2015,FALSE,Indiana,SWAP,293,context,management_scale,watershed,TRUE,1
+IN_SWAP_2015,IN,SWAP,2015,FALSE,Indiana,SWAP,293,context,management_scale,city,FALSE,0
+IN_SWAP_2015,IN,SWAP,2015,FALSE,Indiana,SWAP,293,context,management_scale,county,TRUE,1
+IN_SWAP_2015,IN,SWAP,2015,FALSE,Indiana,SWAP,293,context,management_scale,within_state_region,TRUE,1
+IN_SWAP_2015,IN,SWAP,2015,FALSE,Indiana,SWAP,293,context,management_scale,state,TRUE,1
+IN_SWAP_2015,IN,SWAP,2015,FALSE,Indiana,SWAP,293,context,management_scale,multistate,FALSE,0
+IN_SWAP_2015,IN,SWAP,2015,FALSE,Indiana,SWAP,293,context,management_scale,national,FALSE,0
+IN_SWAP_2015,IN,SWAP,2015,FALSE,Indiana,SWAP,293,context,management_scale,transnational,FALSE,0
+IN_SWAP_2015,IN,SWAP,2015,FALSE,Indiana,SWAP,293,context,management_scale,ecosystem,TRUE,1
+IN_SWAP_2015,IN,SWAP,2015,FALSE,Indiana,SWAP,293,context,management_scale,ecoregion,TRUE,1
+IN_SWAP_2015,IN,SWAP,2015,FALSE,Indiana,SWAP,293,context,management_scale,province,FALSE,0
+IN_SWAP_2015,IN,SWAP,2015,FALSE,Indiana,SWAP,293,context,management_scale,section,FALSE,0
+IN_SWAP_2015,IN,SWAP,2015,FALSE,Indiana,SWAP,293,context,management_scale,subsection,FALSE,0
+IN_SWAP_2015,IN,SWAP,2015,FALSE,Indiana,SWAP,293,context,management_scale,lake,TRUE,1
+IN_SWAP_2015,IN,SWAP,2015,FALSE,Indiana,SWAP,293,context,management_scale,river,TRUE,1
+IN_SWAP_2015,IN,SWAP,2015,FALSE,Indiana,SWAP,293,context,management_scale,district,FALSE,0
+IN_SWAP_2015,IN,SWAP,2015,FALSE,Indiana,SWAP,293,context,biological_unit_components,species,TRUE,1
+IN_SWAP_2015,IN,SWAP,2015,FALSE,Indiana,SWAP,293,context,biological_unit_components,population,TRUE,1
+IN_SWAP_2015,IN,SWAP,2015,FALSE,Indiana,SWAP,293,context,biological_unit_components,habitat,TRUE,1
+IN_SWAP_2015,IN,SWAP,2015,FALSE,Indiana,SWAP,293,context,biological_unit_components,ecosystem,TRUE,1
+IN_SWAP_2015,IN,SWAP,2015,FALSE,Indiana,SWAP,293,context,biological_unit_components,community,TRUE,1
+IN_SWAP_2015,IN,SWAP,2015,FALSE,Indiana,SWAP,293,context,biological_unit_components,genotype_phenotype,FALSE,0
+KS_SWAP_2022,KS,SWAP,2022,FALSE,Kansas,SWAP,194,concepts,adaptive_capacity_components,demography,FALSE,0
+KS_SWAP_2022,KS,SWAP,2022,FALSE,Kansas,SWAP,194,concepts,adaptive_capacity_components,distribution,TRUE,1
+KS_SWAP_2022,KS,SWAP,2022,FALSE,Kansas,SWAP,194,concepts,adaptive_capacity_components,movement,TRUE,2
+KS_SWAP_2022,KS,SWAP,2022,FALSE,Kansas,SWAP,194,concepts,adaptive_capacity_components,evolutionary_potential,TRUE,1
+KS_SWAP_2022,KS,SWAP,2022,FALSE,Kansas,SWAP,194,concepts,adaptive_capacity_components,ecological_dependencies,TRUE,2
+KS_SWAP_2022,KS,SWAP,2022,FALSE,Kansas,SWAP,194,concepts,adaptive_capacity_components,abiotic_niche,TRUE,1
+KS_SWAP_2022,KS,SWAP,2022,FALSE,Kansas,SWAP,194,concepts,adaptive_capacity_components,life_history,FALSE,0
+KS_SWAP_2022,KS,SWAP,2022,FALSE,Kansas,SWAP,194,context,management_scale,local,FALSE,0
+KS_SWAP_2022,KS,SWAP,2022,FALSE,Kansas,SWAP,194,context,management_scale,site,TRUE,1
+KS_SWAP_2022,KS,SWAP,2022,FALSE,Kansas,SWAP,194,context,management_scale,watershed,TRUE,1
+KS_SWAP_2022,KS,SWAP,2022,FALSE,Kansas,SWAP,194,context,management_scale,city,FALSE,0
+KS_SWAP_2022,KS,SWAP,2022,FALSE,Kansas,SWAP,194,context,management_scale,county,TRUE,1
+KS_SWAP_2022,KS,SWAP,2022,FALSE,Kansas,SWAP,194,context,management_scale,within_state_region,TRUE,1
+KS_SWAP_2022,KS,SWAP,2022,FALSE,Kansas,SWAP,194,context,management_scale,state,TRUE,1
+KS_SWAP_2022,KS,SWAP,2022,FALSE,Kansas,SWAP,194,context,management_scale,multistate,FALSE,0
+KS_SWAP_2022,KS,SWAP,2022,FALSE,Kansas,SWAP,194,context,management_scale,national,FALSE,0
+KS_SWAP_2022,KS,SWAP,2022,FALSE,Kansas,SWAP,194,context,management_scale,transnational,FALSE,0
+KS_SWAP_2022,KS,SWAP,2022,FALSE,Kansas,SWAP,194,context,management_scale,ecosystem,TRUE,1
+KS_SWAP_2022,KS,SWAP,2022,FALSE,Kansas,SWAP,194,context,management_scale,ecoregion,TRUE,1
+KS_SWAP_2022,KS,SWAP,2022,FALSE,Kansas,SWAP,194,context,management_scale,province,FALSE,0
+KS_SWAP_2022,KS,SWAP,2022,FALSE,Kansas,SWAP,194,context,management_scale,section,FALSE,0
+KS_SWAP_2022,KS,SWAP,2022,FALSE,Kansas,SWAP,194,context,management_scale,subsection,FALSE,0
+KS_SWAP_2022,KS,SWAP,2022,FALSE,Kansas,SWAP,194,context,management_scale,lake,FALSE,0
+KS_SWAP_2022,KS,SWAP,2022,FALSE,Kansas,SWAP,194,context,management_scale,river,TRUE,1
+KS_SWAP_2022,KS,SWAP,2022,FALSE,Kansas,SWAP,194,context,management_scale,district,FALSE,0
+KS_SWAP_2022,KS,SWAP,2022,FALSE,Kansas,SWAP,194,context,biological_unit_components,species,TRUE,1
+KS_SWAP_2022,KS,SWAP,2022,FALSE,Kansas,SWAP,194,context,biological_unit_components,population,FALSE,0
+KS_SWAP_2022,KS,SWAP,2022,FALSE,Kansas,SWAP,194,context,biological_unit_components,habitat,TRUE,1
+KS_SWAP_2022,KS,SWAP,2022,FALSE,Kansas,SWAP,194,context,biological_unit_components,ecosystem,TRUE,1
+KS_SWAP_2022,KS,SWAP,2022,FALSE,Kansas,SWAP,194,context,biological_unit_components,community,TRUE,1
+KS_SWAP_2022,KS,SWAP,2022,FALSE,Kansas,SWAP,194,context,biological_unit_components,genotype_phenotype,FALSE,0
+KY_SWAP_2023,KY,SWAP,2023,FALSE,Kentucky,SWAP,1632,concepts,adaptive_capacity_components,demography,FALSE,0
+KY_SWAP_2023,KY,SWAP,2023,FALSE,Kentucky,SWAP,1632,concepts,adaptive_capacity_components,distribution,TRUE,1
+KY_SWAP_2023,KY,SWAP,2023,FALSE,Kentucky,SWAP,1632,concepts,adaptive_capacity_components,movement,TRUE,1
+KY_SWAP_2023,KY,SWAP,2023,FALSE,Kentucky,SWAP,1632,concepts,adaptive_capacity_components,evolutionary_potential,FALSE,0
+KY_SWAP_2023,KY,SWAP,2023,FALSE,Kentucky,SWAP,1632,concepts,adaptive_capacity_components,ecological_dependencies,FALSE,0
+KY_SWAP_2023,KY,SWAP,2023,FALSE,Kentucky,SWAP,1632,concepts,adaptive_capacity_components,abiotic_niche,TRUE,1
+KY_SWAP_2023,KY,SWAP,2023,FALSE,Kentucky,SWAP,1632,concepts,adaptive_capacity_components,life_history,FALSE,0
+KY_SWAP_2023,KY,SWAP,2023,FALSE,Kentucky,SWAP,1632,context,management_scale,local,TRUE,1
+KY_SWAP_2023,KY,SWAP,2023,FALSE,Kentucky,SWAP,1632,context,management_scale,site,TRUE,1
+KY_SWAP_2023,KY,SWAP,2023,FALSE,Kentucky,SWAP,1632,context,management_scale,watershed,TRUE,1
+KY_SWAP_2023,KY,SWAP,2023,FALSE,Kentucky,SWAP,1632,context,management_scale,city,FALSE,0
+KY_SWAP_2023,KY,SWAP,2023,FALSE,Kentucky,SWAP,1632,context,management_scale,county,TRUE,1
+KY_SWAP_2023,KY,SWAP,2023,FALSE,Kentucky,SWAP,1632,context,management_scale,within_state_region,TRUE,1
+KY_SWAP_2023,KY,SWAP,2023,FALSE,Kentucky,SWAP,1632,context,management_scale,state,TRUE,1
+KY_SWAP_2023,KY,SWAP,2023,FALSE,Kentucky,SWAP,1632,context,management_scale,multistate,TRUE,1
+KY_SWAP_2023,KY,SWAP,2023,FALSE,Kentucky,SWAP,1632,context,management_scale,national,FALSE,0
+KY_SWAP_2023,KY,SWAP,2023,FALSE,Kentucky,SWAP,1632,context,management_scale,transnational,FALSE,0
+KY_SWAP_2023,KY,SWAP,2023,FALSE,Kentucky,SWAP,1632,context,management_scale,ecosystem,TRUE,1
+KY_SWAP_2023,KY,SWAP,2023,FALSE,Kentucky,SWAP,1632,context,management_scale,ecoregion,TRUE,1
+KY_SWAP_2023,KY,SWAP,2023,FALSE,Kentucky,SWAP,1632,context,management_scale,province,FALSE,0
+KY_SWAP_2023,KY,SWAP,2023,FALSE,Kentucky,SWAP,1632,context,management_scale,section,FALSE,0
+KY_SWAP_2023,KY,SWAP,2023,FALSE,Kentucky,SWAP,1632,context,management_scale,subsection,FALSE,0
+KY_SWAP_2023,KY,SWAP,2023,FALSE,Kentucky,SWAP,1632,context,management_scale,lake,FALSE,0
+KY_SWAP_2023,KY,SWAP,2023,FALSE,Kentucky,SWAP,1632,context,management_scale,river,TRUE,1
+KY_SWAP_2023,KY,SWAP,2023,FALSE,Kentucky,SWAP,1632,context,management_scale,district,FALSE,0
+KY_SWAP_2023,KY,SWAP,2023,FALSE,Kentucky,SWAP,1632,context,biological_unit_components,species,TRUE,1
+KY_SWAP_2023,KY,SWAP,2023,FALSE,Kentucky,SWAP,1632,context,biological_unit_components,population,FALSE,0
+KY_SWAP_2023,KY,SWAP,2023,FALSE,Kentucky,SWAP,1632,context,biological_unit_components,habitat,TRUE,1
+KY_SWAP_2023,KY,SWAP,2023,FALSE,Kentucky,SWAP,1632,context,biological_unit_components,ecosystem,FALSE,0
+KY_SWAP_2023,KY,SWAP,2023,FALSE,Kentucky,SWAP,1632,context,biological_unit_components,community,FALSE,0
+KY_SWAP_2023,KY,SWAP,2023,FALSE,Kentucky,SWAP,1632,context,biological_unit_components,genotype_phenotype,FALSE,0
+LA_SWAP_2025,LA,SWAP,2025,FALSE,Louisiana,SWAP,356,concepts,adaptive_capacity_components,demography,TRUE,1
+LA_SWAP_2025,LA,SWAP,2025,FALSE,Louisiana,SWAP,356,concepts,adaptive_capacity_components,distribution,TRUE,1
+LA_SWAP_2025,LA,SWAP,2025,FALSE,Louisiana,SWAP,356,concepts,adaptive_capacity_components,movement,TRUE,1
+LA_SWAP_2025,LA,SWAP,2025,FALSE,Louisiana,SWAP,356,concepts,adaptive_capacity_components,evolutionary_potential,TRUE,1
+LA_SWAP_2025,LA,SWAP,2025,FALSE,Louisiana,SWAP,356,concepts,adaptive_capacity_components,ecological_dependencies,TRUE,1
+LA_SWAP_2025,LA,SWAP,2025,FALSE,Louisiana,SWAP,356,concepts,adaptive_capacity_components,abiotic_niche,TRUE,1
+LA_SWAP_2025,LA,SWAP,2025,FALSE,Louisiana,SWAP,356,concepts,adaptive_capacity_components,life_history,TRUE,1
+LA_SWAP_2025,LA,SWAP,2025,FALSE,Louisiana,SWAP,356,context,management_scale,local,FALSE,0
+LA_SWAP_2025,LA,SWAP,2025,FALSE,Louisiana,SWAP,356,context,management_scale,site,TRUE,1
+LA_SWAP_2025,LA,SWAP,2025,FALSE,Louisiana,SWAP,356,context,management_scale,watershed,TRUE,1
+LA_SWAP_2025,LA,SWAP,2025,FALSE,Louisiana,SWAP,356,context,management_scale,city,FALSE,0
+LA_SWAP_2025,LA,SWAP,2025,FALSE,Louisiana,SWAP,356,context,management_scale,county,FALSE,0
+LA_SWAP_2025,LA,SWAP,2025,FALSE,Louisiana,SWAP,356,context,management_scale,within_state_region,TRUE,1
+LA_SWAP_2025,LA,SWAP,2025,FALSE,Louisiana,SWAP,356,context,management_scale,state,TRUE,1
+LA_SWAP_2025,LA,SWAP,2025,FALSE,Louisiana,SWAP,356,context,management_scale,multistate,TRUE,1
+LA_SWAP_2025,LA,SWAP,2025,FALSE,Louisiana,SWAP,356,context,management_scale,national,FALSE,0
+LA_SWAP_2025,LA,SWAP,2025,FALSE,Louisiana,SWAP,356,context,management_scale,transnational,FALSE,0
+LA_SWAP_2025,LA,SWAP,2025,FALSE,Louisiana,SWAP,356,context,management_scale,ecosystem,TRUE,1
+LA_SWAP_2025,LA,SWAP,2025,FALSE,Louisiana,SWAP,356,context,management_scale,ecoregion,TRUE,1
+LA_SWAP_2025,LA,SWAP,2025,FALSE,Louisiana,SWAP,356,context,management_scale,province,FALSE,0
+LA_SWAP_2025,LA,SWAP,2025,FALSE,Louisiana,SWAP,356,context,management_scale,section,FALSE,0
+LA_SWAP_2025,LA,SWAP,2025,FALSE,Louisiana,SWAP,356,context,management_scale,subsection,FALSE,0
+LA_SWAP_2025,LA,SWAP,2025,FALSE,Louisiana,SWAP,356,context,management_scale,lake,FALSE,0
+LA_SWAP_2025,LA,SWAP,2025,FALSE,Louisiana,SWAP,356,context,management_scale,river,FALSE,0
+LA_SWAP_2025,LA,SWAP,2025,FALSE,Louisiana,SWAP,356,context,management_scale,district,FALSE,0
+LA_SWAP_2025,LA,SWAP,2025,FALSE,Louisiana,SWAP,356,context,biological_unit_components,species,TRUE,1
+LA_SWAP_2025,LA,SWAP,2025,FALSE,Louisiana,SWAP,356,context,biological_unit_components,population,TRUE,1
+LA_SWAP_2025,LA,SWAP,2025,FALSE,Louisiana,SWAP,356,context,biological_unit_components,habitat,TRUE,1
+LA_SWAP_2025,LA,SWAP,2025,FALSE,Louisiana,SWAP,356,context,biological_unit_components,ecosystem,TRUE,1
+LA_SWAP_2025,LA,SWAP,2025,FALSE,Louisiana,SWAP,356,context,biological_unit_components,community,TRUE,1
+LA_SWAP_2025,LA,SWAP,2025,FALSE,Louisiana,SWAP,356,context,biological_unit_components,genotype_phenotype,FALSE,0
+MA_SWAP_2015,MA,SWAP,2015,FALSE,Massachusetts,SWAP,410,concepts,adaptive_capacity_components,demography,TRUE,1
+MA_SWAP_2015,MA,SWAP,2015,FALSE,Massachusetts,SWAP,410,concepts,adaptive_capacity_components,distribution,TRUE,2
+MA_SWAP_2015,MA,SWAP,2015,FALSE,Massachusetts,SWAP,410,concepts,adaptive_capacity_components,movement,TRUE,2
+MA_SWAP_2015,MA,SWAP,2015,FALSE,Massachusetts,SWAP,410,concepts,adaptive_capacity_components,evolutionary_potential,FALSE,0
+MA_SWAP_2015,MA,SWAP,2015,FALSE,Massachusetts,SWAP,410,concepts,adaptive_capacity_components,ecological_dependencies,TRUE,1
+MA_SWAP_2015,MA,SWAP,2015,FALSE,Massachusetts,SWAP,410,concepts,adaptive_capacity_components,abiotic_niche,TRUE,2
+MA_SWAP_2015,MA,SWAP,2015,FALSE,Massachusetts,SWAP,410,concepts,adaptive_capacity_components,life_history,TRUE,1
+MA_SWAP_2015,MA,SWAP,2015,FALSE,Massachusetts,SWAP,410,context,management_scale,local,TRUE,1
+MA_SWAP_2015,MA,SWAP,2015,FALSE,Massachusetts,SWAP,410,context,management_scale,site,TRUE,1
+MA_SWAP_2015,MA,SWAP,2015,FALSE,Massachusetts,SWAP,410,context,management_scale,watershed,TRUE,1
+MA_SWAP_2015,MA,SWAP,2015,FALSE,Massachusetts,SWAP,410,context,management_scale,city,FALSE,0
+MA_SWAP_2015,MA,SWAP,2015,FALSE,Massachusetts,SWAP,410,context,management_scale,county,FALSE,0
+MA_SWAP_2015,MA,SWAP,2015,FALSE,Massachusetts,SWAP,410,context,management_scale,within_state_region,TRUE,1
+MA_SWAP_2015,MA,SWAP,2015,FALSE,Massachusetts,SWAP,410,context,management_scale,state,TRUE,1
+MA_SWAP_2015,MA,SWAP,2015,FALSE,Massachusetts,SWAP,410,context,management_scale,multistate,TRUE,1
+MA_SWAP_2015,MA,SWAP,2015,FALSE,Massachusetts,SWAP,410,context,management_scale,national,FALSE,0
+MA_SWAP_2015,MA,SWAP,2015,FALSE,Massachusetts,SWAP,410,context,management_scale,transnational,FALSE,0
+MA_SWAP_2015,MA,SWAP,2015,FALSE,Massachusetts,SWAP,410,context,management_scale,ecosystem,TRUE,1
+MA_SWAP_2015,MA,SWAP,2015,FALSE,Massachusetts,SWAP,410,context,management_scale,ecoregion,TRUE,1
+MA_SWAP_2015,MA,SWAP,2015,FALSE,Massachusetts,SWAP,410,context,management_scale,province,FALSE,0
+MA_SWAP_2015,MA,SWAP,2015,FALSE,Massachusetts,SWAP,410,context,management_scale,section,FALSE,0
+MA_SWAP_2015,MA,SWAP,2015,FALSE,Massachusetts,SWAP,410,context,management_scale,subsection,FALSE,0
+MA_SWAP_2015,MA,SWAP,2015,FALSE,Massachusetts,SWAP,410,context,management_scale,lake,FALSE,0
+MA_SWAP_2015,MA,SWAP,2015,FALSE,Massachusetts,SWAP,410,context,management_scale,river,FALSE,0
+MA_SWAP_2015,MA,SWAP,2015,FALSE,Massachusetts,SWAP,410,context,management_scale,district,FALSE,0
+MA_SWAP_2015,MA,SWAP,2015,FALSE,Massachusetts,SWAP,410,context,biological_unit_components,species,TRUE,1
+MA_SWAP_2015,MA,SWAP,2015,FALSE,Massachusetts,SWAP,410,context,biological_unit_components,population,TRUE,1
+MA_SWAP_2015,MA,SWAP,2015,FALSE,Massachusetts,SWAP,410,context,biological_unit_components,habitat,TRUE,1
+MA_SWAP_2015,MA,SWAP,2015,FALSE,Massachusetts,SWAP,410,context,biological_unit_components,ecosystem,TRUE,1
+MA_SWAP_2015,MA,SWAP,2015,FALSE,Massachusetts,SWAP,410,context,biological_unit_components,community,TRUE,1
+MA_SWAP_2015,MA,SWAP,2015,FALSE,Massachusetts,SWAP,410,context,biological_unit_components,genotype_phenotype,FALSE,0
+MD_SWAP_2025_draft,MD,SWAP,2025,TRUE,Maryland,SWAP,672,concepts,adaptive_capacity_components,demography,TRUE,1
+MD_SWAP_2025_draft,MD,SWAP,2025,TRUE,Maryland,SWAP,672,concepts,adaptive_capacity_components,distribution,TRUE,1
+MD_SWAP_2025_draft,MD,SWAP,2025,TRUE,Maryland,SWAP,672,concepts,adaptive_capacity_components,movement,TRUE,2
+MD_SWAP_2025_draft,MD,SWAP,2025,TRUE,Maryland,SWAP,672,concepts,adaptive_capacity_components,evolutionary_potential,FALSE,0
+MD_SWAP_2025_draft,MD,SWAP,2025,TRUE,Maryland,SWAP,672,concepts,adaptive_capacity_components,ecological_dependencies,TRUE,1
+MD_SWAP_2025_draft,MD,SWAP,2025,TRUE,Maryland,SWAP,672,concepts,adaptive_capacity_components,abiotic_niche,TRUE,1
+MD_SWAP_2025_draft,MD,SWAP,2025,TRUE,Maryland,SWAP,672,concepts,adaptive_capacity_components,life_history,TRUE,1
+MD_SWAP_2025_draft,MD,SWAP,2025,TRUE,Maryland,SWAP,672,context,management_scale,local,TRUE,1
+MD_SWAP_2025_draft,MD,SWAP,2025,TRUE,Maryland,SWAP,672,context,management_scale,site,TRUE,1
+MD_SWAP_2025_draft,MD,SWAP,2025,TRUE,Maryland,SWAP,672,context,management_scale,watershed,TRUE,1
+MD_SWAP_2025_draft,MD,SWAP,2025,TRUE,Maryland,SWAP,672,context,management_scale,city,FALSE,0
+MD_SWAP_2025_draft,MD,SWAP,2025,TRUE,Maryland,SWAP,672,context,management_scale,county,TRUE,1
+MD_SWAP_2025_draft,MD,SWAP,2025,TRUE,Maryland,SWAP,672,context,management_scale,within_state_region,TRUE,1
+MD_SWAP_2025_draft,MD,SWAP,2025,TRUE,Maryland,SWAP,672,context,management_scale,state,TRUE,1
+MD_SWAP_2025_draft,MD,SWAP,2025,TRUE,Maryland,SWAP,672,context,management_scale,multistate,TRUE,1
+MD_SWAP_2025_draft,MD,SWAP,2025,TRUE,Maryland,SWAP,672,context,management_scale,national,TRUE,1
+MD_SWAP_2025_draft,MD,SWAP,2025,TRUE,Maryland,SWAP,672,context,management_scale,transnational,FALSE,0
+MD_SWAP_2025_draft,MD,SWAP,2025,TRUE,Maryland,SWAP,672,context,management_scale,ecosystem,TRUE,1
+MD_SWAP_2025_draft,MD,SWAP,2025,TRUE,Maryland,SWAP,672,context,management_scale,ecoregion,TRUE,1
+MD_SWAP_2025_draft,MD,SWAP,2025,TRUE,Maryland,SWAP,672,context,management_scale,province,TRUE,1
+MD_SWAP_2025_draft,MD,SWAP,2025,TRUE,Maryland,SWAP,672,context,management_scale,section,FALSE,0
+MD_SWAP_2025_draft,MD,SWAP,2025,TRUE,Maryland,SWAP,672,context,management_scale,subsection,FALSE,0
+MD_SWAP_2025_draft,MD,SWAP,2025,TRUE,Maryland,SWAP,672,context,management_scale,lake,FALSE,0
+MD_SWAP_2025_draft,MD,SWAP,2025,TRUE,Maryland,SWAP,672,context,management_scale,river,TRUE,1
+MD_SWAP_2025_draft,MD,SWAP,2025,TRUE,Maryland,SWAP,672,context,management_scale,district,FALSE,0
+MD_SWAP_2025_draft,MD,SWAP,2025,TRUE,Maryland,SWAP,672,context,biological_unit_components,species,TRUE,1
+MD_SWAP_2025_draft,MD,SWAP,2025,TRUE,Maryland,SWAP,672,context,biological_unit_components,population,TRUE,1
+MD_SWAP_2025_draft,MD,SWAP,2025,TRUE,Maryland,SWAP,672,context,biological_unit_components,habitat,TRUE,1
+MD_SWAP_2025_draft,MD,SWAP,2025,TRUE,Maryland,SWAP,672,context,biological_unit_components,ecosystem,TRUE,1
+MD_SWAP_2025_draft,MD,SWAP,2025,TRUE,Maryland,SWAP,672,context,biological_unit_components,community,TRUE,1
+MD_SWAP_2025_draft,MD,SWAP,2025,TRUE,Maryland,SWAP,672,context,biological_unit_components,genotype_phenotype,FALSE,0
+ME_SWAP_2025,ME,SWAP,2025,FALSE,Maine,SWAP,643,concepts,adaptive_capacity_components,demography,FALSE,0
+ME_SWAP_2025,ME,SWAP,2025,FALSE,Maine,SWAP,643,concepts,adaptive_capacity_components,distribution,TRUE,2
+ME_SWAP_2025,ME,SWAP,2025,FALSE,Maine,SWAP,643,concepts,adaptive_capacity_components,movement,TRUE,2
+ME_SWAP_2025,ME,SWAP,2025,FALSE,Maine,SWAP,643,concepts,adaptive_capacity_components,evolutionary_potential,FALSE,0
+ME_SWAP_2025,ME,SWAP,2025,FALSE,Maine,SWAP,643,concepts,adaptive_capacity_components,ecological_dependencies,TRUE,1
+ME_SWAP_2025,ME,SWAP,2025,FALSE,Maine,SWAP,643,concepts,adaptive_capacity_components,abiotic_niche,TRUE,1
+ME_SWAP_2025,ME,SWAP,2025,FALSE,Maine,SWAP,643,concepts,adaptive_capacity_components,life_history,TRUE,1
+ME_SWAP_2025,ME,SWAP,2025,FALSE,Maine,SWAP,643,context,management_scale,local,TRUE,1
+ME_SWAP_2025,ME,SWAP,2025,FALSE,Maine,SWAP,643,context,management_scale,site,TRUE,1
+ME_SWAP_2025,ME,SWAP,2025,FALSE,Maine,SWAP,643,context,management_scale,watershed,TRUE,1
+ME_SWAP_2025,ME,SWAP,2025,FALSE,Maine,SWAP,643,context,management_scale,city,FALSE,0
+ME_SWAP_2025,ME,SWAP,2025,FALSE,Maine,SWAP,643,context,management_scale,county,FALSE,0
+ME_SWAP_2025,ME,SWAP,2025,FALSE,Maine,SWAP,643,context,management_scale,within_state_region,TRUE,1
+ME_SWAP_2025,ME,SWAP,2025,FALSE,Maine,SWAP,643,context,management_scale,state,TRUE,1
+ME_SWAP_2025,ME,SWAP,2025,FALSE,Maine,SWAP,643,context,management_scale,multistate,TRUE,1
+ME_SWAP_2025,ME,SWAP,2025,FALSE,Maine,SWAP,643,context,management_scale,national,FALSE,0
+ME_SWAP_2025,ME,SWAP,2025,FALSE,Maine,SWAP,643,context,management_scale,transnational,TRUE,1
+ME_SWAP_2025,ME,SWAP,2025,FALSE,Maine,SWAP,643,context,management_scale,ecosystem,TRUE,1
+ME_SWAP_2025,ME,SWAP,2025,FALSE,Maine,SWAP,643,context,management_scale,ecoregion,TRUE,1
+ME_SWAP_2025,ME,SWAP,2025,FALSE,Maine,SWAP,643,context,management_scale,province,FALSE,0
+ME_SWAP_2025,ME,SWAP,2025,FALSE,Maine,SWAP,643,context,management_scale,section,TRUE,1
+ME_SWAP_2025,ME,SWAP,2025,FALSE,Maine,SWAP,643,context,management_scale,subsection,FALSE,0
+ME_SWAP_2025,ME,SWAP,2025,FALSE,Maine,SWAP,643,context,management_scale,lake,TRUE,1
+ME_SWAP_2025,ME,SWAP,2025,FALSE,Maine,SWAP,643,context,management_scale,river,TRUE,1
+ME_SWAP_2025,ME,SWAP,2025,FALSE,Maine,SWAP,643,context,management_scale,district,FALSE,0
+ME_SWAP_2025,ME,SWAP,2025,FALSE,Maine,SWAP,643,context,biological_unit_components,species,TRUE,1
+ME_SWAP_2025,ME,SWAP,2025,FALSE,Maine,SWAP,643,context,biological_unit_components,population,TRUE,1
+ME_SWAP_2025,ME,SWAP,2025,FALSE,Maine,SWAP,643,context,biological_unit_components,habitat,TRUE,1
+ME_SWAP_2025,ME,SWAP,2025,FALSE,Maine,SWAP,643,context,biological_unit_components,ecosystem,TRUE,1
+ME_SWAP_2025,ME,SWAP,2025,FALSE,Maine,SWAP,643,context,biological_unit_components,community,TRUE,1
+ME_SWAP_2025,ME,SWAP,2025,FALSE,Maine,SWAP,643,context,biological_unit_components,genotype_phenotype,FALSE,0
+MI_SWAP_2025_draft,MI,SWAP,2025,TRUE,Michigan,SWAP,480,concepts,adaptive_capacity_components,demography,TRUE,1
+MI_SWAP_2025_draft,MI,SWAP,2025,TRUE,Michigan,SWAP,480,concepts,adaptive_capacity_components,distribution,TRUE,1
+MI_SWAP_2025_draft,MI,SWAP,2025,TRUE,Michigan,SWAP,480,concepts,adaptive_capacity_components,movement,TRUE,1
+MI_SWAP_2025_draft,MI,SWAP,2025,TRUE,Michigan,SWAP,480,concepts,adaptive_capacity_components,evolutionary_potential,TRUE,1
+MI_SWAP_2025_draft,MI,SWAP,2025,TRUE,Michigan,SWAP,480,concepts,adaptive_capacity_components,ecological_dependencies,TRUE,1
+MI_SWAP_2025_draft,MI,SWAP,2025,TRUE,Michigan,SWAP,480,concepts,adaptive_capacity_components,abiotic_niche,TRUE,1
+MI_SWAP_2025_draft,MI,SWAP,2025,TRUE,Michigan,SWAP,480,concepts,adaptive_capacity_components,life_history,TRUE,1
+MI_SWAP_2025_draft,MI,SWAP,2025,TRUE,Michigan,SWAP,480,context,management_scale,local,TRUE,1
+MI_SWAP_2025_draft,MI,SWAP,2025,TRUE,Michigan,SWAP,480,context,management_scale,site,TRUE,1
+MI_SWAP_2025_draft,MI,SWAP,2025,TRUE,Michigan,SWAP,480,context,management_scale,watershed,TRUE,1
+MI_SWAP_2025_draft,MI,SWAP,2025,TRUE,Michigan,SWAP,480,context,management_scale,city,FALSE,0
+MI_SWAP_2025_draft,MI,SWAP,2025,TRUE,Michigan,SWAP,480,context,management_scale,county,FALSE,0
+MI_SWAP_2025_draft,MI,SWAP,2025,TRUE,Michigan,SWAP,480,context,management_scale,within_state_region,TRUE,1
+MI_SWAP_2025_draft,MI,SWAP,2025,TRUE,Michigan,SWAP,480,context,management_scale,state,TRUE,1
+MI_SWAP_2025_draft,MI,SWAP,2025,TRUE,Michigan,SWAP,480,context,management_scale,multistate,TRUE,1
+MI_SWAP_2025_draft,MI,SWAP,2025,TRUE,Michigan,SWAP,480,context,management_scale,national,FALSE,0
+MI_SWAP_2025_draft,MI,SWAP,2025,TRUE,Michigan,SWAP,480,context,management_scale,transnational,TRUE,1
+MI_SWAP_2025_draft,MI,SWAP,2025,TRUE,Michigan,SWAP,480,context,management_scale,ecosystem,TRUE,1
+MI_SWAP_2025_draft,MI,SWAP,2025,TRUE,Michigan,SWAP,480,context,management_scale,ecoregion,FALSE,0
+MI_SWAP_2025_draft,MI,SWAP,2025,TRUE,Michigan,SWAP,480,context,management_scale,province,FALSE,0
+MI_SWAP_2025_draft,MI,SWAP,2025,TRUE,Michigan,SWAP,480,context,management_scale,section,FALSE,0
+MI_SWAP_2025_draft,MI,SWAP,2025,TRUE,Michigan,SWAP,480,context,management_scale,subsection,FALSE,0
+MI_SWAP_2025_draft,MI,SWAP,2025,TRUE,Michigan,SWAP,480,context,management_scale,lake,TRUE,1
+MI_SWAP_2025_draft,MI,SWAP,2025,TRUE,Michigan,SWAP,480,context,management_scale,river,TRUE,1
+MI_SWAP_2025_draft,MI,SWAP,2025,TRUE,Michigan,SWAP,480,context,management_scale,district,FALSE,0
+MI_SWAP_2025_draft,MI,SWAP,2025,TRUE,Michigan,SWAP,480,context,biological_unit_components,species,TRUE,1
+MI_SWAP_2025_draft,MI,SWAP,2025,TRUE,Michigan,SWAP,480,context,biological_unit_components,population,TRUE,1
+MI_SWAP_2025_draft,MI,SWAP,2025,TRUE,Michigan,SWAP,480,context,biological_unit_components,habitat,TRUE,1
+MI_SWAP_2025_draft,MI,SWAP,2025,TRUE,Michigan,SWAP,480,context,biological_unit_components,ecosystem,TRUE,1
+MI_SWAP_2025_draft,MI,SWAP,2025,TRUE,Michigan,SWAP,480,context,biological_unit_components,community,TRUE,1
+MI_SWAP_2025_draft,MI,SWAP,2025,TRUE,Michigan,SWAP,480,context,biological_unit_components,genotype_phenotype,TRUE,1
+MN_SWAP_2015,MN,SWAP,2015,FALSE,Minnesota,SWAP,240,concepts,adaptive_capacity_components,demography,TRUE,1
+MN_SWAP_2015,MN,SWAP,2015,FALSE,Minnesota,SWAP,240,concepts,adaptive_capacity_components,distribution,TRUE,1
+MN_SWAP_2015,MN,SWAP,2015,FALSE,Minnesota,SWAP,240,concepts,adaptive_capacity_components,movement,TRUE,2
+MN_SWAP_2015,MN,SWAP,2015,FALSE,Minnesota,SWAP,240,concepts,adaptive_capacity_components,evolutionary_potential,TRUE,2
+MN_SWAP_2015,MN,SWAP,2015,FALSE,Minnesota,SWAP,240,concepts,adaptive_capacity_components,ecological_dependencies,TRUE,2
+MN_SWAP_2015,MN,SWAP,2015,FALSE,Minnesota,SWAP,240,concepts,adaptive_capacity_components,abiotic_niche,TRUE,1
+MN_SWAP_2015,MN,SWAP,2015,FALSE,Minnesota,SWAP,240,concepts,adaptive_capacity_components,life_history,TRUE,1
+MN_SWAP_2015,MN,SWAP,2015,FALSE,Minnesota,SWAP,240,context,management_scale,local,TRUE,1
+MN_SWAP_2015,MN,SWAP,2015,FALSE,Minnesota,SWAP,240,context,management_scale,site,TRUE,1
+MN_SWAP_2015,MN,SWAP,2015,FALSE,Minnesota,SWAP,240,context,management_scale,watershed,TRUE,1
+MN_SWAP_2015,MN,SWAP,2015,FALSE,Minnesota,SWAP,240,context,management_scale,city,FALSE,0
+MN_SWAP_2015,MN,SWAP,2015,FALSE,Minnesota,SWAP,240,context,management_scale,county,TRUE,1
+MN_SWAP_2015,MN,SWAP,2015,FALSE,Minnesota,SWAP,240,context,management_scale,within_state_region,TRUE,1
+MN_SWAP_2015,MN,SWAP,2015,FALSE,Minnesota,SWAP,240,context,management_scale,state,TRUE,1
+MN_SWAP_2015,MN,SWAP,2015,FALSE,Minnesota,SWAP,240,context,management_scale,multistate,TRUE,1
+MN_SWAP_2015,MN,SWAP,2015,FALSE,Minnesota,SWAP,240,context,management_scale,national,TRUE,1
+MN_SWAP_2015,MN,SWAP,2015,FALSE,Minnesota,SWAP,240,context,management_scale,transnational,FALSE,0
+MN_SWAP_2015,MN,SWAP,2015,FALSE,Minnesota,SWAP,240,context,management_scale,ecosystem,TRUE,1
+MN_SWAP_2015,MN,SWAP,2015,FALSE,Minnesota,SWAP,240,context,management_scale,ecoregion,TRUE,1
+MN_SWAP_2015,MN,SWAP,2015,FALSE,Minnesota,SWAP,240,context,management_scale,province,TRUE,1
+MN_SWAP_2015,MN,SWAP,2015,FALSE,Minnesota,SWAP,240,context,management_scale,section,TRUE,1
+MN_SWAP_2015,MN,SWAP,2015,FALSE,Minnesota,SWAP,240,context,management_scale,subsection,TRUE,1
+MN_SWAP_2015,MN,SWAP,2015,FALSE,Minnesota,SWAP,240,context,management_scale,lake,TRUE,1
+MN_SWAP_2015,MN,SWAP,2015,FALSE,Minnesota,SWAP,240,context,management_scale,river,TRUE,1
+MN_SWAP_2015,MN,SWAP,2015,FALSE,Minnesota,SWAP,240,context,management_scale,district,FALSE,0
+MN_SWAP_2015,MN,SWAP,2015,FALSE,Minnesota,SWAP,240,context,biological_unit_components,species,TRUE,1
+MN_SWAP_2015,MN,SWAP,2015,FALSE,Minnesota,SWAP,240,context,biological_unit_components,population,TRUE,1
+MN_SWAP_2015,MN,SWAP,2015,FALSE,Minnesota,SWAP,240,context,biological_unit_components,habitat,TRUE,1
+MN_SWAP_2015,MN,SWAP,2015,FALSE,Minnesota,SWAP,240,context,biological_unit_components,ecosystem,TRUE,1
+MN_SWAP_2015,MN,SWAP,2015,FALSE,Minnesota,SWAP,240,context,biological_unit_components,community,TRUE,1
+MN_SWAP_2015,MN,SWAP,2015,FALSE,Minnesota,SWAP,240,context,biological_unit_components,genotype_phenotype,FALSE,0
+MO_SWAP_2015,MO,SWAP,2015,FALSE,Missouri,SWAP,253,concepts,adaptive_capacity_components,demography,FALSE,0
+MO_SWAP_2015,MO,SWAP,2015,FALSE,Missouri,SWAP,253,concepts,adaptive_capacity_components,distribution,TRUE,1
+MO_SWAP_2015,MO,SWAP,2015,FALSE,Missouri,SWAP,253,concepts,adaptive_capacity_components,movement,TRUE,1
+MO_SWAP_2015,MO,SWAP,2015,FALSE,Missouri,SWAP,253,concepts,adaptive_capacity_components,evolutionary_potential,FALSE,0
+MO_SWAP_2015,MO,SWAP,2015,FALSE,Missouri,SWAP,253,concepts,adaptive_capacity_components,ecological_dependencies,FALSE,0
+MO_SWAP_2015,MO,SWAP,2015,FALSE,Missouri,SWAP,253,concepts,adaptive_capacity_components,abiotic_niche,TRUE,1
+MO_SWAP_2015,MO,SWAP,2015,FALSE,Missouri,SWAP,253,concepts,adaptive_capacity_components,life_history,FALSE,0
+MO_SWAP_2015,MO,SWAP,2015,FALSE,Missouri,SWAP,253,context,management_scale,local,TRUE,1
+MO_SWAP_2015,MO,SWAP,2015,FALSE,Missouri,SWAP,253,context,management_scale,site,TRUE,1
+MO_SWAP_2015,MO,SWAP,2015,FALSE,Missouri,SWAP,253,context,management_scale,watershed,TRUE,1
+MO_SWAP_2015,MO,SWAP,2015,FALSE,Missouri,SWAP,253,context,management_scale,city,FALSE,0
+MO_SWAP_2015,MO,SWAP,2015,FALSE,Missouri,SWAP,253,context,management_scale,county,FALSE,0
+MO_SWAP_2015,MO,SWAP,2015,FALSE,Missouri,SWAP,253,context,management_scale,within_state_region,TRUE,1
+MO_SWAP_2015,MO,SWAP,2015,FALSE,Missouri,SWAP,253,context,management_scale,state,TRUE,1
+MO_SWAP_2015,MO,SWAP,2015,FALSE,Missouri,SWAP,253,context,management_scale,multistate,TRUE,1
+MO_SWAP_2015,MO,SWAP,2015,FALSE,Missouri,SWAP,253,context,management_scale,national,FALSE,0
+MO_SWAP_2015,MO,SWAP,2015,FALSE,Missouri,SWAP,253,context,management_scale,transnational,FALSE,0
+MO_SWAP_2015,MO,SWAP,2015,FALSE,Missouri,SWAP,253,context,management_scale,ecosystem,TRUE,1
+MO_SWAP_2015,MO,SWAP,2015,FALSE,Missouri,SWAP,253,context,management_scale,ecoregion,TRUE,1
+MO_SWAP_2015,MO,SWAP,2015,FALSE,Missouri,SWAP,253,context,management_scale,province,FALSE,0
+MO_SWAP_2015,MO,SWAP,2015,FALSE,Missouri,SWAP,253,context,management_scale,section,FALSE,0
+MO_SWAP_2015,MO,SWAP,2015,FALSE,Missouri,SWAP,253,context,management_scale,subsection,FALSE,0
+MO_SWAP_2015,MO,SWAP,2015,FALSE,Missouri,SWAP,253,context,management_scale,lake,FALSE,0
+MO_SWAP_2015,MO,SWAP,2015,FALSE,Missouri,SWAP,253,context,management_scale,river,TRUE,1
+MO_SWAP_2015,MO,SWAP,2015,FALSE,Missouri,SWAP,253,context,management_scale,district,FALSE,0
+MO_SWAP_2015,MO,SWAP,2015,FALSE,Missouri,SWAP,253,context,biological_unit_components,species,TRUE,1
+MO_SWAP_2015,MO,SWAP,2015,FALSE,Missouri,SWAP,253,context,biological_unit_components,population,FALSE,0
+MO_SWAP_2015,MO,SWAP,2015,FALSE,Missouri,SWAP,253,context,biological_unit_components,habitat,TRUE,1
+MO_SWAP_2015,MO,SWAP,2015,FALSE,Missouri,SWAP,253,context,biological_unit_components,ecosystem,TRUE,1
+MO_SWAP_2015,MO,SWAP,2015,FALSE,Missouri,SWAP,253,context,biological_unit_components,community,TRUE,1
+MO_SWAP_2015,MO,SWAP,2015,FALSE,Missouri,SWAP,253,context,biological_unit_components,genotype_phenotype,FALSE,0
+MS_SWAP_2025_draft,MS,SWAP,2025,TRUE,Mississippi,SWAP,1493,concepts,adaptive_capacity_components,demography,FALSE,0
+MS_SWAP_2025_draft,MS,SWAP,2025,TRUE,Mississippi,SWAP,1493,concepts,adaptive_capacity_components,distribution,TRUE,1
+MS_SWAP_2025_draft,MS,SWAP,2025,TRUE,Mississippi,SWAP,1493,concepts,adaptive_capacity_components,movement,TRUE,1
+MS_SWAP_2025_draft,MS,SWAP,2025,TRUE,Mississippi,SWAP,1493,concepts,adaptive_capacity_components,evolutionary_potential,FALSE,0
+MS_SWAP_2025_draft,MS,SWAP,2025,TRUE,Mississippi,SWAP,1493,concepts,adaptive_capacity_components,ecological_dependencies,TRUE,1
+MS_SWAP_2025_draft,MS,SWAP,2025,TRUE,Mississippi,SWAP,1493,concepts,adaptive_capacity_components,abiotic_niche,TRUE,1
+MS_SWAP_2025_draft,MS,SWAP,2025,TRUE,Mississippi,SWAP,1493,concepts,adaptive_capacity_components,life_history,FALSE,0
+MS_SWAP_2025_draft,MS,SWAP,2025,TRUE,Mississippi,SWAP,1493,context,management_scale,local,FALSE,0
+MS_SWAP_2025_draft,MS,SWAP,2025,TRUE,Mississippi,SWAP,1493,context,management_scale,site,TRUE,1
+MS_SWAP_2025_draft,MS,SWAP,2025,TRUE,Mississippi,SWAP,1493,context,management_scale,watershed,TRUE,1
+MS_SWAP_2025_draft,MS,SWAP,2025,TRUE,Mississippi,SWAP,1493,context,management_scale,city,FALSE,0
+MS_SWAP_2025_draft,MS,SWAP,2025,TRUE,Mississippi,SWAP,1493,context,management_scale,county,FALSE,0
+MS_SWAP_2025_draft,MS,SWAP,2025,TRUE,Mississippi,SWAP,1493,context,management_scale,within_state_region,TRUE,1
+MS_SWAP_2025_draft,MS,SWAP,2025,TRUE,Mississippi,SWAP,1493,context,management_scale,state,TRUE,1
+MS_SWAP_2025_draft,MS,SWAP,2025,TRUE,Mississippi,SWAP,1493,context,management_scale,multistate,TRUE,1
+MS_SWAP_2025_draft,MS,SWAP,2025,TRUE,Mississippi,SWAP,1493,context,management_scale,national,FALSE,0
+MS_SWAP_2025_draft,MS,SWAP,2025,TRUE,Mississippi,SWAP,1493,context,management_scale,transnational,FALSE,0
+MS_SWAP_2025_draft,MS,SWAP,2025,TRUE,Mississippi,SWAP,1493,context,management_scale,ecosystem,TRUE,1
+MS_SWAP_2025_draft,MS,SWAP,2025,TRUE,Mississippi,SWAP,1493,context,management_scale,ecoregion,TRUE,1
+MS_SWAP_2025_draft,MS,SWAP,2025,TRUE,Mississippi,SWAP,1493,context,management_scale,province,FALSE,0
+MS_SWAP_2025_draft,MS,SWAP,2025,TRUE,Mississippi,SWAP,1493,context,management_scale,section,FALSE,0
+MS_SWAP_2025_draft,MS,SWAP,2025,TRUE,Mississippi,SWAP,1493,context,management_scale,subsection,FALSE,0
+MS_SWAP_2025_draft,MS,SWAP,2025,TRUE,Mississippi,SWAP,1493,context,management_scale,lake,FALSE,0
+MS_SWAP_2025_draft,MS,SWAP,2025,TRUE,Mississippi,SWAP,1493,context,management_scale,river,FALSE,0
+MS_SWAP_2025_draft,MS,SWAP,2025,TRUE,Mississippi,SWAP,1493,context,management_scale,district,FALSE,0
+MS_SWAP_2025_draft,MS,SWAP,2025,TRUE,Mississippi,SWAP,1493,context,biological_unit_components,species,TRUE,1
+MS_SWAP_2025_draft,MS,SWAP,2025,TRUE,Mississippi,SWAP,1493,context,biological_unit_components,population,TRUE,1
+MS_SWAP_2025_draft,MS,SWAP,2025,TRUE,Mississippi,SWAP,1493,context,biological_unit_components,habitat,TRUE,1
+MS_SWAP_2025_draft,MS,SWAP,2025,TRUE,Mississippi,SWAP,1493,context,biological_unit_components,ecosystem,TRUE,1
+MS_SWAP_2025_draft,MS,SWAP,2025,TRUE,Mississippi,SWAP,1493,context,biological_unit_components,community,TRUE,1
+MS_SWAP_2025_draft,MS,SWAP,2025,TRUE,Mississippi,SWAP,1493,context,biological_unit_components,genotype_phenotype,FALSE,0
+MT_SWAP_2025_draft,MT,SWAP,2025,TRUE,"Montana Fish, Wildlife & Parks",SWAP,688,concepts,adaptive_capacity_components,demography,FALSE,0
+MT_SWAP_2025_draft,MT,SWAP,2025,TRUE,"Montana Fish, Wildlife & Parks",SWAP,688,concepts,adaptive_capacity_components,distribution,TRUE,1
+MT_SWAP_2025_draft,MT,SWAP,2025,TRUE,"Montana Fish, Wildlife & Parks",SWAP,688,concepts,adaptive_capacity_components,movement,TRUE,2
+MT_SWAP_2025_draft,MT,SWAP,2025,TRUE,"Montana Fish, Wildlife & Parks",SWAP,688,concepts,adaptive_capacity_components,evolutionary_potential,TRUE,1
+MT_SWAP_2025_draft,MT,SWAP,2025,TRUE,"Montana Fish, Wildlife & Parks",SWAP,688,concepts,adaptive_capacity_components,ecological_dependencies,FALSE,0
+MT_SWAP_2025_draft,MT,SWAP,2025,TRUE,"Montana Fish, Wildlife & Parks",SWAP,688,concepts,adaptive_capacity_components,abiotic_niche,TRUE,1
+MT_SWAP_2025_draft,MT,SWAP,2025,TRUE,"Montana Fish, Wildlife & Parks",SWAP,688,concepts,adaptive_capacity_components,life_history,FALSE,0
+MT_SWAP_2025_draft,MT,SWAP,2025,TRUE,"Montana Fish, Wildlife & Parks",SWAP,688,context,management_scale,local,TRUE,1
+MT_SWAP_2025_draft,MT,SWAP,2025,TRUE,"Montana Fish, Wildlife & Parks",SWAP,688,context,management_scale,site,TRUE,1
+MT_SWAP_2025_draft,MT,SWAP,2025,TRUE,"Montana Fish, Wildlife & Parks",SWAP,688,context,management_scale,watershed,TRUE,1
+MT_SWAP_2025_draft,MT,SWAP,2025,TRUE,"Montana Fish, Wildlife & Parks",SWAP,688,context,management_scale,city,FALSE,0
+MT_SWAP_2025_draft,MT,SWAP,2025,TRUE,"Montana Fish, Wildlife & Parks",SWAP,688,context,management_scale,county,TRUE,1
+MT_SWAP_2025_draft,MT,SWAP,2025,TRUE,"Montana Fish, Wildlife & Parks",SWAP,688,context,management_scale,within_state_region,TRUE,1
+MT_SWAP_2025_draft,MT,SWAP,2025,TRUE,"Montana Fish, Wildlife & Parks",SWAP,688,context,management_scale,state,TRUE,1
+MT_SWAP_2025_draft,MT,SWAP,2025,TRUE,"Montana Fish, Wildlife & Parks",SWAP,688,context,management_scale,multistate,TRUE,1
+MT_SWAP_2025_draft,MT,SWAP,2025,TRUE,"Montana Fish, Wildlife & Parks",SWAP,688,context,management_scale,national,FALSE,0
+MT_SWAP_2025_draft,MT,SWAP,2025,TRUE,"Montana Fish, Wildlife & Parks",SWAP,688,context,management_scale,transnational,TRUE,1
+MT_SWAP_2025_draft,MT,SWAP,2025,TRUE,"Montana Fish, Wildlife & Parks",SWAP,688,context,management_scale,ecosystem,TRUE,1
+MT_SWAP_2025_draft,MT,SWAP,2025,TRUE,"Montana Fish, Wildlife & Parks",SWAP,688,context,management_scale,ecoregion,TRUE,1
+MT_SWAP_2025_draft,MT,SWAP,2025,TRUE,"Montana Fish, Wildlife & Parks",SWAP,688,context,management_scale,province,FALSE,0
+MT_SWAP_2025_draft,MT,SWAP,2025,TRUE,"Montana Fish, Wildlife & Parks",SWAP,688,context,management_scale,section,FALSE,0
+MT_SWAP_2025_draft,MT,SWAP,2025,TRUE,"Montana Fish, Wildlife & Parks",SWAP,688,context,management_scale,subsection,FALSE,0
+MT_SWAP_2025_draft,MT,SWAP,2025,TRUE,"Montana Fish, Wildlife & Parks",SWAP,688,context,management_scale,lake,TRUE,1
+MT_SWAP_2025_draft,MT,SWAP,2025,TRUE,"Montana Fish, Wildlife & Parks",SWAP,688,context,management_scale,river,TRUE,1
+MT_SWAP_2025_draft,MT,SWAP,2025,TRUE,"Montana Fish, Wildlife & Parks",SWAP,688,context,management_scale,district,FALSE,0
+MT_SWAP_2025_draft,MT,SWAP,2025,TRUE,"Montana Fish, Wildlife & Parks",SWAP,688,context,biological_unit_components,species,TRUE,1
+MT_SWAP_2025_draft,MT,SWAP,2025,TRUE,"Montana Fish, Wildlife & Parks",SWAP,688,context,biological_unit_components,population,TRUE,1
+MT_SWAP_2025_draft,MT,SWAP,2025,TRUE,"Montana Fish, Wildlife & Parks",SWAP,688,context,biological_unit_components,habitat,TRUE,1
+MT_SWAP_2025_draft,MT,SWAP,2025,TRUE,"Montana Fish, Wildlife & Parks",SWAP,688,context,biological_unit_components,ecosystem,TRUE,1
+MT_SWAP_2025_draft,MT,SWAP,2025,TRUE,"Montana Fish, Wildlife & Parks",SWAP,688,context,biological_unit_components,community,TRUE,1
+MT_SWAP_2025_draft,MT,SWAP,2025,TRUE,"Montana Fish, Wildlife & Parks",SWAP,688,context,biological_unit_components,genotype_phenotype,FALSE,0
+NC_SWAP_2025,NC,SWAP,2025,FALSE,North Carolina,SWAP,1630,concepts,adaptive_capacity_components,demography,TRUE,1
+NC_SWAP_2025,NC,SWAP,2025,FALSE,North Carolina,SWAP,1630,concepts,adaptive_capacity_components,distribution,TRUE,1
+NC_SWAP_2025,NC,SWAP,2025,FALSE,North Carolina,SWAP,1630,concepts,adaptive_capacity_components,movement,TRUE,1
+NC_SWAP_2025,NC,SWAP,2025,FALSE,North Carolina,SWAP,1630,concepts,adaptive_capacity_components,evolutionary_potential,TRUE,1
+NC_SWAP_2025,NC,SWAP,2025,FALSE,North Carolina,SWAP,1630,concepts,adaptive_capacity_components,ecological_dependencies,TRUE,1
+NC_SWAP_2025,NC,SWAP,2025,FALSE,North Carolina,SWAP,1630,concepts,adaptive_capacity_components,abiotic_niche,TRUE,2
+NC_SWAP_2025,NC,SWAP,2025,FALSE,North Carolina,SWAP,1630,concepts,adaptive_capacity_components,life_history,TRUE,1
+NC_SWAP_2025,NC,SWAP,2025,FALSE,North Carolina,SWAP,1630,context,management_scale,local,FALSE,0
+NC_SWAP_2025,NC,SWAP,2025,FALSE,North Carolina,SWAP,1630,context,management_scale,site,TRUE,1
+NC_SWAP_2025,NC,SWAP,2025,FALSE,North Carolina,SWAP,1630,context,management_scale,watershed,TRUE,1
+NC_SWAP_2025,NC,SWAP,2025,FALSE,North Carolina,SWAP,1630,context,management_scale,city,FALSE,0
+NC_SWAP_2025,NC,SWAP,2025,FALSE,North Carolina,SWAP,1630,context,management_scale,county,FALSE,0
+NC_SWAP_2025,NC,SWAP,2025,FALSE,North Carolina,SWAP,1630,context,management_scale,within_state_region,TRUE,1
+NC_SWAP_2025,NC,SWAP,2025,FALSE,North Carolina,SWAP,1630,context,management_scale,state,TRUE,1
+NC_SWAP_2025,NC,SWAP,2025,FALSE,North Carolina,SWAP,1630,context,management_scale,multistate,TRUE,1
+NC_SWAP_2025,NC,SWAP,2025,FALSE,North Carolina,SWAP,1630,context,management_scale,national,TRUE,1
+NC_SWAP_2025,NC,SWAP,2025,FALSE,North Carolina,SWAP,1630,context,management_scale,transnational,FALSE,0
+NC_SWAP_2025,NC,SWAP,2025,FALSE,North Carolina,SWAP,1630,context,management_scale,ecosystem,TRUE,1
+NC_SWAP_2025,NC,SWAP,2025,FALSE,North Carolina,SWAP,1630,context,management_scale,ecoregion,TRUE,1
+NC_SWAP_2025,NC,SWAP,2025,FALSE,North Carolina,SWAP,1630,context,management_scale,province,FALSE,0
+NC_SWAP_2025,NC,SWAP,2025,FALSE,North Carolina,SWAP,1630,context,management_scale,section,FALSE,0
+NC_SWAP_2025,NC,SWAP,2025,FALSE,North Carolina,SWAP,1630,context,management_scale,subsection,FALSE,0
+NC_SWAP_2025,NC,SWAP,2025,FALSE,North Carolina,SWAP,1630,context,management_scale,lake,TRUE,1
+NC_SWAP_2025,NC,SWAP,2025,FALSE,North Carolina,SWAP,1630,context,management_scale,river,TRUE,1
+NC_SWAP_2025,NC,SWAP,2025,FALSE,North Carolina,SWAP,1630,context,management_scale,district,FALSE,0
+NC_SWAP_2025,NC,SWAP,2025,FALSE,North Carolina,SWAP,1630,context,biological_unit_components,species,TRUE,1
+NC_SWAP_2025,NC,SWAP,2025,FALSE,North Carolina,SWAP,1630,context,biological_unit_components,population,TRUE,1
+NC_SWAP_2025,NC,SWAP,2025,FALSE,North Carolina,SWAP,1630,context,biological_unit_components,habitat,TRUE,1
+NC_SWAP_2025,NC,SWAP,2025,FALSE,North Carolina,SWAP,1630,context,biological_unit_components,ecosystem,TRUE,1
+NC_SWAP_2025,NC,SWAP,2025,FALSE,North Carolina,SWAP,1630,context,biological_unit_components,community,TRUE,1
+NC_SWAP_2025,NC,SWAP,2025,FALSE,North Carolina,SWAP,1630,context,biological_unit_components,genotype_phenotype,FALSE,0
+ND_SWAP_2025,ND,SWAP,2025,FALSE,North Dakota,SWAP,326,concepts,adaptive_capacity_components,demography,FALSE,0
+ND_SWAP_2025,ND,SWAP,2025,FALSE,North Dakota,SWAP,326,concepts,adaptive_capacity_components,distribution,TRUE,1
+ND_SWAP_2025,ND,SWAP,2025,FALSE,North Dakota,SWAP,326,concepts,adaptive_capacity_components,movement,TRUE,2
+ND_SWAP_2025,ND,SWAP,2025,FALSE,North Dakota,SWAP,326,concepts,adaptive_capacity_components,evolutionary_potential,FALSE,0
+ND_SWAP_2025,ND,SWAP,2025,FALSE,North Dakota,SWAP,326,concepts,adaptive_capacity_components,ecological_dependencies,TRUE,1
+ND_SWAP_2025,ND,SWAP,2025,FALSE,North Dakota,SWAP,326,concepts,adaptive_capacity_components,abiotic_niche,TRUE,1
+ND_SWAP_2025,ND,SWAP,2025,FALSE,North Dakota,SWAP,326,concepts,adaptive_capacity_components,life_history,FALSE,0
+ND_SWAP_2025,ND,SWAP,2025,FALSE,North Dakota,SWAP,326,context,management_scale,local,FALSE,0
+ND_SWAP_2025,ND,SWAP,2025,FALSE,North Dakota,SWAP,326,context,management_scale,site,TRUE,1
+ND_SWAP_2025,ND,SWAP,2025,FALSE,North Dakota,SWAP,326,context,management_scale,watershed,TRUE,1
+ND_SWAP_2025,ND,SWAP,2025,FALSE,North Dakota,SWAP,326,context,management_scale,city,FALSE,0
+ND_SWAP_2025,ND,SWAP,2025,FALSE,North Dakota,SWAP,326,context,management_scale,county,FALSE,0
+ND_SWAP_2025,ND,SWAP,2025,FALSE,North Dakota,SWAP,326,context,management_scale,within_state_region,TRUE,1
+ND_SWAP_2025,ND,SWAP,2025,FALSE,North Dakota,SWAP,326,context,management_scale,state,TRUE,1
+ND_SWAP_2025,ND,SWAP,2025,FALSE,North Dakota,SWAP,326,context,management_scale,multistate,TRUE,1
+ND_SWAP_2025,ND,SWAP,2025,FALSE,North Dakota,SWAP,326,context,management_scale,national,FALSE,0
+ND_SWAP_2025,ND,SWAP,2025,FALSE,North Dakota,SWAP,326,context,management_scale,transnational,TRUE,1
+ND_SWAP_2025,ND,SWAP,2025,FALSE,North Dakota,SWAP,326,context,management_scale,ecosystem,TRUE,1
+ND_SWAP_2025,ND,SWAP,2025,FALSE,North Dakota,SWAP,326,context,management_scale,ecoregion,TRUE,1
+ND_SWAP_2025,ND,SWAP,2025,FALSE,North Dakota,SWAP,326,context,management_scale,province,FALSE,0
+ND_SWAP_2025,ND,SWAP,2025,FALSE,North Dakota,SWAP,326,context,management_scale,section,FALSE,0
+ND_SWAP_2025,ND,SWAP,2025,FALSE,North Dakota,SWAP,326,context,management_scale,subsection,FALSE,0
+ND_SWAP_2025,ND,SWAP,2025,FALSE,North Dakota,SWAP,326,context,management_scale,lake,TRUE,1
+ND_SWAP_2025,ND,SWAP,2025,FALSE,North Dakota,SWAP,326,context,management_scale,river,TRUE,1
+ND_SWAP_2025,ND,SWAP,2025,FALSE,North Dakota,SWAP,326,context,management_scale,district,FALSE,0
+ND_SWAP_2025,ND,SWAP,2025,FALSE,North Dakota,SWAP,326,context,biological_unit_components,species,TRUE,1
+ND_SWAP_2025,ND,SWAP,2025,FALSE,North Dakota,SWAP,326,context,biological_unit_components,population,TRUE,1
+ND_SWAP_2025,ND,SWAP,2025,FALSE,North Dakota,SWAP,326,context,biological_unit_components,habitat,TRUE,1
+ND_SWAP_2025,ND,SWAP,2025,FALSE,North Dakota,SWAP,326,context,biological_unit_components,ecosystem,TRUE,1
+ND_SWAP_2025,ND,SWAP,2025,FALSE,North Dakota,SWAP,326,context,biological_unit_components,community,TRUE,1
+ND_SWAP_2025,ND,SWAP,2025,FALSE,North Dakota,SWAP,326,context,biological_unit_components,genotype_phenotype,FALSE,0
+NE_SWAP_2025,NE,SWAP,2025,FALSE,Nebraska,SWAP,415,concepts,adaptive_capacity_components,demography,FALSE,0
+NE_SWAP_2025,NE,SWAP,2025,FALSE,Nebraska,SWAP,415,concepts,adaptive_capacity_components,distribution,TRUE,1
+NE_SWAP_2025,NE,SWAP,2025,FALSE,Nebraska,SWAP,415,concepts,adaptive_capacity_components,movement,TRUE,1
+NE_SWAP_2025,NE,SWAP,2025,FALSE,Nebraska,SWAP,415,concepts,adaptive_capacity_components,evolutionary_potential,TRUE,1
+NE_SWAP_2025,NE,SWAP,2025,FALSE,Nebraska,SWAP,415,concepts,adaptive_capacity_components,ecological_dependencies,TRUE,1
+NE_SWAP_2025,NE,SWAP,2025,FALSE,Nebraska,SWAP,415,concepts,adaptive_capacity_components,abiotic_niche,FALSE,0
+NE_SWAP_2025,NE,SWAP,2025,FALSE,Nebraska,SWAP,415,concepts,adaptive_capacity_components,life_history,FALSE,0
+NE_SWAP_2025,NE,SWAP,2025,FALSE,Nebraska,SWAP,415,context,management_scale,local,TRUE,1
+NE_SWAP_2025,NE,SWAP,2025,FALSE,Nebraska,SWAP,415,context,management_scale,site,TRUE,1
+NE_SWAP_2025,NE,SWAP,2025,FALSE,Nebraska,SWAP,415,context,management_scale,watershed,TRUE,1
+NE_SWAP_2025,NE,SWAP,2025,FALSE,Nebraska,SWAP,415,context,management_scale,city,FALSE,0
+NE_SWAP_2025,NE,SWAP,2025,FALSE,Nebraska,SWAP,415,context,management_scale,county,TRUE,1
+NE_SWAP_2025,NE,SWAP,2025,FALSE,Nebraska,SWAP,415,context,management_scale,within_state_region,TRUE,1
+NE_SWAP_2025,NE,SWAP,2025,FALSE,Nebraska,SWAP,415,context,management_scale,state,TRUE,1
+NE_SWAP_2025,NE,SWAP,2025,FALSE,Nebraska,SWAP,415,context,management_scale,multistate,TRUE,1
+NE_SWAP_2025,NE,SWAP,2025,FALSE,Nebraska,SWAP,415,context,management_scale,national,FALSE,0
+NE_SWAP_2025,NE,SWAP,2025,FALSE,Nebraska,SWAP,415,context,management_scale,transnational,FALSE,0
+NE_SWAP_2025,NE,SWAP,2025,FALSE,Nebraska,SWAP,415,context,management_scale,ecosystem,TRUE,1
+NE_SWAP_2025,NE,SWAP,2025,FALSE,Nebraska,SWAP,415,context,management_scale,ecoregion,TRUE,1
+NE_SWAP_2025,NE,SWAP,2025,FALSE,Nebraska,SWAP,415,context,management_scale,province,FALSE,0
+NE_SWAP_2025,NE,SWAP,2025,FALSE,Nebraska,SWAP,415,context,management_scale,section,FALSE,0
+NE_SWAP_2025,NE,SWAP,2025,FALSE,Nebraska,SWAP,415,context,management_scale,subsection,FALSE,0
+NE_SWAP_2025,NE,SWAP,2025,FALSE,Nebraska,SWAP,415,context,management_scale,lake,TRUE,1
+NE_SWAP_2025,NE,SWAP,2025,FALSE,Nebraska,SWAP,415,context,management_scale,river,TRUE,1
+NE_SWAP_2025,NE,SWAP,2025,FALSE,Nebraska,SWAP,415,context,management_scale,district,FALSE,0
+NE_SWAP_2025,NE,SWAP,2025,FALSE,Nebraska,SWAP,415,context,biological_unit_components,species,TRUE,1
+NE_SWAP_2025,NE,SWAP,2025,FALSE,Nebraska,SWAP,415,context,biological_unit_components,population,TRUE,1
+NE_SWAP_2025,NE,SWAP,2025,FALSE,Nebraska,SWAP,415,context,biological_unit_components,habitat,TRUE,1
+NE_SWAP_2025,NE,SWAP,2025,FALSE,Nebraska,SWAP,415,context,biological_unit_components,ecosystem,TRUE,1
+NE_SWAP_2025,NE,SWAP,2025,FALSE,Nebraska,SWAP,415,context,biological_unit_components,community,TRUE,1
+NE_SWAP_2025,NE,SWAP,2025,FALSE,Nebraska,SWAP,415,context,biological_unit_components,genotype_phenotype,FALSE,0
+NH_SWAP_2025,NH,SWAP,2025,FALSE,New Hampshire,SWAP,114,concepts,adaptive_capacity_components,demography,FALSE,0
+NH_SWAP_2025,NH,SWAP,2025,FALSE,New Hampshire,SWAP,114,concepts,adaptive_capacity_components,distribution,TRUE,1
+NH_SWAP_2025,NH,SWAP,2025,FALSE,New Hampshire,SWAP,114,concepts,adaptive_capacity_components,movement,TRUE,2
+NH_SWAP_2025,NH,SWAP,2025,FALSE,New Hampshire,SWAP,114,concepts,adaptive_capacity_components,evolutionary_potential,FALSE,0
+NH_SWAP_2025,NH,SWAP,2025,FALSE,New Hampshire,SWAP,114,concepts,adaptive_capacity_components,ecological_dependencies,TRUE,1
+NH_SWAP_2025,NH,SWAP,2025,FALSE,New Hampshire,SWAP,114,concepts,adaptive_capacity_components,abiotic_niche,TRUE,1
+NH_SWAP_2025,NH,SWAP,2025,FALSE,New Hampshire,SWAP,114,concepts,adaptive_capacity_components,life_history,TRUE,1
+NH_SWAP_2025,NH,SWAP,2025,FALSE,New Hampshire,SWAP,114,context,management_scale,local,TRUE,1
+NH_SWAP_2025,NH,SWAP,2025,FALSE,New Hampshire,SWAP,114,context,management_scale,site,TRUE,1
+NH_SWAP_2025,NH,SWAP,2025,FALSE,New Hampshire,SWAP,114,context,management_scale,watershed,TRUE,1
+NH_SWAP_2025,NH,SWAP,2025,FALSE,New Hampshire,SWAP,114,context,management_scale,city,FALSE,0
+NH_SWAP_2025,NH,SWAP,2025,FALSE,New Hampshire,SWAP,114,context,management_scale,county,FALSE,0
+NH_SWAP_2025,NH,SWAP,2025,FALSE,New Hampshire,SWAP,114,context,management_scale,within_state_region,TRUE,1
+NH_SWAP_2025,NH,SWAP,2025,FALSE,New Hampshire,SWAP,114,context,management_scale,state,TRUE,1
+NH_SWAP_2025,NH,SWAP,2025,FALSE,New Hampshire,SWAP,114,context,management_scale,multistate,TRUE,1
+NH_SWAP_2025,NH,SWAP,2025,FALSE,New Hampshire,SWAP,114,context,management_scale,national,FALSE,0
+NH_SWAP_2025,NH,SWAP,2025,FALSE,New Hampshire,SWAP,114,context,management_scale,transnational,FALSE,0
+NH_SWAP_2025,NH,SWAP,2025,FALSE,New Hampshire,SWAP,114,context,management_scale,ecosystem,TRUE,1
+NH_SWAP_2025,NH,SWAP,2025,FALSE,New Hampshire,SWAP,114,context,management_scale,ecoregion,TRUE,1
+NH_SWAP_2025,NH,SWAP,2025,FALSE,New Hampshire,SWAP,114,context,management_scale,province,FALSE,0
+NH_SWAP_2025,NH,SWAP,2025,FALSE,New Hampshire,SWAP,114,context,management_scale,section,FALSE,0
+NH_SWAP_2025,NH,SWAP,2025,FALSE,New Hampshire,SWAP,114,context,management_scale,subsection,TRUE,1
+NH_SWAP_2025,NH,SWAP,2025,FALSE,New Hampshire,SWAP,114,context,management_scale,lake,TRUE,1
+NH_SWAP_2025,NH,SWAP,2025,FALSE,New Hampshire,SWAP,114,context,management_scale,river,TRUE,1
+NH_SWAP_2025,NH,SWAP,2025,FALSE,New Hampshire,SWAP,114,context,management_scale,district,FALSE,0
+NH_SWAP_2025,NH,SWAP,2025,FALSE,New Hampshire,SWAP,114,context,biological_unit_components,species,TRUE,1
+NH_SWAP_2025,NH,SWAP,2025,FALSE,New Hampshire,SWAP,114,context,biological_unit_components,population,FALSE,0
+NH_SWAP_2025,NH,SWAP,2025,FALSE,New Hampshire,SWAP,114,context,biological_unit_components,habitat,TRUE,1
+NH_SWAP_2025,NH,SWAP,2025,FALSE,New Hampshire,SWAP,114,context,biological_unit_components,ecosystem,TRUE,1
+NH_SWAP_2025,NH,SWAP,2025,FALSE,New Hampshire,SWAP,114,context,biological_unit_components,community,FALSE,0
+NH_SWAP_2025,NH,SWAP,2025,FALSE,New Hampshire,SWAP,114,context,biological_unit_components,genotype_phenotype,FALSE,0
+NM_SWAP_2025,NM,SWAP,2025,FALSE,New Mexico,SWAP,781,concepts,adaptive_capacity_components,demography,TRUE,1
+NM_SWAP_2025,NM,SWAP,2025,FALSE,New Mexico,SWAP,781,concepts,adaptive_capacity_components,distribution,TRUE,1
+NM_SWAP_2025,NM,SWAP,2025,FALSE,New Mexico,SWAP,781,concepts,adaptive_capacity_components,movement,TRUE,1
+NM_SWAP_2025,NM,SWAP,2025,FALSE,New Mexico,SWAP,781,concepts,adaptive_capacity_components,evolutionary_potential,TRUE,1
+NM_SWAP_2025,NM,SWAP,2025,FALSE,New Mexico,SWAP,781,concepts,adaptive_capacity_components,ecological_dependencies,TRUE,1
+NM_SWAP_2025,NM,SWAP,2025,FALSE,New Mexico,SWAP,781,concepts,adaptive_capacity_components,abiotic_niche,TRUE,1
+NM_SWAP_2025,NM,SWAP,2025,FALSE,New Mexico,SWAP,781,concepts,adaptive_capacity_components,life_history,TRUE,1
+NM_SWAP_2025,NM,SWAP,2025,FALSE,New Mexico,SWAP,781,context,management_scale,local,TRUE,1
+NM_SWAP_2025,NM,SWAP,2025,FALSE,New Mexico,SWAP,781,context,management_scale,site,TRUE,1
+NM_SWAP_2025,NM,SWAP,2025,FALSE,New Mexico,SWAP,781,context,management_scale,watershed,TRUE,1
+NM_SWAP_2025,NM,SWAP,2025,FALSE,New Mexico,SWAP,781,context,management_scale,city,FALSE,0
+NM_SWAP_2025,NM,SWAP,2025,FALSE,New Mexico,SWAP,781,context,management_scale,county,FALSE,0
+NM_SWAP_2025,NM,SWAP,2025,FALSE,New Mexico,SWAP,781,context,management_scale,within_state_region,TRUE,1
+NM_SWAP_2025,NM,SWAP,2025,FALSE,New Mexico,SWAP,781,context,management_scale,state,TRUE,1
+NM_SWAP_2025,NM,SWAP,2025,FALSE,New Mexico,SWAP,781,context,management_scale,multistate,TRUE,1
+NM_SWAP_2025,NM,SWAP,2025,FALSE,New Mexico,SWAP,781,context,management_scale,national,FALSE,0
+NM_SWAP_2025,NM,SWAP,2025,FALSE,New Mexico,SWAP,781,context,management_scale,transnational,TRUE,1
+NM_SWAP_2025,NM,SWAP,2025,FALSE,New Mexico,SWAP,781,context,management_scale,ecosystem,TRUE,1
+NM_SWAP_2025,NM,SWAP,2025,FALSE,New Mexico,SWAP,781,context,management_scale,ecoregion,TRUE,1
+NM_SWAP_2025,NM,SWAP,2025,FALSE,New Mexico,SWAP,781,context,management_scale,province,FALSE,0
+NM_SWAP_2025,NM,SWAP,2025,FALSE,New Mexico,SWAP,781,context,management_scale,section,FALSE,0
+NM_SWAP_2025,NM,SWAP,2025,FALSE,New Mexico,SWAP,781,context,management_scale,subsection,FALSE,0
+NM_SWAP_2025,NM,SWAP,2025,FALSE,New Mexico,SWAP,781,context,management_scale,lake,FALSE,0
+NM_SWAP_2025,NM,SWAP,2025,FALSE,New Mexico,SWAP,781,context,management_scale,river,TRUE,1
+NM_SWAP_2025,NM,SWAP,2025,FALSE,New Mexico,SWAP,781,context,management_scale,district,FALSE,0
+NM_SWAP_2025,NM,SWAP,2025,FALSE,New Mexico,SWAP,781,context,biological_unit_components,species,TRUE,1
+NM_SWAP_2025,NM,SWAP,2025,FALSE,New Mexico,SWAP,781,context,biological_unit_components,population,TRUE,1
+NM_SWAP_2025,NM,SWAP,2025,FALSE,New Mexico,SWAP,781,context,biological_unit_components,habitat,TRUE,1
+NM_SWAP_2025,NM,SWAP,2025,FALSE,New Mexico,SWAP,781,context,biological_unit_components,ecosystem,TRUE,1
+NM_SWAP_2025,NM,SWAP,2025,FALSE,New Mexico,SWAP,781,context,biological_unit_components,community,TRUE,1
+NM_SWAP_2025,NM,SWAP,2025,FALSE,New Mexico,SWAP,781,context,biological_unit_components,genotype_phenotype,FALSE,0
+NV_SWAP_2022,NV,SWAP,2022,FALSE,Nevada,SWAP,333,concepts,adaptive_capacity_components,demography,FALSE,0
+NV_SWAP_2022,NV,SWAP,2022,FALSE,Nevada,SWAP,333,concepts,adaptive_capacity_components,distribution,TRUE,1
+NV_SWAP_2022,NV,SWAP,2022,FALSE,Nevada,SWAP,333,concepts,adaptive_capacity_components,movement,TRUE,1
+NV_SWAP_2022,NV,SWAP,2022,FALSE,Nevada,SWAP,333,concepts,adaptive_capacity_components,evolutionary_potential,FALSE,0
+NV_SWAP_2022,NV,SWAP,2022,FALSE,Nevada,SWAP,333,concepts,adaptive_capacity_components,ecological_dependencies,FALSE,0
+NV_SWAP_2022,NV,SWAP,2022,FALSE,Nevada,SWAP,333,concepts,adaptive_capacity_components,abiotic_niche,TRUE,1
+NV_SWAP_2022,NV,SWAP,2022,FALSE,Nevada,SWAP,333,concepts,adaptive_capacity_components,life_history,TRUE,1
+NV_SWAP_2022,NV,SWAP,2022,FALSE,Nevada,SWAP,333,context,management_scale,local,TRUE,1
+NV_SWAP_2022,NV,SWAP,2022,FALSE,Nevada,SWAP,333,context,management_scale,site,TRUE,1
+NV_SWAP_2022,NV,SWAP,2022,FALSE,Nevada,SWAP,333,context,management_scale,watershed,TRUE,1
+NV_SWAP_2022,NV,SWAP,2022,FALSE,Nevada,SWAP,333,context,management_scale,city,FALSE,0
+NV_SWAP_2022,NV,SWAP,2022,FALSE,Nevada,SWAP,333,context,management_scale,county,FALSE,0
+NV_SWAP_2022,NV,SWAP,2022,FALSE,Nevada,SWAP,333,context,management_scale,within_state_region,TRUE,1
+NV_SWAP_2022,NV,SWAP,2022,FALSE,Nevada,SWAP,333,context,management_scale,state,TRUE,1
+NV_SWAP_2022,NV,SWAP,2022,FALSE,Nevada,SWAP,333,context,management_scale,multistate,TRUE,1
+NV_SWAP_2022,NV,SWAP,2022,FALSE,Nevada,SWAP,333,context,management_scale,national,TRUE,1
+NV_SWAP_2022,NV,SWAP,2022,FALSE,Nevada,SWAP,333,context,management_scale,transnational,FALSE,0
+NV_SWAP_2022,NV,SWAP,2022,FALSE,Nevada,SWAP,333,context,management_scale,ecosystem,TRUE,1
+NV_SWAP_2022,NV,SWAP,2022,FALSE,Nevada,SWAP,333,context,management_scale,ecoregion,TRUE,1
+NV_SWAP_2022,NV,SWAP,2022,FALSE,Nevada,SWAP,333,context,management_scale,province,FALSE,0
+NV_SWAP_2022,NV,SWAP,2022,FALSE,Nevada,SWAP,333,context,management_scale,section,FALSE,0
+NV_SWAP_2022,NV,SWAP,2022,FALSE,Nevada,SWAP,333,context,management_scale,subsection,FALSE,0
+NV_SWAP_2022,NV,SWAP,2022,FALSE,Nevada,SWAP,333,context,management_scale,lake,TRUE,1
+NV_SWAP_2022,NV,SWAP,2022,FALSE,Nevada,SWAP,333,context,management_scale,river,TRUE,1
+NV_SWAP_2022,NV,SWAP,2022,FALSE,Nevada,SWAP,333,context,management_scale,district,FALSE,0
+NV_SWAP_2022,NV,SWAP,2022,FALSE,Nevada,SWAP,333,context,biological_unit_components,species,TRUE,1
+NV_SWAP_2022,NV,SWAP,2022,FALSE,Nevada,SWAP,333,context,biological_unit_components,population,FALSE,0
+NV_SWAP_2022,NV,SWAP,2022,FALSE,Nevada,SWAP,333,context,biological_unit_components,habitat,TRUE,1
+NV_SWAP_2022,NV,SWAP,2022,FALSE,Nevada,SWAP,333,context,biological_unit_components,ecosystem,TRUE,1
+NV_SWAP_2022,NV,SWAP,2022,FALSE,Nevada,SWAP,333,context,biological_unit_components,community,TRUE,1
+NV_SWAP_2022,NV,SWAP,2022,FALSE,Nevada,SWAP,333,context,biological_unit_components,genotype_phenotype,FALSE,0
+NY_SWAP_2025_draft,NY,SWAP,2025,TRUE,New York State,SWAP,331,concepts,adaptive_capacity_components,demography,TRUE,1
+NY_SWAP_2025_draft,NY,SWAP,2025,TRUE,New York State,SWAP,331,concepts,adaptive_capacity_components,distribution,TRUE,1
+NY_SWAP_2025_draft,NY,SWAP,2025,TRUE,New York State,SWAP,331,concepts,adaptive_capacity_components,movement,TRUE,1
+NY_SWAP_2025_draft,NY,SWAP,2025,TRUE,New York State,SWAP,331,concepts,adaptive_capacity_components,evolutionary_potential,TRUE,1
+NY_SWAP_2025_draft,NY,SWAP,2025,TRUE,New York State,SWAP,331,concepts,adaptive_capacity_components,ecological_dependencies,TRUE,1
+NY_SWAP_2025_draft,NY,SWAP,2025,TRUE,New York State,SWAP,331,concepts,adaptive_capacity_components,abiotic_niche,TRUE,1
+NY_SWAP_2025_draft,NY,SWAP,2025,TRUE,New York State,SWAP,331,concepts,adaptive_capacity_components,life_history,TRUE,1
+NY_SWAP_2025_draft,NY,SWAP,2025,TRUE,New York State,SWAP,331,context,management_scale,local,TRUE,1
+NY_SWAP_2025_draft,NY,SWAP,2025,TRUE,New York State,SWAP,331,context,management_scale,site,TRUE,1
+NY_SWAP_2025_draft,NY,SWAP,2025,TRUE,New York State,SWAP,331,context,management_scale,watershed,TRUE,1
+NY_SWAP_2025_draft,NY,SWAP,2025,TRUE,New York State,SWAP,331,context,management_scale,city,FALSE,0
+NY_SWAP_2025_draft,NY,SWAP,2025,TRUE,New York State,SWAP,331,context,management_scale,county,TRUE,1
+NY_SWAP_2025_draft,NY,SWAP,2025,TRUE,New York State,SWAP,331,context,management_scale,within_state_region,TRUE,1
+NY_SWAP_2025_draft,NY,SWAP,2025,TRUE,New York State,SWAP,331,context,management_scale,state,TRUE,1
+NY_SWAP_2025_draft,NY,SWAP,2025,TRUE,New York State,SWAP,331,context,management_scale,multistate,TRUE,1
+NY_SWAP_2025_draft,NY,SWAP,2025,TRUE,New York State,SWAP,331,context,management_scale,national,TRUE,1
+NY_SWAP_2025_draft,NY,SWAP,2025,TRUE,New York State,SWAP,331,context,management_scale,transnational,TRUE,1
+NY_SWAP_2025_draft,NY,SWAP,2025,TRUE,New York State,SWAP,331,context,management_scale,ecosystem,TRUE,1
+NY_SWAP_2025_draft,NY,SWAP,2025,TRUE,New York State,SWAP,331,context,management_scale,ecoregion,TRUE,1
+NY_SWAP_2025_draft,NY,SWAP,2025,TRUE,New York State,SWAP,331,context,management_scale,province,FALSE,0
+NY_SWAP_2025_draft,NY,SWAP,2025,TRUE,New York State,SWAP,331,context,management_scale,section,FALSE,0
+NY_SWAP_2025_draft,NY,SWAP,2025,TRUE,New York State,SWAP,331,context,management_scale,subsection,FALSE,0
+NY_SWAP_2025_draft,NY,SWAP,2025,TRUE,New York State,SWAP,331,context,management_scale,lake,TRUE,1
+NY_SWAP_2025_draft,NY,SWAP,2025,TRUE,New York State,SWAP,331,context,management_scale,river,TRUE,1
+NY_SWAP_2025_draft,NY,SWAP,2025,TRUE,New York State,SWAP,331,context,management_scale,district,FALSE,0
+NY_SWAP_2025_draft,NY,SWAP,2025,TRUE,New York State,SWAP,331,context,biological_unit_components,species,TRUE,1
+NY_SWAP_2025_draft,NY,SWAP,2025,TRUE,New York State,SWAP,331,context,biological_unit_components,population,TRUE,1
+NY_SWAP_2025_draft,NY,SWAP,2025,TRUE,New York State,SWAP,331,context,biological_unit_components,habitat,TRUE,1
+NY_SWAP_2025_draft,NY,SWAP,2025,TRUE,New York State,SWAP,331,context,biological_unit_components,ecosystem,TRUE,1
+NY_SWAP_2025_draft,NY,SWAP,2025,TRUE,New York State,SWAP,331,context,biological_unit_components,community,TRUE,1
+NY_SWAP_2025_draft,NY,SWAP,2025,TRUE,New York State,SWAP,331,context,biological_unit_components,genotype_phenotype,FALSE,0
+OH_SWAP_2015,OH,SWAP,2015,FALSE,Ohio,SWAP,448,concepts,adaptive_capacity_components,demography,FALSE,0
+OH_SWAP_2015,OH,SWAP,2015,FALSE,Ohio,SWAP,448,concepts,adaptive_capacity_components,distribution,TRUE,1
+OH_SWAP_2015,OH,SWAP,2015,FALSE,Ohio,SWAP,448,concepts,adaptive_capacity_components,movement,TRUE,2
+OH_SWAP_2015,OH,SWAP,2015,FALSE,Ohio,SWAP,448,concepts,adaptive_capacity_components,evolutionary_potential,TRUE,1
+OH_SWAP_2015,OH,SWAP,2015,FALSE,Ohio,SWAP,448,concepts,adaptive_capacity_components,ecological_dependencies,TRUE,2
+OH_SWAP_2015,OH,SWAP,2015,FALSE,Ohio,SWAP,448,concepts,adaptive_capacity_components,abiotic_niche,TRUE,1
+OH_SWAP_2015,OH,SWAP,2015,FALSE,Ohio,SWAP,448,concepts,adaptive_capacity_components,life_history,TRUE,1
+OH_SWAP_2015,OH,SWAP,2015,FALSE,Ohio,SWAP,448,context,management_scale,local,TRUE,1
+OH_SWAP_2015,OH,SWAP,2015,FALSE,Ohio,SWAP,448,context,management_scale,site,TRUE,1
+OH_SWAP_2015,OH,SWAP,2015,FALSE,Ohio,SWAP,448,context,management_scale,watershed,TRUE,1
+OH_SWAP_2015,OH,SWAP,2015,FALSE,Ohio,SWAP,448,context,management_scale,city,FALSE,0
+OH_SWAP_2015,OH,SWAP,2015,FALSE,Ohio,SWAP,448,context,management_scale,county,TRUE,1
+OH_SWAP_2015,OH,SWAP,2015,FALSE,Ohio,SWAP,448,context,management_scale,within_state_region,TRUE,1
+OH_SWAP_2015,OH,SWAP,2015,FALSE,Ohio,SWAP,448,context,management_scale,state,TRUE,1
+OH_SWAP_2015,OH,SWAP,2015,FALSE,Ohio,SWAP,448,context,management_scale,multistate,TRUE,1
+OH_SWAP_2015,OH,SWAP,2015,FALSE,Ohio,SWAP,448,context,management_scale,national,FALSE,0
+OH_SWAP_2015,OH,SWAP,2015,FALSE,Ohio,SWAP,448,context,management_scale,transnational,FALSE,0
+OH_SWAP_2015,OH,SWAP,2015,FALSE,Ohio,SWAP,448,context,management_scale,ecosystem,TRUE,1
+OH_SWAP_2015,OH,SWAP,2015,FALSE,Ohio,SWAP,448,context,management_scale,ecoregion,TRUE,1
+OH_SWAP_2015,OH,SWAP,2015,FALSE,Ohio,SWAP,448,context,management_scale,province,FALSE,0
+OH_SWAP_2015,OH,SWAP,2015,FALSE,Ohio,SWAP,448,context,management_scale,section,FALSE,0
+OH_SWAP_2015,OH,SWAP,2015,FALSE,Ohio,SWAP,448,context,management_scale,subsection,FALSE,0
+OH_SWAP_2015,OH,SWAP,2015,FALSE,Ohio,SWAP,448,context,management_scale,lake,TRUE,1
+OH_SWAP_2015,OH,SWAP,2015,FALSE,Ohio,SWAP,448,context,management_scale,river,TRUE,1
+OH_SWAP_2015,OH,SWAP,2015,FALSE,Ohio,SWAP,448,context,management_scale,district,FALSE,0
+OH_SWAP_2015,OH,SWAP,2015,FALSE,Ohio,SWAP,448,context,biological_unit_components,species,TRUE,1
+OH_SWAP_2015,OH,SWAP,2015,FALSE,Ohio,SWAP,448,context,biological_unit_components,population,FALSE,0
+OH_SWAP_2015,OH,SWAP,2015,FALSE,Ohio,SWAP,448,context,biological_unit_components,habitat,TRUE,1
+OH_SWAP_2015,OH,SWAP,2015,FALSE,Ohio,SWAP,448,context,biological_unit_components,ecosystem,TRUE,1
+OH_SWAP_2015,OH,SWAP,2015,FALSE,Ohio,SWAP,448,context,biological_unit_components,community,TRUE,1
+OH_SWAP_2015,OH,SWAP,2015,FALSE,Ohio,SWAP,448,context,biological_unit_components,genotype_phenotype,FALSE,0
+OK_SWAP_2025,OK,SWAP,2025,FALSE,Oklahoma,SWAP,297,concepts,adaptive_capacity_components,demography,TRUE,1
+OK_SWAP_2025,OK,SWAP,2025,FALSE,Oklahoma,SWAP,297,concepts,adaptive_capacity_components,distribution,TRUE,1
+OK_SWAP_2025,OK,SWAP,2025,FALSE,Oklahoma,SWAP,297,concepts,adaptive_capacity_components,movement,TRUE,1
+OK_SWAP_2025,OK,SWAP,2025,FALSE,Oklahoma,SWAP,297,concepts,adaptive_capacity_components,evolutionary_potential,TRUE,1
+OK_SWAP_2025,OK,SWAP,2025,FALSE,Oklahoma,SWAP,297,concepts,adaptive_capacity_components,ecological_dependencies,TRUE,1
+OK_SWAP_2025,OK,SWAP,2025,FALSE,Oklahoma,SWAP,297,concepts,adaptive_capacity_components,abiotic_niche,TRUE,1
+OK_SWAP_2025,OK,SWAP,2025,FALSE,Oklahoma,SWAP,297,concepts,adaptive_capacity_components,life_history,FALSE,0
+OK_SWAP_2025,OK,SWAP,2025,FALSE,Oklahoma,SWAP,297,context,management_scale,local,TRUE,1
+OK_SWAP_2025,OK,SWAP,2025,FALSE,Oklahoma,SWAP,297,context,management_scale,site,TRUE,1
+OK_SWAP_2025,OK,SWAP,2025,FALSE,Oklahoma,SWAP,297,context,management_scale,watershed,TRUE,1
+OK_SWAP_2025,OK,SWAP,2025,FALSE,Oklahoma,SWAP,297,context,management_scale,city,FALSE,0
+OK_SWAP_2025,OK,SWAP,2025,FALSE,Oklahoma,SWAP,297,context,management_scale,county,FALSE,0
+OK_SWAP_2025,OK,SWAP,2025,FALSE,Oklahoma,SWAP,297,context,management_scale,within_state_region,TRUE,1
+OK_SWAP_2025,OK,SWAP,2025,FALSE,Oklahoma,SWAP,297,context,management_scale,state,TRUE,1
+OK_SWAP_2025,OK,SWAP,2025,FALSE,Oklahoma,SWAP,297,context,management_scale,multistate,TRUE,1
+OK_SWAP_2025,OK,SWAP,2025,FALSE,Oklahoma,SWAP,297,context,management_scale,national,FALSE,0
+OK_SWAP_2025,OK,SWAP,2025,FALSE,Oklahoma,SWAP,297,context,management_scale,transnational,FALSE,0
+OK_SWAP_2025,OK,SWAP,2025,FALSE,Oklahoma,SWAP,297,context,management_scale,ecosystem,TRUE,1
+OK_SWAP_2025,OK,SWAP,2025,FALSE,Oklahoma,SWAP,297,context,management_scale,ecoregion,TRUE,1
+OK_SWAP_2025,OK,SWAP,2025,FALSE,Oklahoma,SWAP,297,context,management_scale,province,FALSE,0
+OK_SWAP_2025,OK,SWAP,2025,FALSE,Oklahoma,SWAP,297,context,management_scale,section,FALSE,0
+OK_SWAP_2025,OK,SWAP,2025,FALSE,Oklahoma,SWAP,297,context,management_scale,subsection,FALSE,0
+OK_SWAP_2025,OK,SWAP,2025,FALSE,Oklahoma,SWAP,297,context,management_scale,lake,FALSE,0
+OK_SWAP_2025,OK,SWAP,2025,FALSE,Oklahoma,SWAP,297,context,management_scale,river,FALSE,0
+OK_SWAP_2025,OK,SWAP,2025,FALSE,Oklahoma,SWAP,297,context,management_scale,district,FALSE,0
+OK_SWAP_2025,OK,SWAP,2025,FALSE,Oklahoma,SWAP,297,context,biological_unit_components,species,TRUE,1
+OK_SWAP_2025,OK,SWAP,2025,FALSE,Oklahoma,SWAP,297,context,biological_unit_components,population,TRUE,1
+OK_SWAP_2025,OK,SWAP,2025,FALSE,Oklahoma,SWAP,297,context,biological_unit_components,habitat,TRUE,1
+OK_SWAP_2025,OK,SWAP,2025,FALSE,Oklahoma,SWAP,297,context,biological_unit_components,ecosystem,TRUE,1
+OK_SWAP_2025,OK,SWAP,2025,FALSE,Oklahoma,SWAP,297,context,biological_unit_components,community,TRUE,1
+OK_SWAP_2025,OK,SWAP,2025,FALSE,Oklahoma,SWAP,297,context,biological_unit_components,genotype_phenotype,FALSE,0
+OR_SWAP_2025_draft,OR,SWAP,2025,TRUE,Oregon,SWAP,737,concepts,adaptive_capacity_components,demography,TRUE,1
+OR_SWAP_2025_draft,OR,SWAP,2025,TRUE,Oregon,SWAP,737,concepts,adaptive_capacity_components,distribution,TRUE,1
+OR_SWAP_2025_draft,OR,SWAP,2025,TRUE,Oregon,SWAP,737,concepts,adaptive_capacity_components,movement,TRUE,1
+OR_SWAP_2025_draft,OR,SWAP,2025,TRUE,Oregon,SWAP,737,concepts,adaptive_capacity_components,evolutionary_potential,TRUE,1
+OR_SWAP_2025_draft,OR,SWAP,2025,TRUE,Oregon,SWAP,737,concepts,adaptive_capacity_components,ecological_dependencies,TRUE,1
+OR_SWAP_2025_draft,OR,SWAP,2025,TRUE,Oregon,SWAP,737,concepts,adaptive_capacity_components,abiotic_niche,TRUE,1
+OR_SWAP_2025_draft,OR,SWAP,2025,TRUE,Oregon,SWAP,737,concepts,adaptive_capacity_components,life_history,TRUE,1
+OR_SWAP_2025_draft,OR,SWAP,2025,TRUE,Oregon,SWAP,737,context,management_scale,local,TRUE,1
+OR_SWAP_2025_draft,OR,SWAP,2025,TRUE,Oregon,SWAP,737,context,management_scale,site,TRUE,1
+OR_SWAP_2025_draft,OR,SWAP,2025,TRUE,Oregon,SWAP,737,context,management_scale,watershed,TRUE,1
+OR_SWAP_2025_draft,OR,SWAP,2025,TRUE,Oregon,SWAP,737,context,management_scale,city,FALSE,0
+OR_SWAP_2025_draft,OR,SWAP,2025,TRUE,Oregon,SWAP,737,context,management_scale,county,FALSE,0
+OR_SWAP_2025_draft,OR,SWAP,2025,TRUE,Oregon,SWAP,737,context,management_scale,within_state_region,TRUE,1
+OR_SWAP_2025_draft,OR,SWAP,2025,TRUE,Oregon,SWAP,737,context,management_scale,state,TRUE,1
+OR_SWAP_2025_draft,OR,SWAP,2025,TRUE,Oregon,SWAP,737,context,management_scale,multistate,TRUE,1
+OR_SWAP_2025_draft,OR,SWAP,2025,TRUE,Oregon,SWAP,737,context,management_scale,national,TRUE,1
+OR_SWAP_2025_draft,OR,SWAP,2025,TRUE,Oregon,SWAP,737,context,management_scale,transnational,FALSE,0
+OR_SWAP_2025_draft,OR,SWAP,2025,TRUE,Oregon,SWAP,737,context,management_scale,ecosystem,TRUE,1
+OR_SWAP_2025_draft,OR,SWAP,2025,TRUE,Oregon,SWAP,737,context,management_scale,ecoregion,TRUE,1
+OR_SWAP_2025_draft,OR,SWAP,2025,TRUE,Oregon,SWAP,737,context,management_scale,province,FALSE,0
+OR_SWAP_2025_draft,OR,SWAP,2025,TRUE,Oregon,SWAP,737,context,management_scale,section,FALSE,0
+OR_SWAP_2025_draft,OR,SWAP,2025,TRUE,Oregon,SWAP,737,context,management_scale,subsection,FALSE,0
+OR_SWAP_2025_draft,OR,SWAP,2025,TRUE,Oregon,SWAP,737,context,management_scale,lake,FALSE,0
+OR_SWAP_2025_draft,OR,SWAP,2025,TRUE,Oregon,SWAP,737,context,management_scale,river,FALSE,0
+OR_SWAP_2025_draft,OR,SWAP,2025,TRUE,Oregon,SWAP,737,context,management_scale,district,FALSE,0
+OR_SWAP_2025_draft,OR,SWAP,2025,TRUE,Oregon,SWAP,737,context,biological_unit_components,species,TRUE,1
+OR_SWAP_2025_draft,OR,SWAP,2025,TRUE,Oregon,SWAP,737,context,biological_unit_components,population,TRUE,1
+OR_SWAP_2025_draft,OR,SWAP,2025,TRUE,Oregon,SWAP,737,context,biological_unit_components,habitat,TRUE,1
+OR_SWAP_2025_draft,OR,SWAP,2025,TRUE,Oregon,SWAP,737,context,biological_unit_components,ecosystem,TRUE,1
+OR_SWAP_2025_draft,OR,SWAP,2025,TRUE,Oregon,SWAP,737,context,biological_unit_components,community,TRUE,1
+OR_SWAP_2025_draft,OR,SWAP,2025,TRUE,Oregon,SWAP,737,context,biological_unit_components,genotype_phenotype,FALSE,0
+PA_SWAP_2015,PA,SWAP,2015,FALSE,Pennsylvania,SWAP,75,concepts,adaptive_capacity_components,demography,TRUE,1
+PA_SWAP_2015,PA,SWAP,2015,FALSE,Pennsylvania,SWAP,75,concepts,adaptive_capacity_components,distribution,TRUE,1
+PA_SWAP_2015,PA,SWAP,2015,FALSE,Pennsylvania,SWAP,75,concepts,adaptive_capacity_components,movement,TRUE,1
+PA_SWAP_2015,PA,SWAP,2015,FALSE,Pennsylvania,SWAP,75,concepts,adaptive_capacity_components,evolutionary_potential,TRUE,1
+PA_SWAP_2015,PA,SWAP,2015,FALSE,Pennsylvania,SWAP,75,concepts,adaptive_capacity_components,ecological_dependencies,FALSE,0
+PA_SWAP_2015,PA,SWAP,2015,FALSE,Pennsylvania,SWAP,75,concepts,adaptive_capacity_components,abiotic_niche,FALSE,0
+PA_SWAP_2015,PA,SWAP,2015,FALSE,Pennsylvania,SWAP,75,concepts,adaptive_capacity_components,life_history,FALSE,0
+PA_SWAP_2015,PA,SWAP,2015,FALSE,Pennsylvania,SWAP,75,context,management_scale,local,TRUE,1
+PA_SWAP_2015,PA,SWAP,2015,FALSE,Pennsylvania,SWAP,75,context,management_scale,site,FALSE,0
+PA_SWAP_2015,PA,SWAP,2015,FALSE,Pennsylvania,SWAP,75,context,management_scale,watershed,TRUE,1
+PA_SWAP_2015,PA,SWAP,2015,FALSE,Pennsylvania,SWAP,75,context,management_scale,city,FALSE,0
+PA_SWAP_2015,PA,SWAP,2015,FALSE,Pennsylvania,SWAP,75,context,management_scale,county,TRUE,1
+PA_SWAP_2015,PA,SWAP,2015,FALSE,Pennsylvania,SWAP,75,context,management_scale,within_state_region,TRUE,1
+PA_SWAP_2015,PA,SWAP,2015,FALSE,Pennsylvania,SWAP,75,context,management_scale,state,TRUE,1
+PA_SWAP_2015,PA,SWAP,2015,FALSE,Pennsylvania,SWAP,75,context,management_scale,multistate,TRUE,1
+PA_SWAP_2015,PA,SWAP,2015,FALSE,Pennsylvania,SWAP,75,context,management_scale,national,TRUE,1
+PA_SWAP_2015,PA,SWAP,2015,FALSE,Pennsylvania,SWAP,75,context,management_scale,transnational,TRUE,1
+PA_SWAP_2015,PA,SWAP,2015,FALSE,Pennsylvania,SWAP,75,context,management_scale,ecosystem,TRUE,1
+PA_SWAP_2015,PA,SWAP,2015,FALSE,Pennsylvania,SWAP,75,context,management_scale,ecoregion,TRUE,1
+PA_SWAP_2015,PA,SWAP,2015,FALSE,Pennsylvania,SWAP,75,context,management_scale,province,FALSE,0
+PA_SWAP_2015,PA,SWAP,2015,FALSE,Pennsylvania,SWAP,75,context,management_scale,section,FALSE,0
+PA_SWAP_2015,PA,SWAP,2015,FALSE,Pennsylvania,SWAP,75,context,management_scale,subsection,FALSE,0
+PA_SWAP_2015,PA,SWAP,2015,FALSE,Pennsylvania,SWAP,75,context,management_scale,lake,FALSE,0
+PA_SWAP_2015,PA,SWAP,2015,FALSE,Pennsylvania,SWAP,75,context,management_scale,river,TRUE,1
+PA_SWAP_2015,PA,SWAP,2015,FALSE,Pennsylvania,SWAP,75,context,management_scale,district,FALSE,0
+PA_SWAP_2015,PA,SWAP,2015,FALSE,Pennsylvania,SWAP,75,context,biological_unit_components,species,TRUE,1
+PA_SWAP_2015,PA,SWAP,2015,FALSE,Pennsylvania,SWAP,75,context,biological_unit_components,population,TRUE,1
+PA_SWAP_2015,PA,SWAP,2015,FALSE,Pennsylvania,SWAP,75,context,biological_unit_components,habitat,TRUE,1
+PA_SWAP_2015,PA,SWAP,2015,FALSE,Pennsylvania,SWAP,75,context,biological_unit_components,ecosystem,TRUE,1
+PA_SWAP_2015,PA,SWAP,2015,FALSE,Pennsylvania,SWAP,75,context,biological_unit_components,community,TRUE,1
+PA_SWAP_2015,PA,SWAP,2015,FALSE,Pennsylvania,SWAP,75,context,biological_unit_components,genotype_phenotype,TRUE,1
+PR_SWAP_2015,PR,SWAP,2015,FALSE,Puerto Rico (Commonwealth),SWAP,187,concepts,adaptive_capacity_components,demography,FALSE,0
+PR_SWAP_2015,PR,SWAP,2015,FALSE,Puerto Rico (Commonwealth),SWAP,187,concepts,adaptive_capacity_components,distribution,TRUE,1
+PR_SWAP_2015,PR,SWAP,2015,FALSE,Puerto Rico (Commonwealth),SWAP,187,concepts,adaptive_capacity_components,movement,TRUE,1
+PR_SWAP_2015,PR,SWAP,2015,FALSE,Puerto Rico (Commonwealth),SWAP,187,concepts,adaptive_capacity_components,evolutionary_potential,TRUE,1
+PR_SWAP_2015,PR,SWAP,2015,FALSE,Puerto Rico (Commonwealth),SWAP,187,concepts,adaptive_capacity_components,ecological_dependencies,FALSE,0
+PR_SWAP_2015,PR,SWAP,2015,FALSE,Puerto Rico (Commonwealth),SWAP,187,concepts,adaptive_capacity_components,abiotic_niche,FALSE,0
+PR_SWAP_2015,PR,SWAP,2015,FALSE,Puerto Rico (Commonwealth),SWAP,187,concepts,adaptive_capacity_components,life_history,FALSE,0
+PR_SWAP_2015,PR,SWAP,2015,FALSE,Puerto Rico (Commonwealth),SWAP,187,context,management_scale,local,TRUE,1
+PR_SWAP_2015,PR,SWAP,2015,FALSE,Puerto Rico (Commonwealth),SWAP,187,context,management_scale,site,TRUE,1
+PR_SWAP_2015,PR,SWAP,2015,FALSE,Puerto Rico (Commonwealth),SWAP,187,context,management_scale,watershed,TRUE,1
+PR_SWAP_2015,PR,SWAP,2015,FALSE,Puerto Rico (Commonwealth),SWAP,187,context,management_scale,city,FALSE,0
+PR_SWAP_2015,PR,SWAP,2015,FALSE,Puerto Rico (Commonwealth),SWAP,187,context,management_scale,county,FALSE,0
+PR_SWAP_2015,PR,SWAP,2015,FALSE,Puerto Rico (Commonwealth),SWAP,187,context,management_scale,within_state_region,TRUE,1
+PR_SWAP_2015,PR,SWAP,2015,FALSE,Puerto Rico (Commonwealth),SWAP,187,context,management_scale,state,TRUE,1
+PR_SWAP_2015,PR,SWAP,2015,FALSE,Puerto Rico (Commonwealth),SWAP,187,context,management_scale,multistate,FALSE,0
+PR_SWAP_2015,PR,SWAP,2015,FALSE,Puerto Rico (Commonwealth),SWAP,187,context,management_scale,national,FALSE,0
+PR_SWAP_2015,PR,SWAP,2015,FALSE,Puerto Rico (Commonwealth),SWAP,187,context,management_scale,transnational,FALSE,0
+PR_SWAP_2015,PR,SWAP,2015,FALSE,Puerto Rico (Commonwealth),SWAP,187,context,management_scale,ecosystem,TRUE,1
+PR_SWAP_2015,PR,SWAP,2015,FALSE,Puerto Rico (Commonwealth),SWAP,187,context,management_scale,ecoregion,FALSE,0
+PR_SWAP_2015,PR,SWAP,2015,FALSE,Puerto Rico (Commonwealth),SWAP,187,context,management_scale,province,FALSE,0
+PR_SWAP_2015,PR,SWAP,2015,FALSE,Puerto Rico (Commonwealth),SWAP,187,context,management_scale,section,FALSE,0
+PR_SWAP_2015,PR,SWAP,2015,FALSE,Puerto Rico (Commonwealth),SWAP,187,context,management_scale,subsection,FALSE,0
+PR_SWAP_2015,PR,SWAP,2015,FALSE,Puerto Rico (Commonwealth),SWAP,187,context,management_scale,lake,FALSE,0
+PR_SWAP_2015,PR,SWAP,2015,FALSE,Puerto Rico (Commonwealth),SWAP,187,context,management_scale,river,FALSE,0
+PR_SWAP_2015,PR,SWAP,2015,FALSE,Puerto Rico (Commonwealth),SWAP,187,context,management_scale,district,FALSE,0
+PR_SWAP_2015,PR,SWAP,2015,FALSE,Puerto Rico (Commonwealth),SWAP,187,context,biological_unit_components,species,TRUE,1
+PR_SWAP_2015,PR,SWAP,2015,FALSE,Puerto Rico (Commonwealth),SWAP,187,context,biological_unit_components,population,FALSE,0
+PR_SWAP_2015,PR,SWAP,2015,FALSE,Puerto Rico (Commonwealth),SWAP,187,context,biological_unit_components,habitat,TRUE,1
+PR_SWAP_2015,PR,SWAP,2015,FALSE,Puerto Rico (Commonwealth),SWAP,187,context,biological_unit_components,ecosystem,TRUE,1
+PR_SWAP_2015,PR,SWAP,2015,FALSE,Puerto Rico (Commonwealth),SWAP,187,context,biological_unit_components,community,TRUE,1
+PR_SWAP_2015,PR,SWAP,2015,FALSE,Puerto Rico (Commonwealth),SWAP,187,context,biological_unit_components,genotype_phenotype,FALSE,0
+RI_SWAP_2025_draft,RI,SWAP,2025,TRUE,Rhode Island,SWAP,94,concepts,adaptive_capacity_components,demography,FALSE,0
+RI_SWAP_2025_draft,RI,SWAP,2025,TRUE,Rhode Island,SWAP,94,concepts,adaptive_capacity_components,distribution,TRUE,1
+RI_SWAP_2025_draft,RI,SWAP,2025,TRUE,Rhode Island,SWAP,94,concepts,adaptive_capacity_components,movement,TRUE,1
+RI_SWAP_2025_draft,RI,SWAP,2025,TRUE,Rhode Island,SWAP,94,concepts,adaptive_capacity_components,evolutionary_potential,FALSE,0
+RI_SWAP_2025_draft,RI,SWAP,2025,TRUE,Rhode Island,SWAP,94,concepts,adaptive_capacity_components,ecological_dependencies,FALSE,0
+RI_SWAP_2025_draft,RI,SWAP,2025,TRUE,Rhode Island,SWAP,94,concepts,adaptive_capacity_components,abiotic_niche,FALSE,0
+RI_SWAP_2025_draft,RI,SWAP,2025,TRUE,Rhode Island,SWAP,94,concepts,adaptive_capacity_components,life_history,FALSE,0
+RI_SWAP_2025_draft,RI,SWAP,2025,TRUE,Rhode Island,SWAP,94,context,management_scale,local,TRUE,1
+RI_SWAP_2025_draft,RI,SWAP,2025,TRUE,Rhode Island,SWAP,94,context,management_scale,site,TRUE,1
+RI_SWAP_2025_draft,RI,SWAP,2025,TRUE,Rhode Island,SWAP,94,context,management_scale,watershed,TRUE,1
+RI_SWAP_2025_draft,RI,SWAP,2025,TRUE,Rhode Island,SWAP,94,context,management_scale,city,FALSE,0
+RI_SWAP_2025_draft,RI,SWAP,2025,TRUE,Rhode Island,SWAP,94,context,management_scale,county,FALSE,0
+RI_SWAP_2025_draft,RI,SWAP,2025,TRUE,Rhode Island,SWAP,94,context,management_scale,within_state_region,TRUE,1
+RI_SWAP_2025_draft,RI,SWAP,2025,TRUE,Rhode Island,SWAP,94,context,management_scale,state,TRUE,1
+RI_SWAP_2025_draft,RI,SWAP,2025,TRUE,Rhode Island,SWAP,94,context,management_scale,multistate,TRUE,1
+RI_SWAP_2025_draft,RI,SWAP,2025,TRUE,Rhode Island,SWAP,94,context,management_scale,national,FALSE,0
+RI_SWAP_2025_draft,RI,SWAP,2025,TRUE,Rhode Island,SWAP,94,context,management_scale,transnational,FALSE,0
+RI_SWAP_2025_draft,RI,SWAP,2025,TRUE,Rhode Island,SWAP,94,context,management_scale,ecosystem,TRUE,1
+RI_SWAP_2025_draft,RI,SWAP,2025,TRUE,Rhode Island,SWAP,94,context,management_scale,ecoregion,FALSE,0
+RI_SWAP_2025_draft,RI,SWAP,2025,TRUE,Rhode Island,SWAP,94,context,management_scale,province,FALSE,0
+RI_SWAP_2025_draft,RI,SWAP,2025,TRUE,Rhode Island,SWAP,94,context,management_scale,section,FALSE,0
+RI_SWAP_2025_draft,RI,SWAP,2025,TRUE,Rhode Island,SWAP,94,context,management_scale,subsection,FALSE,0
+RI_SWAP_2025_draft,RI,SWAP,2025,TRUE,Rhode Island,SWAP,94,context,management_scale,lake,FALSE,0
+RI_SWAP_2025_draft,RI,SWAP,2025,TRUE,Rhode Island,SWAP,94,context,management_scale,river,TRUE,1
+RI_SWAP_2025_draft,RI,SWAP,2025,TRUE,Rhode Island,SWAP,94,context,management_scale,district,FALSE,0
+RI_SWAP_2025_draft,RI,SWAP,2025,TRUE,Rhode Island,SWAP,94,context,biological_unit_components,species,TRUE,1
+RI_SWAP_2025_draft,RI,SWAP,2025,TRUE,Rhode Island,SWAP,94,context,biological_unit_components,population,FALSE,0
+RI_SWAP_2025_draft,RI,SWAP,2025,TRUE,Rhode Island,SWAP,94,context,biological_unit_components,habitat,TRUE,1
+RI_SWAP_2025_draft,RI,SWAP,2025,TRUE,Rhode Island,SWAP,94,context,biological_unit_components,ecosystem,FALSE,0
+RI_SWAP_2025_draft,RI,SWAP,2025,TRUE,Rhode Island,SWAP,94,context,biological_unit_components,community,FALSE,0
+RI_SWAP_2025_draft,RI,SWAP,2025,TRUE,Rhode Island,SWAP,94,context,biological_unit_components,genotype_phenotype,FALSE,0
+SC_SWAP_2025,SC,SWAP,2025,FALSE,South Carolina,SWAP,569,concepts,adaptive_capacity_components,demography,FALSE,0
+SC_SWAP_2025,SC,SWAP,2025,FALSE,South Carolina,SWAP,569,concepts,adaptive_capacity_components,distribution,TRUE,1
+SC_SWAP_2025,SC,SWAP,2025,FALSE,South Carolina,SWAP,569,concepts,adaptive_capacity_components,movement,TRUE,1
+SC_SWAP_2025,SC,SWAP,2025,FALSE,South Carolina,SWAP,569,concepts,adaptive_capacity_components,evolutionary_potential,FALSE,0
+SC_SWAP_2025,SC,SWAP,2025,FALSE,South Carolina,SWAP,569,concepts,adaptive_capacity_components,ecological_dependencies,TRUE,1
+SC_SWAP_2025,SC,SWAP,2025,FALSE,South Carolina,SWAP,569,concepts,adaptive_capacity_components,abiotic_niche,TRUE,1
+SC_SWAP_2025,SC,SWAP,2025,FALSE,South Carolina,SWAP,569,concepts,adaptive_capacity_components,life_history,FALSE,0
+SC_SWAP_2025,SC,SWAP,2025,FALSE,South Carolina,SWAP,569,context,management_scale,local,FALSE,0
+SC_SWAP_2025,SC,SWAP,2025,FALSE,South Carolina,SWAP,569,context,management_scale,site,TRUE,1
+SC_SWAP_2025,SC,SWAP,2025,FALSE,South Carolina,SWAP,569,context,management_scale,watershed,TRUE,1
+SC_SWAP_2025,SC,SWAP,2025,FALSE,South Carolina,SWAP,569,context,management_scale,city,FALSE,0
+SC_SWAP_2025,SC,SWAP,2025,FALSE,South Carolina,SWAP,569,context,management_scale,county,FALSE,0
+SC_SWAP_2025,SC,SWAP,2025,FALSE,South Carolina,SWAP,569,context,management_scale,within_state_region,TRUE,1
+SC_SWAP_2025,SC,SWAP,2025,FALSE,South Carolina,SWAP,569,context,management_scale,state,TRUE,1
+SC_SWAP_2025,SC,SWAP,2025,FALSE,South Carolina,SWAP,569,context,management_scale,multistate,TRUE,1
+SC_SWAP_2025,SC,SWAP,2025,FALSE,South Carolina,SWAP,569,context,management_scale,national,FALSE,0
+SC_SWAP_2025,SC,SWAP,2025,FALSE,South Carolina,SWAP,569,context,management_scale,transnational,FALSE,0
+SC_SWAP_2025,SC,SWAP,2025,FALSE,South Carolina,SWAP,569,context,management_scale,ecosystem,TRUE,1
+SC_SWAP_2025,SC,SWAP,2025,FALSE,South Carolina,SWAP,569,context,management_scale,ecoregion,TRUE,1
+SC_SWAP_2025,SC,SWAP,2025,FALSE,South Carolina,SWAP,569,context,management_scale,province,FALSE,0
+SC_SWAP_2025,SC,SWAP,2025,FALSE,South Carolina,SWAP,569,context,management_scale,section,FALSE,0
+SC_SWAP_2025,SC,SWAP,2025,FALSE,South Carolina,SWAP,569,context,management_scale,subsection,FALSE,0
+SC_SWAP_2025,SC,SWAP,2025,FALSE,South Carolina,SWAP,569,context,management_scale,lake,FALSE,0
+SC_SWAP_2025,SC,SWAP,2025,FALSE,South Carolina,SWAP,569,context,management_scale,river,FALSE,0
+SC_SWAP_2025,SC,SWAP,2025,FALSE,South Carolina,SWAP,569,context,management_scale,district,FALSE,0
+SC_SWAP_2025,SC,SWAP,2025,FALSE,South Carolina,SWAP,569,context,biological_unit_components,species,TRUE,1
+SC_SWAP_2025,SC,SWAP,2025,FALSE,South Carolina,SWAP,569,context,biological_unit_components,population,FALSE,0
+SC_SWAP_2025,SC,SWAP,2025,FALSE,South Carolina,SWAP,569,context,biological_unit_components,habitat,TRUE,1
+SC_SWAP_2025,SC,SWAP,2025,FALSE,South Carolina,SWAP,569,context,biological_unit_components,ecosystem,TRUE,1
+SC_SWAP_2025,SC,SWAP,2025,FALSE,South Carolina,SWAP,569,context,biological_unit_components,community,TRUE,1
+SC_SWAP_2025,SC,SWAP,2025,FALSE,South Carolina,SWAP,569,context,biological_unit_components,genotype_phenotype,FALSE,0
+SD_SWAP_2025,SD,SWAP,2025,FALSE,South Dakota,SWAP,504,concepts,adaptive_capacity_components,demography,TRUE,1
+SD_SWAP_2025,SD,SWAP,2025,FALSE,South Dakota,SWAP,504,concepts,adaptive_capacity_components,distribution,TRUE,1
+SD_SWAP_2025,SD,SWAP,2025,FALSE,South Dakota,SWAP,504,concepts,adaptive_capacity_components,movement,TRUE,1
+SD_SWAP_2025,SD,SWAP,2025,FALSE,South Dakota,SWAP,504,concepts,adaptive_capacity_components,evolutionary_potential,TRUE,1
+SD_SWAP_2025,SD,SWAP,2025,FALSE,South Dakota,SWAP,504,concepts,adaptive_capacity_components,ecological_dependencies,TRUE,1
+SD_SWAP_2025,SD,SWAP,2025,FALSE,South Dakota,SWAP,504,concepts,adaptive_capacity_components,abiotic_niche,TRUE,1
+SD_SWAP_2025,SD,SWAP,2025,FALSE,South Dakota,SWAP,504,concepts,adaptive_capacity_components,life_history,TRUE,1
+SD_SWAP_2025,SD,SWAP,2025,FALSE,South Dakota,SWAP,504,context,management_scale,local,TRUE,1
+SD_SWAP_2025,SD,SWAP,2025,FALSE,South Dakota,SWAP,504,context,management_scale,site,TRUE,1
+SD_SWAP_2025,SD,SWAP,2025,FALSE,South Dakota,SWAP,504,context,management_scale,watershed,TRUE,1
+SD_SWAP_2025,SD,SWAP,2025,FALSE,South Dakota,SWAP,504,context,management_scale,city,FALSE,0
+SD_SWAP_2025,SD,SWAP,2025,FALSE,South Dakota,SWAP,504,context,management_scale,county,FALSE,0
+SD_SWAP_2025,SD,SWAP,2025,FALSE,South Dakota,SWAP,504,context,management_scale,within_state_region,TRUE,1
+SD_SWAP_2025,SD,SWAP,2025,FALSE,South Dakota,SWAP,504,context,management_scale,state,TRUE,1
+SD_SWAP_2025,SD,SWAP,2025,FALSE,South Dakota,SWAP,504,context,management_scale,multistate,TRUE,1
+SD_SWAP_2025,SD,SWAP,2025,FALSE,South Dakota,SWAP,504,context,management_scale,national,FALSE,0
+SD_SWAP_2025,SD,SWAP,2025,FALSE,South Dakota,SWAP,504,context,management_scale,transnational,FALSE,0
+SD_SWAP_2025,SD,SWAP,2025,FALSE,South Dakota,SWAP,504,context,management_scale,ecosystem,TRUE,1
+SD_SWAP_2025,SD,SWAP,2025,FALSE,South Dakota,SWAP,504,context,management_scale,ecoregion,TRUE,1
+SD_SWAP_2025,SD,SWAP,2025,FALSE,South Dakota,SWAP,504,context,management_scale,province,FALSE,0
+SD_SWAP_2025,SD,SWAP,2025,FALSE,South Dakota,SWAP,504,context,management_scale,section,FALSE,0
+SD_SWAP_2025,SD,SWAP,2025,FALSE,South Dakota,SWAP,504,context,management_scale,subsection,FALSE,0
+SD_SWAP_2025,SD,SWAP,2025,FALSE,South Dakota,SWAP,504,context,management_scale,lake,FALSE,0
+SD_SWAP_2025,SD,SWAP,2025,FALSE,South Dakota,SWAP,504,context,management_scale,river,TRUE,1
+SD_SWAP_2025,SD,SWAP,2025,FALSE,South Dakota,SWAP,504,context,management_scale,district,FALSE,0
+SD_SWAP_2025,SD,SWAP,2025,FALSE,South Dakota,SWAP,504,context,biological_unit_components,species,TRUE,1
+SD_SWAP_2025,SD,SWAP,2025,FALSE,South Dakota,SWAP,504,context,biological_unit_components,population,TRUE,1
+SD_SWAP_2025,SD,SWAP,2025,FALSE,South Dakota,SWAP,504,context,biological_unit_components,habitat,TRUE,1
+SD_SWAP_2025,SD,SWAP,2025,FALSE,South Dakota,SWAP,504,context,biological_unit_components,ecosystem,TRUE,1
+SD_SWAP_2025,SD,SWAP,2025,FALSE,South Dakota,SWAP,504,context,biological_unit_components,community,TRUE,1
+SD_SWAP_2025,SD,SWAP,2025,FALSE,South Dakota,SWAP,504,context,biological_unit_components,genotype_phenotype,FALSE,0
+TN_SWAP_2015,TN,SWAP,2015,FALSE,Tennessee,SWAP,506,concepts,adaptive_capacity_components,demography,TRUE,1
+TN_SWAP_2015,TN,SWAP,2015,FALSE,Tennessee,SWAP,506,concepts,adaptive_capacity_components,distribution,TRUE,1
+TN_SWAP_2015,TN,SWAP,2015,FALSE,Tennessee,SWAP,506,concepts,adaptive_capacity_components,movement,TRUE,1
+TN_SWAP_2015,TN,SWAP,2015,FALSE,Tennessee,SWAP,506,concepts,adaptive_capacity_components,evolutionary_potential,TRUE,1
+TN_SWAP_2015,TN,SWAP,2015,FALSE,Tennessee,SWAP,506,concepts,adaptive_capacity_components,ecological_dependencies,FALSE,0
+TN_SWAP_2015,TN,SWAP,2015,FALSE,Tennessee,SWAP,506,concepts,adaptive_capacity_components,abiotic_niche,TRUE,1
+TN_SWAP_2015,TN,SWAP,2015,FALSE,Tennessee,SWAP,506,concepts,adaptive_capacity_components,life_history,FALSE,0
+TN_SWAP_2015,TN,SWAP,2015,FALSE,Tennessee,SWAP,506,context,management_scale,local,TRUE,1
+TN_SWAP_2015,TN,SWAP,2015,FALSE,Tennessee,SWAP,506,context,management_scale,site,TRUE,1
+TN_SWAP_2015,TN,SWAP,2015,FALSE,Tennessee,SWAP,506,context,management_scale,watershed,TRUE,1
+TN_SWAP_2015,TN,SWAP,2015,FALSE,Tennessee,SWAP,506,context,management_scale,city,FALSE,0
+TN_SWAP_2015,TN,SWAP,2015,FALSE,Tennessee,SWAP,506,context,management_scale,county,FALSE,0
+TN_SWAP_2015,TN,SWAP,2015,FALSE,Tennessee,SWAP,506,context,management_scale,within_state_region,TRUE,1
+TN_SWAP_2015,TN,SWAP,2015,FALSE,Tennessee,SWAP,506,context,management_scale,state,TRUE,1
+TN_SWAP_2015,TN,SWAP,2015,FALSE,Tennessee,SWAP,506,context,management_scale,multistate,TRUE,1
+TN_SWAP_2015,TN,SWAP,2015,FALSE,Tennessee,SWAP,506,context,management_scale,national,TRUE,1
+TN_SWAP_2015,TN,SWAP,2015,FALSE,Tennessee,SWAP,506,context,management_scale,transnational,FALSE,0
+TN_SWAP_2015,TN,SWAP,2015,FALSE,Tennessee,SWAP,506,context,management_scale,ecosystem,TRUE,1
+TN_SWAP_2015,TN,SWAP,2015,FALSE,Tennessee,SWAP,506,context,management_scale,ecoregion,TRUE,1
+TN_SWAP_2015,TN,SWAP,2015,FALSE,Tennessee,SWAP,506,context,management_scale,province,FALSE,0
+TN_SWAP_2015,TN,SWAP,2015,FALSE,Tennessee,SWAP,506,context,management_scale,section,FALSE,0
+TN_SWAP_2015,TN,SWAP,2015,FALSE,Tennessee,SWAP,506,context,management_scale,subsection,FALSE,0
+TN_SWAP_2015,TN,SWAP,2015,FALSE,Tennessee,SWAP,506,context,management_scale,lake,FALSE,0
+TN_SWAP_2015,TN,SWAP,2015,FALSE,Tennessee,SWAP,506,context,management_scale,river,TRUE,1
+TN_SWAP_2015,TN,SWAP,2015,FALSE,Tennessee,SWAP,506,context,management_scale,district,FALSE,0
+TN_SWAP_2015,TN,SWAP,2015,FALSE,Tennessee,SWAP,506,context,biological_unit_components,species,TRUE,1
+TN_SWAP_2015,TN,SWAP,2015,FALSE,Tennessee,SWAP,506,context,biological_unit_components,population,TRUE,1
+TN_SWAP_2015,TN,SWAP,2015,FALSE,Tennessee,SWAP,506,context,biological_unit_components,habitat,TRUE,1
+TN_SWAP_2015,TN,SWAP,2015,FALSE,Tennessee,SWAP,506,context,biological_unit_components,ecosystem,TRUE,1
+TN_SWAP_2015,TN,SWAP,2015,FALSE,Tennessee,SWAP,506,context,biological_unit_components,community,FALSE,0
+TN_SWAP_2015,TN,SWAP,2015,FALSE,Tennessee,SWAP,506,context,biological_unit_components,genotype_phenotype,FALSE,0
+TX_SWAP_2023,TX,SWAP,2023,FALSE,Texas,SWAP,463,concepts,adaptive_capacity_components,demography,FALSE,0
+TX_SWAP_2023,TX,SWAP,2023,FALSE,Texas,SWAP,463,concepts,adaptive_capacity_components,distribution,TRUE,2
+TX_SWAP_2023,TX,SWAP,2023,FALSE,Texas,SWAP,463,concepts,adaptive_capacity_components,movement,TRUE,2
+TX_SWAP_2023,TX,SWAP,2023,FALSE,Texas,SWAP,463,concepts,adaptive_capacity_components,evolutionary_potential,FALSE,0
+TX_SWAP_2023,TX,SWAP,2023,FALSE,Texas,SWAP,463,concepts,adaptive_capacity_components,ecological_dependencies,FALSE,0
+TX_SWAP_2023,TX,SWAP,2023,FALSE,Texas,SWAP,463,concepts,adaptive_capacity_components,abiotic_niche,TRUE,1
+TX_SWAP_2023,TX,SWAP,2023,FALSE,Texas,SWAP,463,concepts,adaptive_capacity_components,life_history,FALSE,0
+TX_SWAP_2023,TX,SWAP,2023,FALSE,Texas,SWAP,463,context,management_scale,local,FALSE,0
+TX_SWAP_2023,TX,SWAP,2023,FALSE,Texas,SWAP,463,context,management_scale,site,TRUE,1
+TX_SWAP_2023,TX,SWAP,2023,FALSE,Texas,SWAP,463,context,management_scale,watershed,TRUE,1
+TX_SWAP_2023,TX,SWAP,2023,FALSE,Texas,SWAP,463,context,management_scale,city,FALSE,0
+TX_SWAP_2023,TX,SWAP,2023,FALSE,Texas,SWAP,463,context,management_scale,county,FALSE,0
+TX_SWAP_2023,TX,SWAP,2023,FALSE,Texas,SWAP,463,context,management_scale,within_state_region,TRUE,1
+TX_SWAP_2023,TX,SWAP,2023,FALSE,Texas,SWAP,463,context,management_scale,state,TRUE,1
+TX_SWAP_2023,TX,SWAP,2023,FALSE,Texas,SWAP,463,context,management_scale,multistate,TRUE,1
+TX_SWAP_2023,TX,SWAP,2023,FALSE,Texas,SWAP,463,context,management_scale,national,FALSE,0
+TX_SWAP_2023,TX,SWAP,2023,FALSE,Texas,SWAP,463,context,management_scale,transnational,FALSE,0
+TX_SWAP_2023,TX,SWAP,2023,FALSE,Texas,SWAP,463,context,management_scale,ecosystem,TRUE,1
+TX_SWAP_2023,TX,SWAP,2023,FALSE,Texas,SWAP,463,context,management_scale,ecoregion,TRUE,1
+TX_SWAP_2023,TX,SWAP,2023,FALSE,Texas,SWAP,463,context,management_scale,province,FALSE,0
+TX_SWAP_2023,TX,SWAP,2023,FALSE,Texas,SWAP,463,context,management_scale,section,FALSE,0
+TX_SWAP_2023,TX,SWAP,2023,FALSE,Texas,SWAP,463,context,management_scale,subsection,FALSE,0
+TX_SWAP_2023,TX,SWAP,2023,FALSE,Texas,SWAP,463,context,management_scale,lake,FALSE,0
+TX_SWAP_2023,TX,SWAP,2023,FALSE,Texas,SWAP,463,context,management_scale,river,TRUE,1
+TX_SWAP_2023,TX,SWAP,2023,FALSE,Texas,SWAP,463,context,management_scale,district,FALSE,0
+TX_SWAP_2023,TX,SWAP,2023,FALSE,Texas,SWAP,463,context,biological_unit_components,species,TRUE,1
+TX_SWAP_2023,TX,SWAP,2023,FALSE,Texas,SWAP,463,context,biological_unit_components,population,FALSE,0
+TX_SWAP_2023,TX,SWAP,2023,FALSE,Texas,SWAP,463,context,biological_unit_components,habitat,TRUE,1
+TX_SWAP_2023,TX,SWAP,2023,FALSE,Texas,SWAP,463,context,biological_unit_components,ecosystem,FALSE,0
+TX_SWAP_2023,TX,SWAP,2023,FALSE,Texas,SWAP,463,context,biological_unit_components,community,TRUE,1
+TX_SWAP_2023,TX,SWAP,2023,FALSE,Texas,SWAP,463,context,biological_unit_components,genotype_phenotype,FALSE,0
+UT_SWAP_2025,UT,SWAP,2025,FALSE,Utah,SWAP,619,concepts,adaptive_capacity_components,demography,FALSE,0
+UT_SWAP_2025,UT,SWAP,2025,FALSE,Utah,SWAP,619,concepts,adaptive_capacity_components,distribution,TRUE,1
+UT_SWAP_2025,UT,SWAP,2025,FALSE,Utah,SWAP,619,concepts,adaptive_capacity_components,movement,TRUE,1
+UT_SWAP_2025,UT,SWAP,2025,FALSE,Utah,SWAP,619,concepts,adaptive_capacity_components,evolutionary_potential,FALSE,0
+UT_SWAP_2025,UT,SWAP,2025,FALSE,Utah,SWAP,619,concepts,adaptive_capacity_components,ecological_dependencies,FALSE,0
+UT_SWAP_2025,UT,SWAP,2025,FALSE,Utah,SWAP,619,concepts,adaptive_capacity_components,abiotic_niche,TRUE,1
+UT_SWAP_2025,UT,SWAP,2025,FALSE,Utah,SWAP,619,concepts,adaptive_capacity_components,life_history,FALSE,0
+UT_SWAP_2025,UT,SWAP,2025,FALSE,Utah,SWAP,619,context,management_scale,local,FALSE,0
+UT_SWAP_2025,UT,SWAP,2025,FALSE,Utah,SWAP,619,context,management_scale,site,TRUE,1
+UT_SWAP_2025,UT,SWAP,2025,FALSE,Utah,SWAP,619,context,management_scale,watershed,TRUE,1
+UT_SWAP_2025,UT,SWAP,2025,FALSE,Utah,SWAP,619,context,management_scale,city,FALSE,0
+UT_SWAP_2025,UT,SWAP,2025,FALSE,Utah,SWAP,619,context,management_scale,county,FALSE,0
+UT_SWAP_2025,UT,SWAP,2025,FALSE,Utah,SWAP,619,context,management_scale,within_state_region,TRUE,1
+UT_SWAP_2025,UT,SWAP,2025,FALSE,Utah,SWAP,619,context,management_scale,state,TRUE,1
+UT_SWAP_2025,UT,SWAP,2025,FALSE,Utah,SWAP,619,context,management_scale,multistate,TRUE,1
+UT_SWAP_2025,UT,SWAP,2025,FALSE,Utah,SWAP,619,context,management_scale,national,FALSE,0
+UT_SWAP_2025,UT,SWAP,2025,FALSE,Utah,SWAP,619,context,management_scale,transnational,FALSE,0
+UT_SWAP_2025,UT,SWAP,2025,FALSE,Utah,SWAP,619,context,management_scale,ecosystem,TRUE,1
+UT_SWAP_2025,UT,SWAP,2025,FALSE,Utah,SWAP,619,context,management_scale,ecoregion,TRUE,1
+UT_SWAP_2025,UT,SWAP,2025,FALSE,Utah,SWAP,619,context,management_scale,province,FALSE,0
+UT_SWAP_2025,UT,SWAP,2025,FALSE,Utah,SWAP,619,context,management_scale,section,FALSE,0
+UT_SWAP_2025,UT,SWAP,2025,FALSE,Utah,SWAP,619,context,management_scale,subsection,FALSE,0
+UT_SWAP_2025,UT,SWAP,2025,FALSE,Utah,SWAP,619,context,management_scale,lake,FALSE,0
+UT_SWAP_2025,UT,SWAP,2025,FALSE,Utah,SWAP,619,context,management_scale,river,FALSE,0
+UT_SWAP_2025,UT,SWAP,2025,FALSE,Utah,SWAP,619,context,management_scale,district,FALSE,0
+UT_SWAP_2025,UT,SWAP,2025,FALSE,Utah,SWAP,619,context,biological_unit_components,species,TRUE,1
+UT_SWAP_2025,UT,SWAP,2025,FALSE,Utah,SWAP,619,context,biological_unit_components,population,TRUE,1
+UT_SWAP_2025,UT,SWAP,2025,FALSE,Utah,SWAP,619,context,biological_unit_components,habitat,TRUE,1
+UT_SWAP_2025,UT,SWAP,2025,FALSE,Utah,SWAP,619,context,biological_unit_components,ecosystem,TRUE,1
+UT_SWAP_2025,UT,SWAP,2025,FALSE,Utah,SWAP,619,context,biological_unit_components,community,TRUE,1
+UT_SWAP_2025,UT,SWAP,2025,FALSE,Utah,SWAP,619,context,biological_unit_components,genotype_phenotype,FALSE,0
+VA_SWAP_2025,VA,SWAP,2025,FALSE,Virginia,SWAP,506,concepts,adaptive_capacity_components,demography,TRUE,1
+VA_SWAP_2025,VA,SWAP,2025,FALSE,Virginia,SWAP,506,concepts,adaptive_capacity_components,distribution,TRUE,1
+VA_SWAP_2025,VA,SWAP,2025,FALSE,Virginia,SWAP,506,concepts,adaptive_capacity_components,movement,TRUE,1
+VA_SWAP_2025,VA,SWAP,2025,FALSE,Virginia,SWAP,506,concepts,adaptive_capacity_components,evolutionary_potential,TRUE,1
+VA_SWAP_2025,VA,SWAP,2025,FALSE,Virginia,SWAP,506,concepts,adaptive_capacity_components,ecological_dependencies,TRUE,1
+VA_SWAP_2025,VA,SWAP,2025,FALSE,Virginia,SWAP,506,concepts,adaptive_capacity_components,abiotic_niche,TRUE,1
+VA_SWAP_2025,VA,SWAP,2025,FALSE,Virginia,SWAP,506,concepts,adaptive_capacity_components,life_history,TRUE,1
+VA_SWAP_2025,VA,SWAP,2025,FALSE,Virginia,SWAP,506,context,management_scale,local,TRUE,1
+VA_SWAP_2025,VA,SWAP,2025,FALSE,Virginia,SWAP,506,context,management_scale,site,TRUE,1
+VA_SWAP_2025,VA,SWAP,2025,FALSE,Virginia,SWAP,506,context,management_scale,watershed,TRUE,1
+VA_SWAP_2025,VA,SWAP,2025,FALSE,Virginia,SWAP,506,context,management_scale,city,FALSE,0
+VA_SWAP_2025,VA,SWAP,2025,FALSE,Virginia,SWAP,506,context,management_scale,county,TRUE,1
+VA_SWAP_2025,VA,SWAP,2025,FALSE,Virginia,SWAP,506,context,management_scale,within_state_region,TRUE,1
+VA_SWAP_2025,VA,SWAP,2025,FALSE,Virginia,SWAP,506,context,management_scale,state,TRUE,1
+VA_SWAP_2025,VA,SWAP,2025,FALSE,Virginia,SWAP,506,context,management_scale,multistate,TRUE,1
+VA_SWAP_2025,VA,SWAP,2025,FALSE,Virginia,SWAP,506,context,management_scale,national,TRUE,1
+VA_SWAP_2025,VA,SWAP,2025,FALSE,Virginia,SWAP,506,context,management_scale,transnational,FALSE,0
+VA_SWAP_2025,VA,SWAP,2025,FALSE,Virginia,SWAP,506,context,management_scale,ecosystem,TRUE,1
+VA_SWAP_2025,VA,SWAP,2025,FALSE,Virginia,SWAP,506,context,management_scale,ecoregion,TRUE,1
+VA_SWAP_2025,VA,SWAP,2025,FALSE,Virginia,SWAP,506,context,management_scale,province,FALSE,0
+VA_SWAP_2025,VA,SWAP,2025,FALSE,Virginia,SWAP,506,context,management_scale,section,FALSE,0
+VA_SWAP_2025,VA,SWAP,2025,FALSE,Virginia,SWAP,506,context,management_scale,subsection,FALSE,0
+VA_SWAP_2025,VA,SWAP,2025,FALSE,Virginia,SWAP,506,context,management_scale,lake,FALSE,0
+VA_SWAP_2025,VA,SWAP,2025,FALSE,Virginia,SWAP,506,context,management_scale,river,FALSE,0
+VA_SWAP_2025,VA,SWAP,2025,FALSE,Virginia,SWAP,506,context,management_scale,district,FALSE,0
+VA_SWAP_2025,VA,SWAP,2025,FALSE,Virginia,SWAP,506,context,biological_unit_components,species,TRUE,1
+VA_SWAP_2025,VA,SWAP,2025,FALSE,Virginia,SWAP,506,context,biological_unit_components,population,TRUE,1
+VA_SWAP_2025,VA,SWAP,2025,FALSE,Virginia,SWAP,506,context,biological_unit_components,habitat,TRUE,1
+VA_SWAP_2025,VA,SWAP,2025,FALSE,Virginia,SWAP,506,context,biological_unit_components,ecosystem,TRUE,1
+VA_SWAP_2025,VA,SWAP,2025,FALSE,Virginia,SWAP,506,context,biological_unit_components,community,TRUE,1
+VA_SWAP_2025,VA,SWAP,2025,FALSE,Virginia,SWAP,506,context,biological_unit_components,genotype_phenotype,TRUE,1
+VI_SWAP_2015,VI,SWAP,2015,FALSE,U.S. Virgin Islands,SWAP,120,concepts,adaptive_capacity_components,demography,FALSE,0
+VI_SWAP_2015,VI,SWAP,2015,FALSE,U.S. Virgin Islands,SWAP,120,concepts,adaptive_capacity_components,distribution,TRUE,1
+VI_SWAP_2015,VI,SWAP,2015,FALSE,U.S. Virgin Islands,SWAP,120,concepts,adaptive_capacity_components,movement,TRUE,1
+VI_SWAP_2015,VI,SWAP,2015,FALSE,U.S. Virgin Islands,SWAP,120,concepts,adaptive_capacity_components,evolutionary_potential,TRUE,1
+VI_SWAP_2015,VI,SWAP,2015,FALSE,U.S. Virgin Islands,SWAP,120,concepts,adaptive_capacity_components,ecological_dependencies,TRUE,1
+VI_SWAP_2015,VI,SWAP,2015,FALSE,U.S. Virgin Islands,SWAP,120,concepts,adaptive_capacity_components,abiotic_niche,TRUE,1
+VI_SWAP_2015,VI,SWAP,2015,FALSE,U.S. Virgin Islands,SWAP,120,concepts,adaptive_capacity_components,life_history,FALSE,0
+VI_SWAP_2015,VI,SWAP,2015,FALSE,U.S. Virgin Islands,SWAP,120,context,management_scale,local,TRUE,1
+VI_SWAP_2015,VI,SWAP,2015,FALSE,U.S. Virgin Islands,SWAP,120,context,management_scale,site,TRUE,1
+VI_SWAP_2015,VI,SWAP,2015,FALSE,U.S. Virgin Islands,SWAP,120,context,management_scale,watershed,TRUE,1
+VI_SWAP_2015,VI,SWAP,2015,FALSE,U.S. Virgin Islands,SWAP,120,context,management_scale,city,FALSE,0
+VI_SWAP_2015,VI,SWAP,2015,FALSE,U.S. Virgin Islands,SWAP,120,context,management_scale,county,FALSE,0
+VI_SWAP_2015,VI,SWAP,2015,FALSE,U.S. Virgin Islands,SWAP,120,context,management_scale,within_state_region,TRUE,1
+VI_SWAP_2015,VI,SWAP,2015,FALSE,U.S. Virgin Islands,SWAP,120,context,management_scale,state,TRUE,1
+VI_SWAP_2015,VI,SWAP,2015,FALSE,U.S. Virgin Islands,SWAP,120,context,management_scale,multistate,FALSE,0
+VI_SWAP_2015,VI,SWAP,2015,FALSE,U.S. Virgin Islands,SWAP,120,context,management_scale,national,TRUE,1
+VI_SWAP_2015,VI,SWAP,2015,FALSE,U.S. Virgin Islands,SWAP,120,context,management_scale,transnational,FALSE,0
+VI_SWAP_2015,VI,SWAP,2015,FALSE,U.S. Virgin Islands,SWAP,120,context,management_scale,ecosystem,TRUE,1
+VI_SWAP_2015,VI,SWAP,2015,FALSE,U.S. Virgin Islands,SWAP,120,context,management_scale,ecoregion,FALSE,0
+VI_SWAP_2015,VI,SWAP,2015,FALSE,U.S. Virgin Islands,SWAP,120,context,management_scale,province,FALSE,0
+VI_SWAP_2015,VI,SWAP,2015,FALSE,U.S. Virgin Islands,SWAP,120,context,management_scale,section,FALSE,0
+VI_SWAP_2015,VI,SWAP,2015,FALSE,U.S. Virgin Islands,SWAP,120,context,management_scale,subsection,FALSE,0
+VI_SWAP_2015,VI,SWAP,2015,FALSE,U.S. Virgin Islands,SWAP,120,context,management_scale,lake,FALSE,0
+VI_SWAP_2015,VI,SWAP,2015,FALSE,U.S. Virgin Islands,SWAP,120,context,management_scale,river,FALSE,0
+VI_SWAP_2015,VI,SWAP,2015,FALSE,U.S. Virgin Islands,SWAP,120,context,management_scale,district,FALSE,0
+VI_SWAP_2015,VI,SWAP,2015,FALSE,U.S. Virgin Islands,SWAP,120,context,biological_unit_components,species,TRUE,1
+VI_SWAP_2015,VI,SWAP,2015,FALSE,U.S. Virgin Islands,SWAP,120,context,biological_unit_components,population,FALSE,0
+VI_SWAP_2015,VI,SWAP,2015,FALSE,U.S. Virgin Islands,SWAP,120,context,biological_unit_components,habitat,TRUE,1
+VI_SWAP_2015,VI,SWAP,2015,FALSE,U.S. Virgin Islands,SWAP,120,context,biological_unit_components,ecosystem,TRUE,1
+VI_SWAP_2015,VI,SWAP,2015,FALSE,U.S. Virgin Islands,SWAP,120,context,biological_unit_components,community,TRUE,1
+VI_SWAP_2015,VI,SWAP,2015,FALSE,U.S. Virgin Islands,SWAP,120,context,biological_unit_components,genotype_phenotype,FALSE,0
+VT_SWAP_2015,VT,SWAP,2015,FALSE,Vermont,SWAP,1502,concepts,adaptive_capacity_components,demography,TRUE,1
+VT_SWAP_2015,VT,SWAP,2015,FALSE,Vermont,SWAP,1502,concepts,adaptive_capacity_components,distribution,TRUE,1
+VT_SWAP_2015,VT,SWAP,2015,FALSE,Vermont,SWAP,1502,concepts,adaptive_capacity_components,movement,TRUE,1
+VT_SWAP_2015,VT,SWAP,2015,FALSE,Vermont,SWAP,1502,concepts,adaptive_capacity_components,evolutionary_potential,FALSE,0
+VT_SWAP_2015,VT,SWAP,2015,FALSE,Vermont,SWAP,1502,concepts,adaptive_capacity_components,ecological_dependencies,TRUE,1
+VT_SWAP_2015,VT,SWAP,2015,FALSE,Vermont,SWAP,1502,concepts,adaptive_capacity_components,abiotic_niche,TRUE,1
+VT_SWAP_2015,VT,SWAP,2015,FALSE,Vermont,SWAP,1502,concepts,adaptive_capacity_components,life_history,TRUE,1
+VT_SWAP_2015,VT,SWAP,2015,FALSE,Vermont,SWAP,1502,context,management_scale,local,TRUE,1
+VT_SWAP_2015,VT,SWAP,2015,FALSE,Vermont,SWAP,1502,context,management_scale,site,TRUE,1
+VT_SWAP_2015,VT,SWAP,2015,FALSE,Vermont,SWAP,1502,context,management_scale,watershed,TRUE,1
+VT_SWAP_2015,VT,SWAP,2015,FALSE,Vermont,SWAP,1502,context,management_scale,city,FALSE,0
+VT_SWAP_2015,VT,SWAP,2015,FALSE,Vermont,SWAP,1502,context,management_scale,county,FALSE,0
+VT_SWAP_2015,VT,SWAP,2015,FALSE,Vermont,SWAP,1502,context,management_scale,within_state_region,TRUE,1
+VT_SWAP_2015,VT,SWAP,2015,FALSE,Vermont,SWAP,1502,context,management_scale,state,TRUE,1
+VT_SWAP_2015,VT,SWAP,2015,FALSE,Vermont,SWAP,1502,context,management_scale,multistate,TRUE,1
+VT_SWAP_2015,VT,SWAP,2015,FALSE,Vermont,SWAP,1502,context,management_scale,national,FALSE,0
+VT_SWAP_2015,VT,SWAP,2015,FALSE,Vermont,SWAP,1502,context,management_scale,transnational,TRUE,1
+VT_SWAP_2015,VT,SWAP,2015,FALSE,Vermont,SWAP,1502,context,management_scale,ecosystem,FALSE,0
+VT_SWAP_2015,VT,SWAP,2015,FALSE,Vermont,SWAP,1502,context,management_scale,ecoregion,FALSE,0
+VT_SWAP_2015,VT,SWAP,2015,FALSE,Vermont,SWAP,1502,context,management_scale,province,FALSE,0
+VT_SWAP_2015,VT,SWAP,2015,FALSE,Vermont,SWAP,1502,context,management_scale,section,FALSE,0
+VT_SWAP_2015,VT,SWAP,2015,FALSE,Vermont,SWAP,1502,context,management_scale,subsection,FALSE,0
+VT_SWAP_2015,VT,SWAP,2015,FALSE,Vermont,SWAP,1502,context,management_scale,lake,TRUE,1
+VT_SWAP_2015,VT,SWAP,2015,FALSE,Vermont,SWAP,1502,context,management_scale,river,TRUE,1
+VT_SWAP_2015,VT,SWAP,2015,FALSE,Vermont,SWAP,1502,context,management_scale,district,FALSE,0
+VT_SWAP_2015,VT,SWAP,2015,FALSE,Vermont,SWAP,1502,context,biological_unit_components,species,TRUE,1
+VT_SWAP_2015,VT,SWAP,2015,FALSE,Vermont,SWAP,1502,context,biological_unit_components,population,TRUE,1
+VT_SWAP_2015,VT,SWAP,2015,FALSE,Vermont,SWAP,1502,context,biological_unit_components,habitat,TRUE,1
+VT_SWAP_2015,VT,SWAP,2015,FALSE,Vermont,SWAP,1502,context,biological_unit_components,ecosystem,FALSE,0
+VT_SWAP_2015,VT,SWAP,2015,FALSE,Vermont,SWAP,1502,context,biological_unit_components,community,TRUE,1
+VT_SWAP_2015,VT,SWAP,2015,FALSE,Vermont,SWAP,1502,context,biological_unit_components,genotype_phenotype,FALSE,0
+WA_SWAP_2025,WA,SWAP,2025,FALSE,Washington State (WDFW),SWAP,353,concepts,adaptive_capacity_components,demography,TRUE,1
+WA_SWAP_2025,WA,SWAP,2025,FALSE,Washington State (WDFW),SWAP,353,concepts,adaptive_capacity_components,distribution,TRUE,1
+WA_SWAP_2025,WA,SWAP,2025,FALSE,Washington State (WDFW),SWAP,353,concepts,adaptive_capacity_components,movement,TRUE,2
+WA_SWAP_2025,WA,SWAP,2025,FALSE,Washington State (WDFW),SWAP,353,concepts,adaptive_capacity_components,evolutionary_potential,TRUE,1
+WA_SWAP_2025,WA,SWAP,2025,FALSE,Washington State (WDFW),SWAP,353,concepts,adaptive_capacity_components,ecological_dependencies,TRUE,1
+WA_SWAP_2025,WA,SWAP,2025,FALSE,Washington State (WDFW),SWAP,353,concepts,adaptive_capacity_components,abiotic_niche,TRUE,1
+WA_SWAP_2025,WA,SWAP,2025,FALSE,Washington State (WDFW),SWAP,353,concepts,adaptive_capacity_components,life_history,TRUE,1
+WA_SWAP_2025,WA,SWAP,2025,FALSE,Washington State (WDFW),SWAP,353,context,management_scale,local,TRUE,1
+WA_SWAP_2025,WA,SWAP,2025,FALSE,Washington State (WDFW),SWAP,353,context,management_scale,site,TRUE,1
+WA_SWAP_2025,WA,SWAP,2025,FALSE,Washington State (WDFW),SWAP,353,context,management_scale,watershed,TRUE,1
+WA_SWAP_2025,WA,SWAP,2025,FALSE,Washington State (WDFW),SWAP,353,context,management_scale,city,FALSE,0
+WA_SWAP_2025,WA,SWAP,2025,FALSE,Washington State (WDFW),SWAP,353,context,management_scale,county,TRUE,1
+WA_SWAP_2025,WA,SWAP,2025,FALSE,Washington State (WDFW),SWAP,353,context,management_scale,within_state_region,TRUE,1
+WA_SWAP_2025,WA,SWAP,2025,FALSE,Washington State (WDFW),SWAP,353,context,management_scale,state,TRUE,1
+WA_SWAP_2025,WA,SWAP,2025,FALSE,Washington State (WDFW),SWAP,353,context,management_scale,multistate,TRUE,1
+WA_SWAP_2025,WA,SWAP,2025,FALSE,Washington State (WDFW),SWAP,353,context,management_scale,national,TRUE,1
+WA_SWAP_2025,WA,SWAP,2025,FALSE,Washington State (WDFW),SWAP,353,context,management_scale,transnational,TRUE,1
+WA_SWAP_2025,WA,SWAP,2025,FALSE,Washington State (WDFW),SWAP,353,context,management_scale,ecosystem,TRUE,1
+WA_SWAP_2025,WA,SWAP,2025,FALSE,Washington State (WDFW),SWAP,353,context,management_scale,ecoregion,TRUE,1
+WA_SWAP_2025,WA,SWAP,2025,FALSE,Washington State (WDFW),SWAP,353,context,management_scale,province,FALSE,0
+WA_SWAP_2025,WA,SWAP,2025,FALSE,Washington State (WDFW),SWAP,353,context,management_scale,section,FALSE,0
+WA_SWAP_2025,WA,SWAP,2025,FALSE,Washington State (WDFW),SWAP,353,context,management_scale,subsection,FALSE,0
+WA_SWAP_2025,WA,SWAP,2025,FALSE,Washington State (WDFW),SWAP,353,context,management_scale,lake,FALSE,0
+WA_SWAP_2025,WA,SWAP,2025,FALSE,Washington State (WDFW),SWAP,353,context,management_scale,river,TRUE,1
+WA_SWAP_2025,WA,SWAP,2025,FALSE,Washington State (WDFW),SWAP,353,context,management_scale,district,FALSE,0
+WA_SWAP_2025,WA,SWAP,2025,FALSE,Washington State (WDFW),SWAP,353,context,biological_unit_components,species,TRUE,1
+WA_SWAP_2025,WA,SWAP,2025,FALSE,Washington State (WDFW),SWAP,353,context,biological_unit_components,population,TRUE,1
+WA_SWAP_2025,WA,SWAP,2025,FALSE,Washington State (WDFW),SWAP,353,context,biological_unit_components,habitat,TRUE,1
+WA_SWAP_2025,WA,SWAP,2025,FALSE,Washington State (WDFW),SWAP,353,context,biological_unit_components,ecosystem,TRUE,1
+WA_SWAP_2025,WA,SWAP,2025,FALSE,Washington State (WDFW),SWAP,353,context,biological_unit_components,community,TRUE,1
+WA_SWAP_2025,WA,SWAP,2025,FALSE,Washington State (WDFW),SWAP,353,context,biological_unit_components,genotype_phenotype,TRUE,1
+WI_SWAP_2025_draft,WI,SWAP,2025,TRUE,Wisconsin,SWAP,514,concepts,adaptive_capacity_components,demography,TRUE,1
+WI_SWAP_2025_draft,WI,SWAP,2025,TRUE,Wisconsin,SWAP,514,concepts,adaptive_capacity_components,distribution,TRUE,1
+WI_SWAP_2025_draft,WI,SWAP,2025,TRUE,Wisconsin,SWAP,514,concepts,adaptive_capacity_components,movement,TRUE,1
+WI_SWAP_2025_draft,WI,SWAP,2025,TRUE,Wisconsin,SWAP,514,concepts,adaptive_capacity_components,evolutionary_potential,TRUE,1
+WI_SWAP_2025_draft,WI,SWAP,2025,TRUE,Wisconsin,SWAP,514,concepts,adaptive_capacity_components,ecological_dependencies,TRUE,1
+WI_SWAP_2025_draft,WI,SWAP,2025,TRUE,Wisconsin,SWAP,514,concepts,adaptive_capacity_components,abiotic_niche,TRUE,1
+WI_SWAP_2025_draft,WI,SWAP,2025,TRUE,Wisconsin,SWAP,514,concepts,adaptive_capacity_components,life_history,TRUE,1
+WI_SWAP_2025_draft,WI,SWAP,2025,TRUE,Wisconsin,SWAP,514,context,management_scale,local,TRUE,1
+WI_SWAP_2025_draft,WI,SWAP,2025,TRUE,Wisconsin,SWAP,514,context,management_scale,site,TRUE,1
+WI_SWAP_2025_draft,WI,SWAP,2025,TRUE,Wisconsin,SWAP,514,context,management_scale,watershed,TRUE,1
+WI_SWAP_2025_draft,WI,SWAP,2025,TRUE,Wisconsin,SWAP,514,context,management_scale,city,FALSE,0
+WI_SWAP_2025_draft,WI,SWAP,2025,TRUE,Wisconsin,SWAP,514,context,management_scale,county,TRUE,1
+WI_SWAP_2025_draft,WI,SWAP,2025,TRUE,Wisconsin,SWAP,514,context,management_scale,within_state_region,TRUE,1
+WI_SWAP_2025_draft,WI,SWAP,2025,TRUE,Wisconsin,SWAP,514,context,management_scale,state,TRUE,1
+WI_SWAP_2025_draft,WI,SWAP,2025,TRUE,Wisconsin,SWAP,514,context,management_scale,multistate,TRUE,1
+WI_SWAP_2025_draft,WI,SWAP,2025,TRUE,Wisconsin,SWAP,514,context,management_scale,national,FALSE,0
+WI_SWAP_2025_draft,WI,SWAP,2025,TRUE,Wisconsin,SWAP,514,context,management_scale,transnational,FALSE,0
+WI_SWAP_2025_draft,WI,SWAP,2025,TRUE,Wisconsin,SWAP,514,context,management_scale,ecosystem,TRUE,1
+WI_SWAP_2025_draft,WI,SWAP,2025,TRUE,Wisconsin,SWAP,514,context,management_scale,ecoregion,TRUE,1
+WI_SWAP_2025_draft,WI,SWAP,2025,TRUE,Wisconsin,SWAP,514,context,management_scale,province,FALSE,0
+WI_SWAP_2025_draft,WI,SWAP,2025,TRUE,Wisconsin,SWAP,514,context,management_scale,section,FALSE,0
+WI_SWAP_2025_draft,WI,SWAP,2025,TRUE,Wisconsin,SWAP,514,context,management_scale,subsection,FALSE,0
+WI_SWAP_2025_draft,WI,SWAP,2025,TRUE,Wisconsin,SWAP,514,context,management_scale,lake,TRUE,1
+WI_SWAP_2025_draft,WI,SWAP,2025,TRUE,Wisconsin,SWAP,514,context,management_scale,river,TRUE,1
+WI_SWAP_2025_draft,WI,SWAP,2025,TRUE,Wisconsin,SWAP,514,context,management_scale,district,FALSE,0
+WI_SWAP_2025_draft,WI,SWAP,2025,TRUE,Wisconsin,SWAP,514,context,biological_unit_components,species,TRUE,1
+WI_SWAP_2025_draft,WI,SWAP,2025,TRUE,Wisconsin,SWAP,514,context,biological_unit_components,population,TRUE,1
+WI_SWAP_2025_draft,WI,SWAP,2025,TRUE,Wisconsin,SWAP,514,context,biological_unit_components,habitat,TRUE,1
+WI_SWAP_2025_draft,WI,SWAP,2025,TRUE,Wisconsin,SWAP,514,context,biological_unit_components,ecosystem,TRUE,1
+WI_SWAP_2025_draft,WI,SWAP,2025,TRUE,Wisconsin,SWAP,514,context,biological_unit_components,community,TRUE,1
+WI_SWAP_2025_draft,WI,SWAP,2025,TRUE,Wisconsin,SWAP,514,context,biological_unit_components,genotype_phenotype,TRUE,1
+WV_SWAP_2015,WV,SWAP,2015,FALSE,West Virginia,SWAP,1106,concepts,adaptive_capacity_components,demography,TRUE,1
+WV_SWAP_2015,WV,SWAP,2015,FALSE,West Virginia,SWAP,1106,concepts,adaptive_capacity_components,distribution,TRUE,1
+WV_SWAP_2015,WV,SWAP,2015,FALSE,West Virginia,SWAP,1106,concepts,adaptive_capacity_components,movement,TRUE,1
+WV_SWAP_2015,WV,SWAP,2015,FALSE,West Virginia,SWAP,1106,concepts,adaptive_capacity_components,evolutionary_potential,FALSE,0
+WV_SWAP_2015,WV,SWAP,2015,FALSE,West Virginia,SWAP,1106,concepts,adaptive_capacity_components,ecological_dependencies,TRUE,1
+WV_SWAP_2015,WV,SWAP,2015,FALSE,West Virginia,SWAP,1106,concepts,adaptive_capacity_components,abiotic_niche,TRUE,1
+WV_SWAP_2015,WV,SWAP,2015,FALSE,West Virginia,SWAP,1106,concepts,adaptive_capacity_components,life_history,TRUE,1
+WV_SWAP_2015,WV,SWAP,2015,FALSE,West Virginia,SWAP,1106,context,management_scale,local,TRUE,1
+WV_SWAP_2015,WV,SWAP,2015,FALSE,West Virginia,SWAP,1106,context,management_scale,site,TRUE,1
+WV_SWAP_2015,WV,SWAP,2015,FALSE,West Virginia,SWAP,1106,context,management_scale,watershed,TRUE,1
+WV_SWAP_2015,WV,SWAP,2015,FALSE,West Virginia,SWAP,1106,context,management_scale,city,FALSE,0
+WV_SWAP_2015,WV,SWAP,2015,FALSE,West Virginia,SWAP,1106,context,management_scale,county,TRUE,1
+WV_SWAP_2015,WV,SWAP,2015,FALSE,West Virginia,SWAP,1106,context,management_scale,within_state_region,TRUE,1
+WV_SWAP_2015,WV,SWAP,2015,FALSE,West Virginia,SWAP,1106,context,management_scale,state,TRUE,1
+WV_SWAP_2015,WV,SWAP,2015,FALSE,West Virginia,SWAP,1106,context,management_scale,multistate,TRUE,1
+WV_SWAP_2015,WV,SWAP,2015,FALSE,West Virginia,SWAP,1106,context,management_scale,national,FALSE,0
+WV_SWAP_2015,WV,SWAP,2015,FALSE,West Virginia,SWAP,1106,context,management_scale,transnational,FALSE,0
+WV_SWAP_2015,WV,SWAP,2015,FALSE,West Virginia,SWAP,1106,context,management_scale,ecosystem,TRUE,1
+WV_SWAP_2015,WV,SWAP,2015,FALSE,West Virginia,SWAP,1106,context,management_scale,ecoregion,TRUE,1
+WV_SWAP_2015,WV,SWAP,2015,FALSE,West Virginia,SWAP,1106,context,management_scale,province,FALSE,0
+WV_SWAP_2015,WV,SWAP,2015,FALSE,West Virginia,SWAP,1106,context,management_scale,section,FALSE,0
+WV_SWAP_2015,WV,SWAP,2015,FALSE,West Virginia,SWAP,1106,context,management_scale,subsection,FALSE,0
+WV_SWAP_2015,WV,SWAP,2015,FALSE,West Virginia,SWAP,1106,context,management_scale,lake,FALSE,0
+WV_SWAP_2015,WV,SWAP,2015,FALSE,West Virginia,SWAP,1106,context,management_scale,river,TRUE,1
+WV_SWAP_2015,WV,SWAP,2015,FALSE,West Virginia,SWAP,1106,context,management_scale,district,FALSE,0
+WV_SWAP_2015,WV,SWAP,2015,FALSE,West Virginia,SWAP,1106,context,biological_unit_components,species,TRUE,1
+WV_SWAP_2015,WV,SWAP,2015,FALSE,West Virginia,SWAP,1106,context,biological_unit_components,population,TRUE,1
+WV_SWAP_2015,WV,SWAP,2015,FALSE,West Virginia,SWAP,1106,context,biological_unit_components,habitat,TRUE,1
+WV_SWAP_2015,WV,SWAP,2015,FALSE,West Virginia,SWAP,1106,context,biological_unit_components,ecosystem,TRUE,1
+WV_SWAP_2015,WV,SWAP,2015,FALSE,West Virginia,SWAP,1106,context,biological_unit_components,community,TRUE,1
+WV_SWAP_2015,WV,SWAP,2015,FALSE,West Virginia,SWAP,1106,context,biological_unit_components,genotype_phenotype,TRUE,1
+WY_SWAP_2017,WY,SWAP,2017,FALSE,Wyoming,SWAP,1692,concepts,adaptive_capacity_components,demography,TRUE,1
+WY_SWAP_2017,WY,SWAP,2017,FALSE,Wyoming,SWAP,1692,concepts,adaptive_capacity_components,distribution,TRUE,1
+WY_SWAP_2017,WY,SWAP,2017,FALSE,Wyoming,SWAP,1692,concepts,adaptive_capacity_components,movement,TRUE,1
+WY_SWAP_2017,WY,SWAP,2017,FALSE,Wyoming,SWAP,1692,concepts,adaptive_capacity_components,evolutionary_potential,TRUE,1
+WY_SWAP_2017,WY,SWAP,2017,FALSE,Wyoming,SWAP,1692,concepts,adaptive_capacity_components,ecological_dependencies,TRUE,1
+WY_SWAP_2017,WY,SWAP,2017,FALSE,Wyoming,SWAP,1692,concepts,adaptive_capacity_components,abiotic_niche,TRUE,1
+WY_SWAP_2017,WY,SWAP,2017,FALSE,Wyoming,SWAP,1692,concepts,adaptive_capacity_components,life_history,FALSE,0
+WY_SWAP_2017,WY,SWAP,2017,FALSE,Wyoming,SWAP,1692,context,management_scale,local,FALSE,0
+WY_SWAP_2017,WY,SWAP,2017,FALSE,Wyoming,SWAP,1692,context,management_scale,site,FALSE,0
+WY_SWAP_2017,WY,SWAP,2017,FALSE,Wyoming,SWAP,1692,context,management_scale,watershed,TRUE,1
+WY_SWAP_2017,WY,SWAP,2017,FALSE,Wyoming,SWAP,1692,context,management_scale,city,FALSE,0
+WY_SWAP_2017,WY,SWAP,2017,FALSE,Wyoming,SWAP,1692,context,management_scale,county,FALSE,0
+WY_SWAP_2017,WY,SWAP,2017,FALSE,Wyoming,SWAP,1692,context,management_scale,within_state_region,TRUE,1
+WY_SWAP_2017,WY,SWAP,2017,FALSE,Wyoming,SWAP,1692,context,management_scale,state,TRUE,1
+WY_SWAP_2017,WY,SWAP,2017,FALSE,Wyoming,SWAP,1692,context,management_scale,multistate,TRUE,1
+WY_SWAP_2017,WY,SWAP,2017,FALSE,Wyoming,SWAP,1692,context,management_scale,national,TRUE,1
+WY_SWAP_2017,WY,SWAP,2017,FALSE,Wyoming,SWAP,1692,context,management_scale,transnational,FALSE,0
+WY_SWAP_2017,WY,SWAP,2017,FALSE,Wyoming,SWAP,1692,context,management_scale,ecosystem,TRUE,1
+WY_SWAP_2017,WY,SWAP,2017,FALSE,Wyoming,SWAP,1692,context,management_scale,ecoregion,TRUE,1
+WY_SWAP_2017,WY,SWAP,2017,FALSE,Wyoming,SWAP,1692,context,management_scale,province,FALSE,0
+WY_SWAP_2017,WY,SWAP,2017,FALSE,Wyoming,SWAP,1692,context,management_scale,section,FALSE,0
+WY_SWAP_2017,WY,SWAP,2017,FALSE,Wyoming,SWAP,1692,context,management_scale,subsection,FALSE,0
+WY_SWAP_2017,WY,SWAP,2017,FALSE,Wyoming,SWAP,1692,context,management_scale,lake,FALSE,0
+WY_SWAP_2017,WY,SWAP,2017,FALSE,Wyoming,SWAP,1692,context,management_scale,river,TRUE,1
+WY_SWAP_2017,WY,SWAP,2017,FALSE,Wyoming,SWAP,1692,context,management_scale,district,FALSE,0
+WY_SWAP_2017,WY,SWAP,2017,FALSE,Wyoming,SWAP,1692,context,biological_unit_components,species,TRUE,1
+WY_SWAP_2017,WY,SWAP,2017,FALSE,Wyoming,SWAP,1692,context,biological_unit_components,population,TRUE,1
+WY_SWAP_2017,WY,SWAP,2017,FALSE,Wyoming,SWAP,1692,context,biological_unit_components,habitat,TRUE,1
+WY_SWAP_2017,WY,SWAP,2017,FALSE,Wyoming,SWAP,1692,context,biological_unit_components,ecosystem,TRUE,1
+WY_SWAP_2017,WY,SWAP,2017,FALSE,Wyoming,SWAP,1692,context,biological_unit_components,community,TRUE,1
+WY_SWAP_2017,WY,SWAP,2017,FALSE,Wyoming,SWAP,1692,context,biological_unit_components,genotype_phenotype,FALSE,0
