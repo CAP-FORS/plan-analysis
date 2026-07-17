@@ -1,6 +1,9 @@
 # summarize range shift management actions in SWAPs and SFAPs 
 
 library(tidyverse)
+library(vegan)
+library(ggforce)
+library(patchwork)
 
 # define regions
 regions <- bind_rows(data.frame(region = 'Alaska', juris = c("AK")),
@@ -121,7 +124,6 @@ doc_summary %>%
   labs(x = "", y = "")+
   scale_fill_brewer(palette = "Set2", name = "Action")+
   theme(
-    # axis.title = element_blank(),
     axis.text.y = element_text(size = 15),
     axis.ticks.y = element_line(),
     strip.text = element_text(size = 24),
@@ -135,4 +137,105 @@ doc_summary %>%
 
 # ggsave("analysis/figures/actions_by_doc_type.png", height = 12, width = 10, units = 'in')
 
-# tomorrow: stats to compare by region, plan
+
+# PERMANOVA: action ~ region
+
+# Reshape the data
+community_wide <- doc_summary %>%
+  mutate(action_code = ifelse(action_code %in% c("Facilitate Movement (Generic)", "Reduce Exposure", "Planning", "Adaptive Capacity"), "Other", action_code),
+         region = case_when(
+           region %in% 'Alaska' ~ "Northwest",
+           region %in% 'South Central' ~ 'North & South Central',
+           region %in% 'North Central' ~ 'North & South Central',
+           .default = region
+         )) %>% 
+  count(doc_id, region, action_code) %>% 
+  pivot_wider(names_from = action_code, values_from = n, values_fill = 0)
+
+# Create model inputs: actions (dependent variables) and environmental data (independent variables)
+action_matrix <- community_wide %>% 
+  select(-doc_id, -region)
+env_data <- community_wide %>% 
+  select(region)
+
+# Run the PERMANOVA
+permanova_result <- adonis2(action_matrix ~ region, data = env_data, method = "jaccard")
+print(permanova_result)
+
+# Check multivariate dispersion (homogeneity of variance)
+dist_matrix <- vegdist(action_matrix, method = "jaccard")
+dispersion <- betadisper(dist_matrix, env_data$region)
+anova(dispersion)
+
+# Create a PCA ordination for coordinates
+pcoa_res <- cmdscale(dist_matrix, k = 2, eig = TRUE)
+pcoa_data <- as.data.frame(pcoa_res$points) %>%
+  rename(PCo1 = V1, PCo2 = V2) %>%
+  mutate(region = env_data$region)
+
+# Extract p-val and variance explained
+p_val <- permanova_result$`Pr(>F)`[1]
+eig1 <- round(pcoa_res$eig[1] / sum(pcoa_res$eig) * 100, 1)
+eig2 <- round(pcoa_res$eig[2] / sum(pcoa_res$eig) * 100, 1)
+
+# Plotting
+region_ord <- ggplot(pcoa_data, aes(x = PCo1, y = PCo2, color = region)) +
+  stat_ellipse(aes(fill = region), geom = "polygon", alpha = 0.2, level = 0.95, color = NA) +
+  geom_jitter(size = 1, alpha = 0.8,width = 0.2, height = 0.2) +
+  theme_minimal() +
+  labs(
+    subtitle = paste("PERMANOVA: R² = ", round(permanova_result$R2[1], 3),", p-value = ", p_val),
+    x = paste0("PCo1 (", eig1, "%)"),
+    y = paste0("PCo2 (", eig2, "%)")) +
+  scale_fill_brewer(palette = "Set2", name = "Region")+
+  scale_color_brewer(palette = "Set2", name = "Region")
+
+# Repeat for document type
+# PERMANOVA: action ~ doc_type
+
+# Make model inputs
+community_wide <- doc_summary %>%
+  mutate(action_code = ifelse(action_code %in% c("Facilitate Movement (Generic)", "Reduce Exposure", "Planning", "Adaptive Capacity"), "Other", action_code)) %>%
+  filter(doc_type %in% c("SWAP", "FAP")) %>% 
+  count(doc_id, doc_type, action_code) %>% 
+  pivot_wider(names_from = action_code, values_from = n, values_fill = 0)
+
+action_matrix <- community_wide %>% 
+  select(-doc_id, -doc_type)
+
+env_data <- community_wide %>% 
+  select(doc_type)
+
+# Run the model
+permanova_result <- adonis2(action_matrix ~ doc_type, data = env_data, method = "jaccard")
+print(permanova_result)
+
+# Check multivariate dispersion (homogeneity of variance)
+dist_matrix <- vegdist(action_matrix, method = "jaccard")
+dispersion <- betadisper(dist_matrix, env_data$doc_type)
+anova(dispersion)
+
+# Create a PCA
+pcoa_res <- cmdscale(dist_matrix, k = 2, eig = TRUE)
+pcoa_data <- as.data.frame(pcoa_res$points) %>%
+  rename(PCo1 = V1, PCo2 = V2) %>%
+  mutate(doc_type = env_data$doc_type)
+
+# Extract P-val and variance explained
+eig1 <- round(pcoa_res$eig[1] / sum(pcoa_res$eig) * 100, 1)
+eig2 <- round(pcoa_res$eig[2] / sum(pcoa_res$eig) * 100, 1)
+p_val <- permanova_result$`Pr(>F)`[1]
+
+# Build the plot
+plan_ord <- ggplot(pcoa_data, aes(x = PCo1, y = PCo2, color = doc_type)) +
+  stat_ellipse(aes(fill = doc_type), geom = "polygon", alpha = 0.2, level = 0.95, color = NA) +
+  geom_jitter(size = 1, alpha = 0.8,width = 0.05, height = 0.05) +
+  theme_minimal() +
+  labs(subtitle = paste("PERMANOVA: R² = ", round(permanova_result$R2[1], 3),", p-value = ", p_val),
+    x = paste0("PCo1 (", eig1, "%)"),
+    y = paste0("PCo2 (", eig2, "%)")) +
+  scale_fill_brewer(palette = "Set2", name = "Plan Type")+
+  scale_color_brewer(palette = "Set2", name = "Plan Type")
+  
+region_ord + plan_ord
+ggsave('analysis/figures/actions_ordination_plots.png', height = 6, width = 12)
