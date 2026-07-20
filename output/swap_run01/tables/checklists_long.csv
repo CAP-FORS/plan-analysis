@@ -495,37 +495,37 @@ IA_SWAP_2025_draft,IA,SWAP,2025,TRUE,Iowa,SWAP,282,context,biological_unit_compo
 IA_SWAP_2025_draft,IA,SWAP,2025,TRUE,Iowa,SWAP,282,context,biological_unit_components,ecosystem,TRUE,1
 IA_SWAP_2025_draft,IA,SWAP,2025,TRUE,Iowa,SWAP,282,context,biological_unit_components,community,TRUE,1
 IA_SWAP_2025_draft,IA,SWAP,2025,TRUE,Iowa,SWAP,282,context,biological_unit_components,genotype_phenotype,FALSE,0
-ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho Department of Fish and Game,SWAP,435,concepts,adaptive_capacity_components,demography,TRUE,1
-ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho Department of Fish and Game,SWAP,435,concepts,adaptive_capacity_components,distribution,TRUE,2
-ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho Department of Fish and Game,SWAP,435,concepts,adaptive_capacity_components,movement,TRUE,1
-ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho Department of Fish and Game,SWAP,435,concepts,adaptive_capacity_components,evolutionary_potential,TRUE,1
-ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho Department of Fish and Game,SWAP,435,concepts,adaptive_capacity_components,ecological_dependencies,TRUE,1
-ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho Department of Fish and Game,SWAP,435,concepts,adaptive_capacity_components,abiotic_niche,TRUE,1
-ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho Department of Fish and Game,SWAP,435,concepts,adaptive_capacity_components,life_history,FALSE,0
-ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho Department of Fish and Game,SWAP,435,context,management_scale,local,FALSE,0
-ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho Department of Fish and Game,SWAP,435,context,management_scale,site,TRUE,1
-ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho Department of Fish and Game,SWAP,435,context,management_scale,watershed,TRUE,1
-ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho Department of Fish and Game,SWAP,435,context,management_scale,city,FALSE,0
-ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho Department of Fish and Game,SWAP,435,context,management_scale,county,TRUE,1
-ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho Department of Fish and Game,SWAP,435,context,management_scale,within_state_region,TRUE,1
-ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho Department of Fish and Game,SWAP,435,context,management_scale,state,TRUE,1
-ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho Department of Fish and Game,SWAP,435,context,management_scale,multistate,TRUE,1
-ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho Department of Fish and Game,SWAP,435,context,management_scale,national,FALSE,0
-ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho Department of Fish and Game,SWAP,435,context,management_scale,transnational,FALSE,0
-ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho Department of Fish and Game,SWAP,435,context,management_scale,ecosystem,TRUE,1
-ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho Department of Fish and Game,SWAP,435,context,management_scale,ecoregion,TRUE,1
-ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho Department of Fish and Game,SWAP,435,context,management_scale,province,TRUE,1
-ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho Department of Fish and Game,SWAP,435,context,management_scale,section,FALSE,0
-ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho Department of Fish and Game,SWAP,435,context,management_scale,subsection,FALSE,0
-ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho Department of Fish and Game,SWAP,435,context,management_scale,lake,FALSE,0
-ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho Department of Fish and Game,SWAP,435,context,management_scale,river,FALSE,0
-ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho Department of Fish and Game,SWAP,435,context,management_scale,district,FALSE,0
-ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho Department of Fish and Game,SWAP,435,context,biological_unit_components,species,TRUE,1
-ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho Department of Fish and Game,SWAP,435,context,biological_unit_components,population,TRUE,1
-ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho Department of Fish and Game,SWAP,435,context,biological_unit_components,habitat,TRUE,1
-ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho Department of Fish and Game,SWAP,435,context,biological_unit_components,ecosystem,TRUE,1
-ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho Department of Fish and Game,SWAP,435,context,biological_unit_components,community,TRUE,1
-ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho Department of Fish and Game,SWAP,435,context,biological_unit_components,genotype_phenotype,FALSE,0
+ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho,SWAP,435,concepts,adaptive_capacity_components,demography,FALSE,0
+ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho,SWAP,435,concepts,adaptive_capacity_components,distribution,TRUE,2
+ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho,SWAP,435,concepts,adaptive_capacity_components,movement,TRUE,2
+ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho,SWAP,435,concepts,adaptive_capacity_components,evolutionary_potential,FALSE,0
+ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho,SWAP,435,concepts,adaptive_capacity_components,ecological_dependencies,FALSE,0
+ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho,SWAP,435,concepts,adaptive_capacity_components,abiotic_niche,TRUE,2
+ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho,SWAP,435,concepts,adaptive_capacity_components,life_history,FALSE,0
+ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho,SWAP,435,context,management_scale,local,FALSE,0
+ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho,SWAP,435,context,management_scale,site,TRUE,1
+ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho,SWAP,435,context,management_scale,watershed,TRUE,1
+ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho,SWAP,435,context,management_scale,city,FALSE,0
+ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho,SWAP,435,context,management_scale,county,FALSE,0
+ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho,SWAP,435,context,management_scale,within_state_region,TRUE,1
+ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho,SWAP,435,context,management_scale,state,TRUE,1
+ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho,SWAP,435,context,management_scale,multistate,TRUE,1
+ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho,SWAP,435,context,management_scale,national,FALSE,0
+ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho,SWAP,435,context,management_scale,transnational,FALSE,0
+ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho,SWAP,435,context,management_scale,ecosystem,TRUE,1
+ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho,SWAP,435,context,management_scale,ecoregion,TRUE,1
+ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho,SWAP,435,context,management_scale,province,TRUE,1
+ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho,SWAP,435,context,management_scale,section,FALSE,0
+ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho,SWAP,435,context,management_scale,subsection,FALSE,0
+ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho,SWAP,435,context,management_scale,lake,FALSE,0
+ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho,SWAP,435,context,management_scale,river,TRUE,1
+ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho,SWAP,435,context,management_scale,district,FALSE,0
+ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho,SWAP,435,context,biological_unit_components,species,TRUE,1
+ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho,SWAP,435,context,biological_unit_components,population,TRUE,1
+ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho,SWAP,435,context,biological_unit_components,habitat,TRUE,1
+ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho,SWAP,435,context,biological_unit_components,ecosystem,TRUE,1
+ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho,SWAP,435,context,biological_unit_components,community,TRUE,1
+ID_SWAP_2023,ID,SWAP,2023,FALSE,Idaho,SWAP,435,context,biological_unit_components,genotype_phenotype,FALSE,0
 IL_SWAP_2022,IL,SWAP,2022,FALSE,Illinois,SWAP,334,concepts,adaptive_capacity_components,demography,FALSE,0
 IL_SWAP_2022,IL,SWAP,2022,FALSE,Illinois,SWAP,334,concepts,adaptive_capacity_components,distribution,TRUE,1
 IL_SWAP_2022,IL,SWAP,2022,FALSE,Illinois,SWAP,334,concepts,adaptive_capacity_components,movement,TRUE,1
@@ -744,8 +744,8 @@ MD_SWAP_2025_draft,MD,SWAP,2025,TRUE,Maryland,SWAP,672,context,biological_unit_c
 MD_SWAP_2025_draft,MD,SWAP,2025,TRUE,Maryland,SWAP,672,context,biological_unit_components,community,TRUE,1
 MD_SWAP_2025_draft,MD,SWAP,2025,TRUE,Maryland,SWAP,672,context,biological_unit_components,genotype_phenotype,FALSE,0
 ME_SWAP_2025,ME,SWAP,2025,FALSE,Maine,SWAP,643,concepts,adaptive_capacity_components,demography,FALSE,0
-ME_SWAP_2025,ME,SWAP,2025,FALSE,Maine,SWAP,643,concepts,adaptive_capacity_components,distribution,TRUE,2
-ME_SWAP_2025,ME,SWAP,2025,FALSE,Maine,SWAP,643,concepts,adaptive_capacity_components,movement,TRUE,2
+ME_SWAP_2025,ME,SWAP,2025,FALSE,Maine,SWAP,643,concepts,adaptive_capacity_components,distribution,TRUE,1
+ME_SWAP_2025,ME,SWAP,2025,FALSE,Maine,SWAP,643,concepts,adaptive_capacity_components,movement,TRUE,1
 ME_SWAP_2025,ME,SWAP,2025,FALSE,Maine,SWAP,643,concepts,adaptive_capacity_components,evolutionary_potential,FALSE,0
 ME_SWAP_2025,ME,SWAP,2025,FALSE,Maine,SWAP,643,concepts,adaptive_capacity_components,ecological_dependencies,TRUE,1
 ME_SWAP_2025,ME,SWAP,2025,FALSE,Maine,SWAP,643,concepts,adaptive_capacity_components,abiotic_niche,TRUE,1
@@ -765,8 +765,8 @@ ME_SWAP_2025,ME,SWAP,2025,FALSE,Maine,SWAP,643,context,management_scale,ecoregio
 ME_SWAP_2025,ME,SWAP,2025,FALSE,Maine,SWAP,643,context,management_scale,province,FALSE,0
 ME_SWAP_2025,ME,SWAP,2025,FALSE,Maine,SWAP,643,context,management_scale,section,TRUE,1
 ME_SWAP_2025,ME,SWAP,2025,FALSE,Maine,SWAP,643,context,management_scale,subsection,FALSE,0
-ME_SWAP_2025,ME,SWAP,2025,FALSE,Maine,SWAP,643,context,management_scale,lake,TRUE,1
-ME_SWAP_2025,ME,SWAP,2025,FALSE,Maine,SWAP,643,context,management_scale,river,TRUE,1
+ME_SWAP_2025,ME,SWAP,2025,FALSE,Maine,SWAP,643,context,management_scale,lake,FALSE,0
+ME_SWAP_2025,ME,SWAP,2025,FALSE,Maine,SWAP,643,context,management_scale,river,FALSE,0
 ME_SWAP_2025,ME,SWAP,2025,FALSE,Maine,SWAP,643,context,management_scale,district,FALSE,0
 ME_SWAP_2025,ME,SWAP,2025,FALSE,Maine,SWAP,643,context,biological_unit_components,species,TRUE,1
 ME_SWAP_2025,ME,SWAP,2025,FALSE,Maine,SWAP,643,context,biological_unit_components,population,TRUE,1

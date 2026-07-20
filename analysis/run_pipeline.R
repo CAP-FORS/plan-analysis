@@ -10,14 +10,17 @@ source("pipeline/pipeline.R")
 # SWAP -----------------------------------------
 
 config <- make_config(source_dir = "documents/swap_latest", 
-                      out_dir = "output/swap_run01")
+                      out_dir = "output/swap_run01",
+                      scoring_mode = "batch")
 
-extract(config)
-code(config)
+# extract(config)
+# code(config)
+# check_batch_status(config)   # run interactively
 finalize(config)
 verify(config)
 tabulate(config)
 
+# $5.74 before batch submission, $35.65 after. 
 
 
 # SFAP -----------------------------------------

@@ -1,6 +1,6 @@
 {
   "document_meta": {
-    "title": "Maine's 2025 Wildlife Action Plan",
+    "title": "Maine 2025 Wildlife Action Plan",
     "year": 2025,
     "jurisdiction": "Maine",
     "document_type": "SWAP",
@@ -8,282 +8,217 @@
     "page_count": 643
   },
   "orientation": {
-    "summary": "Maine's 2025 Wildlife Action Plan (SWAP) is a comprehensive state-level wildlife conservation strategy developed by the Maine Department of Inland Fisheries and Wildlife (MDIFW) in collaboration with MDMR, MNAP, and numerous conservation partners. The document is strongly climate-aware, with climate change elevated from an occasional reference (2015 Plan) to a 'super-theme' cutting across all habitats and a dedicated Climate Subcommittee. The plan explicitly engages range shift concepts—discussing species moving in response to climate change, facilitating species persistence and range migration, and identifying climate refugia as priority conservation areas. The plan draws substantially on prior vulnerability assessments (including Whitman et al. 2013, Galbraith et al. 2014) and the Maine Climate Council's 2024 Scientific Assessment but does not itself perform new climate modeling or niche modeling; it references and integrates outputs of prior work. Actions are extensive (~1,300 total), organized by species, guild, habitat, and landscape scales, with programmatic actions providing some time-binding but SMART objectives still to be developed.",
+    "summary": "This is Maine's 2025 State Wildlife Action Plan (SWAP), a comprehensive multi-chapter document covering Species of Greatest Conservation Need (SGCN), key habitats, threats, conservation actions, monitoring, and coordination. The plan has a strong and explicit posture toward climate change, adding 'Climate Change' as a cross-cutting super-theme with its own subcommittee and dedicated conservation actions. Range shifts are acknowledged but not deeply modeled — the plan references 'significant changes in species ranges, distributions, population levels' and frames habitat connectivity as facilitating 'the persistence and range expansion of SGCN … in the face of climate change.' The document performs its own species and habitat assessments, threat prioritization, and conservation action development; it references external vulnerability studies (e.g., Whitman et al. 2013) and tools (TNC Climate Resiliency Maps) but does not itself apply species distribution models or climate models to its focal subjects.",
     "evidence_index": [
       {
-        "text": "Many SGCN are considered vulnerable to impacts from a warming world. Data on climate impacts for SGCN listed in the 2015 Plan were reviewed and discussed by the Climate Subcommittee and conservation partners.",
-        "location": "Conservation Actions chapter, Climate Change section",
+        "text": "Many SGCN are considered vulnerable to impacts from a warming world.",
+        "location": "2025 Update of Habitat Themes / Climate Change super-theme section",
         "relevant_elements": ["1.1", "1.2"]
       },
       {
-        "text": "The Climate Subcommittee and partners also identified the following habitats as being particularly vulnerable and needing special attention... alpine species, freshwater aquatic species, tidal/subtidal shellfish and fishery species, seabirds and shorebirds",
-        "location": "Conservation Actions chapter, Climate Change section",
-        "relevant_elements": ["1.1", "1.2", "3.5"]
-      },
-      {
         "text": "Secondary themes for SGCN prioritization include climate change vulnerability, survey knowledge, and indigenous cultural significance.",
-        "location": "SGCN chapter, Abstract",
+        "location": "Element 1: Abstract / Introduction",
         "relevant_elements": ["1.1", "2.1"]
       },
       {
-        "text": "High Climate Change Vulnerability - A species identified as highly vulnerable by Whitman et al. 2013 or Galbraith et al. 2014 (or other published source).",
-        "location": "SGCN chapter, Designation Criteria section",
+        "text": "High Climate Change Vulnerability -A species identified as highly vulnerable by Whitman et al. 2013 or Galbraith et al. 2014 (or other published source).",
+        "location": "Element 1: Designation Criteria for Maine's SGCN in 2025, Priority 2 subcriteria",
         "relevant_elements": ["1.1", "2.1"]
-      },
-      {
-        "text": "Understanding why species and ecosystems are vulnerable or potentially less resilient is a critical first step in developing effective conservation strategies. This vulnerability is based on sensitivity, exposure, and the ability to adapt.",
-        "location": "SGCN chapter, Designation Criteria section (Table 1-2 context)",
-        "relevant_elements": ["1.1"]
       },
       {
         "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
-        "location": "SGCN chapter / Threats chapter",
+        "location": "Element 1: Birds / Grassland birds",
         "relevant_elements": ["1.2", "1.3"]
       },
       {
-        "text": "The effect of climate change on the status of Maine's reptiles and amphibians is uncertain, but given the group's limited dispersal capability and sensitivity to temperature and humidity gradients it is safe to expect significant changes in local distribution and abundance.",
-        "location": "SGCN chapter, Inland Reptiles and Amphibians Conservation Overview",
-        "relevant_elements": ["1.2", "1.3", "1.1"]
-      },
-      {
-        "text": "Wood turtles are long-lived and may have a limited capacity to adapt with the fast pace of climate change. Habitat protection remains one of the best conservation tools for this species.",
-        "location": "Conservation Actions chapter, Programmatic Conservation Actions section (caption)",
+        "text": "Wood turtles are long-lived and may have a limited capacity to adapt with the fast pace of climate change.",
+        "location": "Conservation Actions / Programmatic Conservation Actions section (caption)",
         "relevant_elements": ["1.2", "1.3"]
       },
       {
-        "text": "All members of the high-elevation guild are vulnerable to climate-driven shifts in treeline, snowpack, and vegetation structure. Modeling future habitat changes and identifying potential climate refugia are critical for long-term planning and resilience.",
-        "location": "Conservation Actions appendix, High Elevation birds guild",
-        "relevant_elements": ["1.1", "1.2", "4.1"]
+        "text": "The steep declines of aerial insectivores are likely driven by a combination of factors including declines of aerial insect abundance, habitat loss, exposure to environmental contaminants, phenological mismatches due to climate change, and stressors on migratory stopover and wintering grounds.",
+        "location": "Element 1: Birds / Grassland birds",
+        "relevant_elements": ["1.3", "3.7"]
       },
       {
-        "text": "Connectivity: This super-theme addresses terrestrial and aquatic habitat connectivity and includes facilitating the persistence and range expansion of SGCN and their habitats in the face of climate change. This super-theme also addresses common causes of habitat fragmentation.",
-        "location": "Conservation Actions chapter, 2025 Update of Habitat Themes",
-        "relevant_elements": ["1.4", "4.2", "1.3"]
+        "text": "Connectivity: This super-theme addresses terrestrial and aquatic habitat connectivity and includes facilitating the persistence and range expansion of SGCN and their habitats in the face of climate change.",
+        "location": "2025 Update of Habitat Themes",
+        "relevant_elements": ["1.4", "4.2"]
       },
       {
         "text": "Facilitate the persistence and range migration of SGCN in Maine in the face of a changing climate by ensuring landscape connectivity (both terrestrial and aquatic) through reducing habitat fragmentation and promoting the voluntary conservation of diverse and resilient landscapes and watersheds.",
-        "location": "Conservation Actions chapter, Terrestrial and Freshwater Wetland Habitat Conservation Action Theme, Connectivity theme",
+        "location": "Table 4 – Terrestrial and Freshwater Wetland Habitat Conservation Action Theme Description / Connectivity",
         "relevant_elements": ["1.4", "4.2"]
       },
       {
         "text": "Maintain and improve habitat connectivity for SGCN aquatic organisms in the face of climate change through mapping, outreach, town/municipal collaboration, and voluntary habitat conservation.",
-        "location": "Conservation Actions chapter, Marine and Coastal Habitat Conservation Action Theme, Connectivity theme",
+        "location": "Table – Marine and Coastal Habitat Conservation Action Theme / Connectivity",
         "relevant_elements": ["1.4", "4.2"]
       },
       {
-        "text": "Identify conservation priorities in areas that may serve as climate refugia.",
-        "location": "Conservation Actions chapter, Climate Change section (new actions list)",
-        "relevant_elements": ["4.1", "1.4"]
+        "text": "Maine will not retain its biodiversity without considering how species may move across the landscape in response to a changing climate.",
+        "location": "Regional and Statewide Partnerships / Programmatic Action 10",
+        "relevant_elements": ["1.4", "4.1", "4.2"]
       },
       {
-        "text": "Incorporate information from regional climate change vulnerability assessments into SGCN and habitat management plans. Conduct an updated climate change vulnerability assessment of habitat groups in Maine.",
-        "location": "Conservation Actions chapter, Landscape-level table (Table 4-7)",
-        "relevant_elements": ["2.1", "1.1", "4.5"]
-      },
-      {
-        "text": "Climate change and biodiversity in Maine: vulnerability of habitats and priority species. Manomet Center for Conservation Sciences (Whitman et al. 2013)",
-        "location": "Key Habitats chapter, Literature Cited",
-        "relevant_elements": ["2.1", "1.1"]
+        "text": "Incorporate information from regional climate change vulnerability assessments into SGCN and habitat management plans. … Conduct an updated climate change vulnerability assessment of habitat groups in Maine.",
+        "location": "Table – Landscape-level habitat conservation actions",
+        "relevant_elements": ["2.1", "4.5"]
       },
       {
         "text": "Conduct species distribution modeling to understand how species distributions are changing due to environmental change.",
-        "location": "Conservation Actions appendix, marine guild section",
+        "location": "Appendix 4-5 / Marine guild conservation actions",
         "relevant_elements": ["2.2"]
       },
       {
         "text": "Develop marine benthic habitat maps. Data from these maps could then be used to inform species distribution modeling.",
-        "location": "Conservation Actions appendix, marine guild section",
+        "location": "Appendix 4-5 / Marine guild conservation actions",
         "relevant_elements": ["2.2"]
       },
       {
-        "text": "Expand landscape-scale mapping of potential breeding habitat. Use remote sensing and predictive models to map potential Rusty Blackbird breeding habitat statewide and identify areas for focused survey or protection.",
-        "location": "Conservation Actions appendix, Rusty Blackbird SGCN entries",
-        "relevant_elements": ["2.2"]
-      },
-      {
-        "text": "Model and track climate-driven habitat change. All members of the high-elevation guild are vulnerable to climate-driven shifts in treeline, snowpack, and vegetation structure. Modeling future habitat changes and identifying potential climate refugia are critical for long-term planning and resilience.",
-        "location": "Conservation Actions appendix, High Elevation birds guild",
-        "relevant_elements": ["2.2", "2.3", "4.1"]
+        "text": "A few resources that can help partners further explore these issues and take action include The Nature Conservancy's Climate Resiliency Maps, BwH maps and outreach materials, the Maine Stream Habitat Viewer, and the Maine Won't Wait Climate Action Plan.",
+        "location": "2025 Update of Habitat Themes / Climate Change section",
+        "relevant_elements": ["2.3", "4.5"]
       },
       {
         "text": "Observed and potential changes to Maine's climate, and their subsequent impacts on habitats and wildlife, have been the focus of ongoing, long-term studies by the University of Maine, conservation groups, and state and federal agencies (e.g., Whitman et al. 2013, Fernandez et al. 2015, Peters et al. 2020, Whithead et al. 2023, MCC STS 2024).",
-        "location": "Key Habitats chapter, Landscape Overview of Maine",
-        "relevant_elements": ["2.3", "1.1"]
-      },
-      {
-        "text": "Over the next 100 years, it is likely that we will see between 1.2 and 6.1 feet of sea level rise in Maine. The Maine Climate Council recently recommended that the state consider committing to manage for 1.5 feet of relative sea level rise by 2050, and 3.9 feet of sea level rise by 2100.",
-        "location": "Key Habitats chapter, Coastal section (Habitat Gaps in Land Conservation)",
-        "relevant_elements": ["2.3", "3.5"]
+        "location": "Element 2: Landscape Overview of Maine",
+        "relevant_elements": ["2.3"]
       },
       {
         "text": "A regional habitat connectivity plan provides spatial layers depicting structural connectivity, network importance, landscape permeability, and climate connectivity.",
-        "location": "Key Habitats chapter, Habitat and Landscape Connectivity section",
-        "relevant_elements": ["2.4", "1.4"]
+        "location": "Element 5/6 / Tracking Statewide Habitat Trends",
+        "relevant_elements": ["2.4"]
       },
       {
-        "text": "Programmatic Action 10: Develop a Maine Landscape Conservation Blueprint... this project will address this planning need by identifying and mapping priority habitat resources that promote connectivity, such as places where wildlife move across the landscape, within stream networks, across roadways, or in marine environments.",
-        "location": "Conservation Actions chapter, Regional and Statewide Partnerships section",
-        "relevant_elements": ["4.1", "2.4", "1.4"]
+        "text": "Integrate aquatic habitat connectivity into BwH Focus Areas and other landscape connectivity mapping initiatives.",
+        "location": "Table – Landscape-level habitat conservation actions",
+        "relevant_elements": ["2.4", "4.1"]
       },
       {
-        "text": "BwH's Focus Areas of Statewide Ecological Significance (Focus Areas) are areas to prioritize collaborative, non-regulatory conservation actions that benefit biodiversity in Maine. Focus Areas were mapped to highlight natural areas of statewide biodiversity importance.",
-        "location": "Key Habitats chapter, Focus Areas of Statewide Ecological Significance",
+        "text": "Identify conservation priorities in areas that may serve as climate refugia. … Assess conserved lands resiliency and gaps.",
+        "location": "2025 Update of Habitat Themes / Climate Change section",
+        "relevant_elements": ["4.1", "4.5"]
+      },
+      {
+        "text": "Develop a Maine Landscape Conservation Blueprint. … identifying and mapping priority habitat resources that promote connectivity, such as places where wildlife move across the landscape, within stream networks, across roadways, or in marine environments.",
+        "location": "Regional and Statewide Partnerships / Programmatic Action 10",
         "relevant_elements": ["4.1"]
       },
       {
-        "text": "Maine's landscape is diverse, from subtidal gravel beds to alpine tundra, and the issues facing these habitats are complex, from localized land-use conversion to regional impacts of climate change.",
-        "location": "Conservation Actions chapter, Habitat Action Background",
-        "relevant_elements": ["3.5"]
-      },
-      {
-        "text": "Changes to habitat features driven by local temperature and rain/snowfall timing and amounts, shifts in forest/plant composition, and shifting dominant air and water currents are also addressed. The presence of new species and diseases associated with a warming climate that are impacting both species and habitats is also considered.",
-        "location": "Conservation Actions chapter, 2025 Update of Habitat Themes, Climate Change super-theme",
-        "relevant_elements": ["3.5", "3.7"]
-      },
-      {
-        "text": "These include impacts from sea level rise; changes in the timing, frequency, and size of storms; and changes to water temperature, stratification, and chemistry.",
-        "location": "Conservation Actions chapter, 2025 Update of Habitat Themes, Climate Change super-theme description",
-        "relevant_elements": ["3.5"]
-      },
-      {
-        "text": "As Maine's winters become more mild, we anticipate negative impacts on snow dependent species.",
-        "location": "Threats chapter, Threats to Habitats section",
-        "relevant_elements": ["3.6", "3.5"]
-      },
-      {
-        "text": "Storm surge causes damage and erosion to coastal habitats, and often, residential or commercial development adjacent to these habitats prevent habitat migration upland and reduce overall habitat resiliency.",
-        "location": "Threats chapter, Threats to Habitats section",
-        "relevant_elements": ["3.5"]
-      },
-      {
-        "text": "The steep declines of aerial insectivores are likely driven by a combination of factors including declines of aerial insect abundance, habitat loss, exposure to environmental contaminants, phenological mismatches due to climate change, and stressors on migratory stopover and wintering grounds.",
-        "location": "SGCN chapter, Birds Conservation Overview",
-        "relevant_elements": ["3.7", "3.6"]
-      },
-      {
-        "text": "Warming waters have also driven the expansion of the invasive European green crab (Carcinus maenas), an intertidal predator considered to be a major factor in the statewide decline in soft shell clam abundance.",
-        "location": "Key Habitats chapter, Intertidal Shores and Flats section",
-        "relevant_elements": ["3.7"]
-      },
-      {
-        "text": "Invasive Non-native-Alien Species-Diseases in particular take advantage of disturbed ground near development and longer growing seasons due to Changes in Temperature Regimes, and can easily become established",
-        "location": "Threats chapter, Threats to Habitats section",
-        "relevant_elements": ["3.7"]
-      },
-      {
-        "text": "Maine straddles an ecological transition zone, with much of its biota approaching the northern or southern limit of their ranges.",
-        "location": "Introduction chapter, Welcome to Maine",
-        "relevant_elements": ["3.3", "1.3"]
-      },
-      {
-        "text": "Maine will not retain its biodiversity without considering how species may move across the landscape in response to a changing climate. Building on the Focus Areas of Statewide Ecological Significance, this project will address this planning need by identifying and mapping priority habitat resources that promote connectivity",
-        "location": "Conservation Actions chapter, Programmatic Action 10",
-        "relevant_elements": ["4.2", "4.1", "1.4"]
-      },
-      {
-        "text": "Protect areas that could serve as marsh migration corridors as sea level rises.",
-        "location": "Conservation Actions appendix, plant guild entries",
-        "relevant_elements": ["4.2", "4.1"]
+        "text": "Model and track climate-driven habitat change. All members of the high-elevation guild are vulnerable to climate-driven shifts in treeline, snowpack, and vegetation structure. Modeling future habitat changes and identifying potential climate refugia are critical for long-term planning and resilience.",
+        "location": "Appendix 4-1 / High Elevation birds guild conservation actions",
+        "relevant_elements": ["4.1", "4.2"]
       },
       {
         "text": "Enhance and improve fish passage to proximal habitats so redfin pickerel can migrate to and colonize new habitats as necessary.",
-        "location": "Conservation Actions appendix, Redfin Pickerel SGCN entries",
+        "location": "Appendix – Esox americanus americanus individual species actions",
         "relevant_elements": ["4.2"]
       },
       {
-        "text": "Develop SMART (Specific, Measurable, Achievable, Results-oriented, and Time-bound) style objectives for high priority habitat-scale and SGCN conservation actions (Element 5/6).",
-        "location": "Conservation Actions chapter, Table 4-14, Programmatic Action 9",
+        "text": "Secure opportunities for inland marsh migration. Collaborate with landowners and municipalities to preserve adjacent uplands and remove barriers to inland marsh migration, reducing the impacts of coastal squeeze and maintaining marsh function in the face of sea-level rise.",
+        "location": "Appendix 4-1 / Saltmarsh birds guild conservation actions",
+        "relevant_elements": ["4.2", "3.5"]
+      },
+      {
+        "text": "MDIFW and the Steering Committee identified 12 programmatic actions to guide implementation and tracking of the 2025 Plan … Target initiation dates for each programmatic action were also assigned: short-term … mid-term … and long-term …",
+        "location": "Programmatic Conservation Actions",
+        "relevant_elements": ["4.3"]
+      },
+      {
+        "text": "Develop SMART (Specific, Measurable, Achievable, Results-oriented, and Time-bound) style objectives for high priority habitat-scale and SGCN conservation actions.",
+        "location": "Table 4-14 / Programmatic Action 9",
         "relevant_elements": ["4.3"]
       },
       {
         "text": "The Plan team and Steering Committee will meet annually to assess implementation efforts, and biennially track the continued relevancy, implementation, and efficacy of the Conservation Actions.",
-        "location": "Conservation Actions chapter, Regional and Statewide Partnerships section",
+        "location": "Regional and Statewide Partnerships / Programmatic Action 11",
         "relevant_elements": ["4.3"]
-      },
-      {
-        "text": "Target initiation dates for each programmatic action were also assigned: short-term- within the first few years of Plan implementation, mid-term -within the first half of Plan implementation, and long-term -within the second half of Plan implementation.",
-        "location": "Conservation Actions chapter, Programmatic Conservation Actions",
-        "relevant_elements": ["4.3"]
-      },
-      {
-        "text": "Maine Audubon, in coordination with MDIFW, construct nest exclosures (left) to protect eggs. This action increases nest success (right) and has helped Maine reach a record number of breeding plovers.",
-        "location": "Conservation Actions chapter, Case Study: Predator Nest Exclosures Aid Piping Plover Recovery",
-        "relevant_elements": ["4.4"]
-      },
-      {
-        "text": "A highway in southern Maine, hosting over 16,000 vehicles per day was identified as one of the state's deadliest roadways for turtles... Since installation, nearly all turtle mortality of any species has ceased.",
-        "location": "Conservation Actions chapter, Case Study: Wildlife crossing structure for turtles",
-        "relevant_elements": ["4.4"]
       },
       {
         "text": "Restore marshes using science-based best practices. Implement priority restoration techniques such as elevation enhancement, ditch remediation, and runneling, specifically tailored to each marsh, with Saltmarsh Guild species in mind. All restoration projects should incorporate pre-and post-restoration bird monitoring to evaluate efficacy and inform adaptive management.",
-        "location": "Conservation Actions appendix, Saltmarsh birds guild",
-        "relevant_elements": ["4.4", "4.3"]
+        "location": "Appendix 4-1 / Saltmarsh birds guild conservation actions",
+        "relevant_elements": ["4.4"]
       },
       {
-        "text": "We wrote conservation action descriptions broadly enough to allow adaptive management over the next ten years, but with enough specificity to help assess performance (AFWA 2012).",
-        "location": "Conservation Actions chapter, General Considerations section",
-        "relevant_elements": ["4.5", "4.3"]
+        "text": "Maine Audubon, in coordination with MDIFW, construct nest exclosures (left) to protect eggs. This action increases nest success (right) and has helped Maine reach a record number of breeding plovers.",
+        "location": "Case Study: Predator Nest Exclosures Aid Piping Plover Recovery",
+        "relevant_elements": ["4.4"]
       },
       {
-        "text": "A Climate Subcommittee was formed to focus on identifying the priority climate change threats and conservation actions for species, habitats, habitat groupings, and landscapes. The selected threats and conservation actions were then evaluated by conservation partners and agency staff. Additionally, a crosswalk was developed to connect the 2025 Plan conservation actions to the priority actions identified in Maine Won't Wait",
-        "location": "Conservation Actions chapter, Climate Change section",
+        "text": "A crosswalk was developed to connect the 2025 Plan conservation actions to the priority actions identified in Maine Won't Wait (see Appendix 4-17).",
+        "location": "2025 Update of Habitat Themes / Climate Change section",
         "relevant_elements": ["4.5"]
       },
       {
-        "text": "A few resources that can help partners further explore these issues and take action include The Nature Conservancy's Climate Resiliency Maps, BwH maps and outreach materials, the Maine Stream Habitat Viewer, and the Maine Won't Wait Climate Action Plan and accompanying documents.",
-        "location": "Conservation Actions chapter, Climate Change section",
-        "relevant_elements": ["4.5", "2.4"]
+        "text": "For 2025 we added an additional subcommittee focused on climate change to cut across all the habitats and individual SGCN, and to bring in elements from Maine's Climate Council, new studies, and literature.",
+        "location": "General Considerations for Development of Conservation Actions",
+        "relevant_elements": ["4.5", "3.4"]
       },
       {
-        "text": "Assess conserved lands resiliency and gaps.",
-        "location": "Conservation Actions chapter, Climate Change section (new actions list)",
-        "relevant_elements": ["4.5", "4.1"]
+        "text": "Changes to habitat features driven by local temperature and rain/snowfall timing and amounts, shifts in forest/plant composition, and shifting dominant air and water currents are also addressed. The presence of new species and diseases associated with a warming climate that are impacting both species and habitats is also considered.",
+        "location": "2025 Update of Habitat Themes / Climate Change super-theme description",
+        "relevant_elements": ["3.5", "3.7"]
       },
       {
-        "text": "The Coordination Team invited 214 conservation partners to participate in the revision of Maine's 2025 Plan, representing 118 unique organizations and key members of the conservation public. This included 12 federal partners, 15 state partners, 5 Tribal Nations, and 86 public and local partners.",
-        "location": "Coordination with Partners chapter, Section 7/8.2",
-        "relevant_elements": ["3.4"]
+        "text": "Since 2015 the State of Maine has also begun to more actively address the effects of climate change and pursue avenues for action, as detailed in the 2024 Maine Won't Wait climate action plan … documenting significant changes in species ranges, distributions, population levels, and landscapes across Maine.",
+        "location": "Conservation Actions / section 4.3.5 Climate Change",
+        "relevant_elements": ["1.1", "3.5", "4.5"]
       },
       {
-        "text": "Secure stable and additional sources of federal and state funding for SGCN and habitat conservation.",
-        "location": "Conservation Actions chapter, Table 4-14, Programmatic Action 4",
-        "relevant_elements": ["3.4"]
+        "text": "These changes include rising seas, increasing coastal storms, altered natural disturbance processes (e.g., increased fire), changes in hydrology of wetlands and waterways, increasing non-native invasive species, pests and pathogens, increasing water temperatures, and transitions in forest composition.",
+        "location": "Element 2: Landscape Overview of Maine",
+        "relevant_elements": ["3.5", "3.6", "3.7"]
       },
       {
-        "text": "since there has been new research into the effects of climate change on Maine's wildlife and habitats, documenting significant changes in species ranges, distributions, population levels, and landscapes across Maine.",
-        "location": "Conservation Actions chapter, Table, Climate Change section",
-        "relevant_elements": ["1.1", "3.3", "2.2"]
+        "text": "Habitat Shifting and Alteration associated with Climate Change and Severe Weather was the threat associated with the most macrogroups … As the state warms, a combination of warmer temperatures, and changing precipitation are causing vegetation communities to shift their ranges.",
+        "location": "Element 3: Threats to Habitats",
+        "relevant_elements": ["3.5", "3.7", "1.1"]
       },
       {
-        "text": "Habitat Shifting and Alteration due to climate change... As the state warms, a combination of warmer temperatures, and changing precipitation are causing vegetation communities to shift their ranges. Some SGCN are able to shift with the habitats, such as mammals with large home ranges.",
-        "location": "Threats chapter, Threats to Habitats section",
-        "relevant_elements": ["3.5", "1.3", "2.2"]
+        "text": "Similarly, increases in storm intensity inland can swell freshwater systems, damaging infrastructure and causing flooding and water quality impacts in rivers, streams, and creeks and adjacent habitats.",
+        "location": "Element 3: Threats to Habitats",
+        "relevant_elements": ["3.5"]
       },
       {
-        "text": "Identify and protect populations that are in good-excellent condition, robust, or in potential refugia.",
-        "location": "Conservation Actions appendix, plant guild entries",
+        "text": "Rising water in June of 2023 caused nest failure due to flooding at all know breeding sites.",
+        "location": "Figure caption / Case Study: Changing Precipitation Patterns due to Climate Change",
+        "relevant_elements": ["3.6"]
+      },
+      {
+        "text": "Warming has allowed invasive cheatgrass … Green Crabs (Carcinus maenas) are a prevalent invasive species … Warming sea temperatures and rising sea levels caused by climate change",
+        "location": "Element 3: Threats to Habitats / Element 1: Birds / seabirds section",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "Ongoing efforts to support and expand use of vegetated buffers … Early detection/rapid response with regard to any and all new environmental threats coming in from invasive pests, plants, or species, and pathogens.",
+        "location": "2025 Update of Habitat Themes / Climate Change section",
+        "relevant_elements": ["3.7"]
+      },
+      {
+        "text": "BwH's Focus Areas of Statewide Ecological Significance … are areas to prioritize collaborative, nonregulatory conservation actions that benefit biodiversity in Maine. Focus Areas were mapped to highlight natural areas of statewide biodiversity importance.",
+        "location": "Element 2: Focus Areas of Statewide Ecological Significance",
         "relevant_elements": ["4.1"]
       },
       {
         "text": "Support land conservation opportunities that include representation of Maine's full suite of abiotic and biogeographical regions.",
-        "location": "Conservation Actions chapter, Summary of Habitat Conservation Actions, landscape priority actions list",
+        "location": "Summary of Habitat Conservation Actions / landscape priorities",
         "relevant_elements": ["4.1"]
       },
       {
-        "text": "These headwater streams are the most likely places within a watershed to retain cold water fisheries following different projections of climate change.",
-        "location": "Key Habitats chapter, Aquatic/Riparian section",
-        "relevant_elements": ["4.1", "3.5"]
+        "text": "These actions address continued MDIFW and partner involvement in existing conservation efforts across the state and region … NEAFWA Northeast Landscape Wildlife Conservation Committee, the Regional Conservation Needs Program, and the Staying Connected Initiative",
+        "location": "Regional and Statewide Partnerships / Programmatic Action 11",
+        "relevant_elements": ["3.4"]
       },
       {
-        "text": "Continue to increase culvert sizes and/or remove barriers to fish migration (e.g., undersized culverts, dams, roads in marshes).",
-        "location": "Conservation Actions chapter, Climate Change section (new actions list)",
-        "relevant_elements": ["4.2", "1.4"]
+        "text": "Secure stable and additional sources of federal and state funding for SGCN and habitat conservation.",
+        "location": "Table 4-14 / Programmatic Action 4",
+        "relevant_elements": ["3.4"]
       },
       {
-        "text": "Secure opportunities for inland marsh migration. Collaborate with landowners and municipalities to preserve adjacent uplands and remove barriers to inland marsh migration, reducing the impacts of coastal squeeze and maintaining marsh function in the face of sea-level rise.",
-        "location": "Conservation Actions appendix, Saltmarsh birds guild",
-        "relevant_elements": ["4.2", "3.5"]
+        "text": "The Coordination Team invited 214 conservation partners to participate in the revision of Maine's 2025 Plan, representing 118 unique organizations.",
+        "location": "Element 7/8: Coordination with Conservation Partners",
+        "relevant_elements": ["3.4"]
       }
     ]
   },
@@ -294,19 +229,19 @@
       "evidence": [
         {
           "text": "Secondary themes for SGCN prioritization include climate change vulnerability, survey knowledge, and indigenous cultural significance.",
-          "location": "SGCN chapter, Abstract",
+          "location": "Element 1: Abstract",
           "sub_component": "exposure",
           "citations": []
         },
         {
           "text": "High Climate Change Vulnerability -A species identified as highly vulnerable by Whitman et al. 2013 or Galbraith et al. 2014 (or other published source).",
-          "location": "SGCN chapter, Designation Criteria (Priority 2/3 subcriteria)",
+          "location": "Element 1: Designation Criteria for Maine's SGCN in 2025, Priority 2 subcriteria",
           "sub_component": "exposure",
           "citations": ["Whitman et al. 2013", "Galbraith et al. 2014"]
         },
         {
           "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
-          "location": "Threats chapter, Threats to Habitats section",
+          "location": "Element 1: Birds / Grassland birds",
           "sub_component": "adaptive capacity",
           "citations": []
         }
@@ -318,14 +253,14 @@
       "score": 2,
       "evidence": [
         {
-          "text": "The effect of climate change on the status of Maine's reptiles and amphibians is uncertain, but given the group's limited dispersal capability and sensitivity to temperature and humidity gradients it is safe to expect significant changes in local distribution and abundance.",
-          "location": "SGCN chapter, Inland Reptiles and Amphibians Conservation Overview",
+          "text": "Wood turtles are long-lived and may have a limited capacity to adapt with the fast pace of climate change.",
+          "location": "Conservation Actions / Programmatic Conservation Actions section (caption)",
           "sub_component": null,
           "citations": []
         },
         {
-          "text": "Wood turtles are long-lived and may have a limited capacity to adapt with the fast pace of climate change. Habitat protection remains one of the best conservation tools for this species.",
-          "location": "Conservation Actions chapter, Programmatic Conservation Actions section (caption)",
+          "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
+          "location": "Element 1: Birds / Grassland birds",
           "sub_component": null,
           "citations": []
         }
@@ -341,14 +276,8 @@
         "present": true,
         "evidence": [
           {
-            "text": "Maine straddles an ecological transition zone, with much of its biota approaching the northern or southern limit of their ranges.",
-            "location": "Introduction chapter, Welcome to Maine",
-            "sub_component": null,
-            "citations": []
-          },
-          {
-            "text": "since there has been new research into the effects of climate change on Maine's wildlife and habitats, documenting significant changes in species ranges, distributions, population levels, and landscapes across Maine.",
-            "location": "Conservation Actions chapter, Table/Climate Change section",
+            "text": "Maine will not retain its biodiversity without considering how species may move across the landscape in response to a changing climate.",
+            "location": "Regional and Statewide Partnerships / Programmatic Action 10",
             "sub_component": null,
             "citations": []
           }
@@ -358,14 +287,8 @@
         "present": true,
         "evidence": [
           {
-            "text": "The effect of climate change on the status of Maine's reptiles and amphibians is uncertain, but given the group's limited dispersal capability and sensitivity to temperature and humidity gradients it is safe to expect significant changes in local distribution and abundance.",
-            "location": "SGCN chapter, Inland Reptiles and Amphibians Conservation Overview",
-            "sub_component": null,
-            "citations": []
-          },
-          {
             "text": "Species with low adaptive capacity such as those with specialized habitat needs or limited dispersal ability face higher vulnerability to these changes.",
-            "location": "Threats chapter, Threats to Habitats section",
+            "location": "Element 1: Birds / Grassland birds",
             "sub_component": null,
             "citations": []
           }
@@ -379,8 +302,8 @@
         "present": true,
         "evidence": [
           {
-            "text": "The steep declines of aerial insectivores are likely driven by a combination of factors including declines of aerial insect abundance, habitat loss, exposure to environmental contaminants, phenological mismatches due to climate change",
-            "location": "SGCN chapter, Birds Conservation Overview",
+            "text": "The steep declines of aerial insectivores are likely driven by a combination of factors including declines of aerial insect abundance, habitat loss, exposure to environmental contaminants, phenological mismatches due to climate change, and stressors on migratory stopover and wintering grounds.",
+            "location": "Element 1: Birds / Grassland birds",
             "sub_component": null,
             "citations": []
           }
@@ -390,10 +313,10 @@
         "present": true,
         "evidence": [
           {
-            "text": "given the group's limited dispersal capability and sensitivity to temperature and humidity gradients it is safe to expect significant changes in local distribution and abundance.",
-            "location": "SGCN chapter, Inland Reptiles and Amphibians Conservation Overview",
+            "text": "high elevation habitats, boreal forests and peatlands, tidal marshes, and cold-water fisheries are among Maine's more vulnerable habitats",
+            "location": "Element 2: Landscape Overview of Maine",
             "sub_component": null,
-            "citations": []
+            "citations": ["Whitman et al. 2013", "Gawler and Cutko 2010"]
           }
         ]
       },
@@ -401,8 +324,8 @@
         "present": true,
         "evidence": [
           {
-            "text": "Wood turtles are long-lived and may have a limited capacity to adapt with the fast pace of climate change. Habitat protection remains one of the best conservation tools for this species.",
-            "location": "Conservation Actions chapter, Programmatic Conservation Actions section (caption)",
+            "text": "Wood turtles are long-lived and may have a limited capacity to adapt with the fast pace of climate change.",
+            "location": "Conservation Actions / Programmatic Conservation Actions section (caption)",
             "sub_component": null,
             "citations": []
           }
@@ -414,14 +337,20 @@
       "score": 2,
       "evidence": [
         {
-          "text": "Connectivity: This super-theme addresses terrestrial and aquatic habitat connectivity and includes facilitating the persistence and range expansion of SGCN and their habitats in the face of climate change. This super-theme also addresses common causes of habitat fragmentation.",
-          "location": "Conservation Actions chapter, 2025 Update of Habitat Themes",
+          "text": "Connectivity: This super-theme addresses terrestrial and aquatic habitat connectivity and includes facilitating the persistence and range expansion of SGCN and their habitats in the face of climate change.",
+          "location": "2025 Update of Habitat Themes",
           "sub_component": null,
           "citations": []
         },
         {
           "text": "Facilitate the persistence and range migration of SGCN in Maine in the face of a changing climate by ensuring landscape connectivity (both terrestrial and aquatic) through reducing habitat fragmentation and promoting the voluntary conservation of diverse and resilient landscapes and watersheds.",
-          "location": "Conservation Actions chapter, Terrestrial and Freshwater Wetland Habitat Conservation Action Theme, Connectivity theme",
+          "location": "Table – Terrestrial and Freshwater Wetland Habitat Conservation Action Theme Description / Connectivity",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Maine will not retain its biodiversity without considering how species may move across the landscape in response to a changing climate. Building on the Focus Areas of Statewide Ecological Significance, this project will address this planning need by identifying and mapping priority habitat resources that promote connectivity",
+          "location": "Regional and Statewide Partnerships / Programmatic Action 10",
           "sub_component": null,
           "citations": []
         }
@@ -436,19 +365,19 @@
       "named_tools": ["CCVI", "NatureServe CCVI"],
       "evidence": [
         {
-          "text": "Incorporate information from regional climate change vulnerability assessments into SGCN and habitat management plans. Conduct an updated climate change vulnerability assessment of habitat groups in Maine.",
-          "location": "Conservation Actions chapter, Landscape-level table (Table 4-7)",
-          "sub_component": null,
-          "citations": []
-        },
-        {
           "text": "High Climate Change Vulnerability -A species identified as highly vulnerable by Whitman et al. 2013 or Galbraith et al. 2014 (or other published source).",
-          "location": "SGCN chapter, Designation Criteria (Priority 2 subcriteria)",
+          "location": "Element 1: Designation Criteria for Maine's SGCN in 2025, Priority 2 subcriteria",
           "sub_component": null,
           "citations": ["Whitman et al. 2013", "Galbraith et al. 2014"]
+        },
+        {
+          "text": "Conduct an updated climate change vulnerability assessment of habitat groups in Maine.",
+          "location": "Table – Landscape-level habitat conservation actions",
+          "sub_component": null,
+          "citations": []
         }
       ],
-      "absence_note": "The 2025 Plan explicitly incorporates results from prior vulnerability assessments (Whitman et al. 2013, Galbraith et al. 2014) into SGCN selection criteria and conservation planning, which qualifies as application (incorporating prior tool-based results into management decisions for focal subjects). It also calls for updated vulnerability assessments as new conservation actions."
+      "absence_note": "The plan references applying vulnerability assessments to its SGCN list as a SGCN prioritization criterion (Whitman et al. 2013 applied to focal species), and proposes conducting a new vulnerability assessment. Score 2 is warranted because prior vulnerability assessments (Whitman et al. 2013) were substantively incorporated into SGCN selection and prioritization for the plan's focal subjects."
     },
     "niche_models": {
       "evaluable": true,
@@ -457,12 +386,12 @@
       "evidence": [
         {
           "text": "Conduct species distribution modeling to understand how species distributions are changing due to environmental change.",
-          "location": "Conservation Actions appendix, marine guild section",
+          "location": "Appendix 4-5 / Marine guild conservation actions",
           "sub_component": null,
           "citations": []
         }
       ],
-      "absence_note": "Species distribution modeling is mentioned as a future action recommendation and in the context of mapping approaches, but is not applied to focal SGCN in this plan. The plan uses habitat suitability approaches for conservation range mapping but does not apply named SDM tools to project future distributions for SGCN."
+      "absence_note": "The plan mentions species distribution modeling as a future recommended action (score 1), and references the Climate Change Tree Atlas in the literature. No SDMs are applied to the focal subjects in the plan itself."
     },
     "climate_models": {
       "evaluable": true,
@@ -470,35 +399,35 @@
       "named_tools": [],
       "evidence": [
         {
-          "text": "Over the next 100 years, it is likely that we will see between 1.2 and 6.1 feet of sea level rise in Maine. The Maine Climate Council recently recommended that the state consider committing to manage for 1.5 feet. of relative sea level rise by 2050, and 3.9 feet of sea level rise by 2100.",
-          "location": "Key Habitats chapter, Coastal section",
+          "text": "Observed and potential changes to Maine's climate, and their subsequent impacts on habitats and wildlife, have been the focus of ongoing, long-term studies by the University of Maine, conservation groups, and state and federal agencies (e.g., Whitman et al. 2013, Fernandez et al. 2015, Peters et al. 2020, Whitehead et al. 2023, MCC STS 2024).",
+          "location": "Element 2: Landscape Overview of Maine",
           "sub_component": null,
-          "citations": []
+          "citations": ["Whitman et al. 2013", "Fernandez et al. 2015", "Peters et al. 2020", "Whitehead et al. 2023", "MCC STS 2024"]
         }
       ],
-      "absence_note": "The document references climate projections from the Maine Climate Council and MCC STS 2024, and uses sea level rise projections, but does not name specific GCMs, RCPs, SSPs, or downscaling products. Climate projections are referenced generally but not identified by modeling system.",
-      "time_horizon_years": [2050, 2100],
+      "absence_note": "The plan cites climate change studies but does not name or apply any specific climate model, GCM, downscaling product, or emission scenario. Score is 1 (referenced generally via cited studies) rather than 0 because the plan does engage with climate projections through referenced literature, but never names a model class, scenario, or time horizon for its own projections.",
+      "time_horizon_years": [],
       "emission_scenarios": []
     },
     "connectivity_models": {
       "evaluable": true,
       "score": 2,
-      "named_tools": ["Maine Stream Habitat Viewer", "Maine Tidal Restriction Atlas"],
+      "named_tools": [],
       "evidence": [
         {
-          "text": "The Beginning with Habitat Program (BwH) within MDIFW works with partners at MNAP, MDACF, MDMR, MDEP, and others to aggregate and share species and habitat information for implementation of conservation actions at a regional and landscape scale. BwH publishes and presents map data on map units that transcend habitat types and help plan for habitat connectivity.",
-          "location": "Key Habitats chapter, Habitat and Landscape Connectivity section",
+          "text": "A regional habitat connectivity plan provides spatial layers depicting structural connectivity, network importance, landscape permeability, and climate connectivity.",
+          "location": "Element 5/6 / Tracking Statewide Habitat Trends / Periodically Assessed Metrics",
           "sub_component": null,
           "citations": []
         },
         {
-          "text": "A regional habitat connectivity plan provides spatial layers depicting structural connectivity, network importance, landscape permeability, and climate connectivity.",
-          "location": "Key Habitats chapter, Habitat and Landscape Connectivity section",
+          "text": "Integrate aquatic habitat connectivity into BwH Focus Areas and other landscape connectivity mapping initiatives.",
+          "location": "Table – Landscape-level habitat conservation actions",
           "sub_component": null,
           "citations": []
         }
       ],
-      "absence_note": "The plan references and applies connectivity mapping products (BwH Focus Areas, Habitat Connectors, Maine Stream Habitat Viewer, Tidal Restriction Atlas) to guide management decisions for Maine's focal subjects. These represent applied connectivity modeling outputs even though specific algorithmic tools (e.g., CircuitScape) are not named."
+      "absence_note": "The plan references connectivity mapping products (Habitat Connectors modeled using GIS, the Maine Stream Habitat Viewer, the Tidal Restriction Atlas, BwH Focus Areas mapping) that are based on model outputs used to inform management decisions for focal subjects. Per the codebook, application of modeling output to management decisions counts even without naming the specific algorithm."
     }
   },
   "context": {
@@ -507,8 +436,8 @@
         "present": true,
         "evidence": [
           {
-            "text": "For example, each individual culvert that reconnects previously fragmented habitats has broader implications than just at that site.",
-            "location": "Conservation Actions chapter, Introduction",
+            "text": "each individual culvert that reconnects previously fragmented habitats has broader implications than just at that site.",
+            "location": "Introduction / Significant Differences from Maine's 2015 Plan",
             "sub_component": null,
             "citations": []
           }
@@ -519,7 +448,7 @@
         "evidence": [
           {
             "text": "Identify and protect populations that are in good-excellent condition, robust, or in potential refugia.",
-            "location": "Conservation Actions appendix, plant guild entries",
+            "location": "Appendix 4-6 / plant guild conservation actions",
             "sub_component": null,
             "citations": []
           }
@@ -530,7 +459,7 @@
         "evidence": [
           {
             "text": "Encourage conservation of native fish species through a variety of methods including strategically eliminating barriers to fish passage (e.g. dams, undersized culverts), and other restoration measures that yield watershed scale benefits.",
-            "location": "Conservation Actions chapter, Summary of Habitat Conservation Actions, landscape priorities",
+            "location": "Summary of Habitat Conservation Actions / landscape priorities",
             "sub_component": null,
             "citations": []
           }
@@ -548,8 +477,8 @@
         "present": true,
         "evidence": [
           {
-            "text": "In general, they are a logical way of stratifying the landscape at a coarse scale and are referenced in the Plan's SGCN species distribution maps for plants. The ecoregions referenced here are at the section level",
-            "location": "Key Habitats chapter, Ecoregions section",
+            "text": "Building on the Focus Areas of Statewide Ecological Significance, this project will address this planning need by identifying and mapping priority habitat resources that promote connectivity",
+            "location": "Regional and Statewide Partnerships / Programmatic Action 10",
             "sub_component": null,
             "citations": []
           }
@@ -559,8 +488,8 @@
         "present": true,
         "evidence": [
           {
-            "text": "Conservation actions are non-regulatory, initiated voluntarily by agencies and other conservation partners...Maine's 2025 Plan consists of complementary coarse-and fine-filter conservation actions that maximize limited conservation dollars.",
-            "location": "Conservation Actions chapter, Introduction",
+            "text": "Maine will not retain its biodiversity without considering how species may move across the landscape in response to a changing climate.",
+            "location": "Regional and Statewide Partnerships / Programmatic Action 10",
             "sub_component": null,
             "citations": []
           }
@@ -571,7 +500,7 @@
         "evidence": [
           {
             "text": "Continue to participate in the NEAFWA Northeast Landscape Wildlife Conservation Committee, the Regional Conservation Needs Program (RCN) and other multi-state/ international landscape and watershed scale",
-            "location": "Conservation Actions chapter, Landscape-level table (Table 4-7)",
+            "location": "Table – Landscape-level habitat conservation actions",
             "sub_component": null,
             "citations": []
           }
@@ -585,8 +514,8 @@
         "present": true,
         "evidence": [
           {
-            "text": "Continue to participate in the NEAFWA Northeast Landscape Wildlife Conservation Committee, the Regional Conservation Needs Program (RCN) and other multi-state/ international landscape and watershed scale",
-            "location": "Conservation Actions chapter, Landscape-level table (Table 4-7)",
+            "text": "Coordinate with Environment Canada to identify and monitor key staging sites to determine the true geographical extent of their staging area in the outer Bay of Fundy and the Gulf of Maine.",
+            "location": "Appendix 4-1 / Shorebirds guild conservation actions",
             "sub_component": null,
             "citations": []
           }
@@ -596,8 +525,8 @@
         "present": true,
         "evidence": [
           {
-            "text": "Coarse-filter conservation actions are those applied broadly at large spatial scales (e.g., habitats, landscape, region) and benefit most species associated with that habitat or group of habitats.",
-            "location": "Conservation Actions chapter, Introduction",
+            "text": "Connectivity: This super-theme addresses terrestrial and aquatic habitat connectivity and includes facilitating the persistence and range expansion of SGCN and their habitats in the face of climate change.",
+            "location": "2025 Update of Habitat Themes",
             "sub_component": null,
             "citations": []
           }
@@ -607,8 +536,8 @@
         "present": true,
         "evidence": [
           {
-            "text": "The ecoregions referenced here are at the section level (Figure 2-2) and are informed by various national and state classification efforts",
-            "location": "Key Habitats chapter, Ecoregions section",
+            "text": "Several SGCN plants reach their range limits here, and the region marks a transition from the oak, pine, and mixed hardwood forests of the south to the spruce-fir-northern hardwood forests to the north.",
+            "location": "Element 2: Ecoregions / Central and Eastern Lowlands",
             "sub_component": null,
             "citations": []
           }
@@ -623,9 +552,9 @@
         "evidence": [
           {
             "text": "The ecoregions referenced here are at the section level (Figure 2-2) and are informed by various national and state classification efforts",
-            "location": "Key Habitats chapter, Ecoregions section",
+            "location": "Element 2: Ecoregions",
             "sub_component": null,
-            "citations": []
+            "citations": ["Bailey 1995", "Keys et al. 1995", "McMahon 1990"]
           }
         ]
       },
@@ -634,32 +563,18 @@
         "evidence": []
       },
       "lake": {
-        "present": true,
-        "evidence": [
-          {
-            "text": "Need for more temperature and biomonitoring of lakes, ponds, and higher order streams and as early indicators of where we need to prioritize water quality protection actions.",
-            "location": "Conservation Actions chapter, Climate Change section (new actions list)",
-            "sub_component": null,
-            "citations": []
-          }
-        ]
+        "present": false,
+        "evidence": []
       },
       "river": {
-        "present": true,
-        "evidence": [
-          {
-            "text": "Better incorporate aquatic connectivity and riparian habitats into mapping and conservation planning.",
-            "location": "Conservation Actions chapter, Climate Change section (new actions list)",
-            "sub_component": null,
-            "citations": []
-          }
-        ]
+        "present": false,
+        "evidence": []
       },
       "district": {
         "present": false,
         "evidence": []
       },
-      "named_entities": ["Gulf of Maine", "Androscoggin River Watershed", "Kennebec River Watershed", "Penobscot River Watershed", "Saco River Watershed", "Bay of Fundy", "Atlantic Flyway", "Northern Great Plains (referenced in crosswalk)", "Maine ecoregional sections (Central and Eastern Lowlands, Central and Western Mountains, Downeast Maine, Central Interior and Midcoast, Southern Maine, Aroostook Hills and Lowlands, Northwest Maine)"]
+      "named_entities": ["Gulf of Maine", "Atlantic Flyway", "Northeast Landscape Wildlife Conservation Committee", "Bay of Fundy", "BwH Focus Areas of Statewide Ecological Significance"]
     },
     "biological_unit_score": {
       "evaluable": true,
@@ -667,14 +582,14 @@
       "evidence": [
         {
           "text": "Connectivity: This super-theme addresses terrestrial and aquatic habitat connectivity and includes facilitating the persistence and range expansion of SGCN and their habitats in the face of climate change.",
-          "location": "Conservation Actions chapter, 2025 Update of Habitat Themes",
-          "sub_component": "species/habitat",
+          "location": "2025 Update of Habitat Themes",
+          "sub_component": "species / habitat",
           "citations": []
         },
         {
-          "text": "since there has been new research into the effects of climate change on Maine's wildlife and habitats, documenting significant changes in species ranges, distributions, population levels, and landscapes across Maine.",
-          "location": "Conservation Actions chapter, Climate Change table section",
-          "sub_component": "species/community",
+          "text": "Habitat Shifting and Alteration associated with Climate Change and Severe Weather was the threat associated with the most macrogroups … As the state warms, a combination of warmer temperatures, and changing precipitation are causing vegetation communities to shift their ranges.",
+          "location": "Element 3: Threats to Habitats",
+          "sub_component": "community",
           "citations": []
         }
       ],
@@ -685,8 +600,8 @@
         "present": true,
         "evidence": [
           {
-            "text": "All members of the high-elevation guild are vulnerable to climate-driven shifts in treeline, snowpack, and vegetation structure. Modeling future habitat changes and identifying potential climate refugia are critical for long-term planning and resilience.",
-            "location": "Conservation Actions appendix, High Elevation birds guild",
+            "text": "since 2015 the State of Maine has also begun to more actively address the effects of climate change and pursue avenues for action … documenting significant changes in species ranges, distributions, population levels, and landscapes across Maine.",
+            "location": "Conservation Actions / section 4.3.5 Climate Change",
             "sub_component": null,
             "citations": []
           }
@@ -696,8 +611,8 @@
         "present": true,
         "evidence": [
           {
-            "text": "since there has been new research into the effects of climate change on Maine's wildlife and habitats, documenting significant changes in species ranges, distributions, population levels, and landscapes across Maine.",
-            "location": "Conservation Actions chapter, Climate Change table section",
+            "text": "documenting significant changes in species ranges, distributions, population levels, and landscapes across Maine.",
+            "location": "Conservation Actions / section 4.3.5 Climate Change",
             "sub_component": null,
             "citations": []
           }
@@ -707,8 +622,8 @@
         "present": true,
         "evidence": [
           {
-            "text": "As the state warms, a combination of warmer temperatures, and changing precipitation are causing vegetation communities to shift their ranges. Some SGCN are able to shift with the habitats, such as mammals with large home ranges.",
-            "location": "Threats chapter, Threats to Habitats section",
+            "text": "Connectivity: This super-theme addresses terrestrial and aquatic habitat connectivity and includes facilitating the persistence and range expansion of SGCN and their habitats in the face of climate change.",
+            "location": "2025 Update of Habitat Themes",
             "sub_component": null,
             "citations": []
           }
@@ -718,8 +633,8 @@
         "present": true,
         "evidence": [
           {
-            "text": "Changes to habitat features driven by local temperature and rain/snowfall timing and amounts, shifts in forest/plant composition, and shifting dominant air and water currents are also addressed.",
-            "location": "Conservation Actions chapter, 2025 Update of Habitat Themes, Climate Change super-theme",
+            "text": "Habitat Shifting and Alteration associated with Climate Change and Severe Weather was the threat associated with the most macrogroups … As the state warms, a combination of warmer temperatures, and changing precipitation are causing vegetation communities to shift their ranges.",
+            "location": "Element 3: Threats to Habitats",
             "sub_component": null,
             "citations": []
           }
@@ -729,8 +644,8 @@
         "present": true,
         "evidence": [
           {
-            "text": "Coarse-filter conservation actions are those applied broadly at large spatial scales (e.g., habitats, landscape, region) and benefit most species associated with that habitat or group of habitats. Coarsefilter actions focus largely on conserving plant and animal communities and the interactions among them",
-            "location": "Conservation Actions chapter, Introduction",
+            "text": "plant and some forest communities are undergoing compositional shifts amid increasing tree mortality associated with invasive Emerald Ash Borer (Agrilus planipennis) and Hemlock Wooly Adelgid (Adelges tsugae)",
+            "location": "Element 3: Threats to Habitats",
             "sub_component": null,
             "citations": []
           }
@@ -740,28 +655,28 @@
         "present": false,
         "evidence": []
       },
-      "named_entities": ["Bicknell's Thrush", "Saltmarsh Sparrow", "Nelson's Sparrow", "Piping Plover", "Atlantic Puffin", "Brook Trout", "Arctic Charr", "Atlantic Salmon", "Wood Turtle", "Blanding's Turtle", "Canada Lynx", "Little Brown Bat", "Northern Long-eared Bat", "Furbish's Lousewort", "alpine/subalpine habitats", "tidal marsh", "boreal forest", "peatlands", "cold-water headwater streams", "high-elevation habitats"]
+      "named_entities": ["SGCN", "Species of Greatest Conservation Need", "alpine species", "freshwater aquatic species", "tidal/subtidal shellfish and fishery species", "seabirds and shorebirds", "high elevation habitats", "boreal forests", "peatlands", "tidal marshes", "cold-water fisheries"]
     },
     "partnerships_and_funding": {
       "evaluable": true,
       "score": 2,
       "evidence": [
         {
-          "text": "The Coordination Team invited 214 conservation partners to participate in the revision of Maine's 2025 Plan, representing 118 unique organizations and key members of the conservation public. This included 12 federal partners, 15 state partners, 5 Tribal Nations, and 86 public and local partners",
-          "location": "Coordination with Partners chapter, Section 7/8.2",
-          "sub_component": "partnerships",
+          "text": "The Coordination Team invited 214 conservation partners to participate in the revision of Maine's 2025 Plan, representing 118 unique organizations and key members of the conservation public. This included 12 federal partners, 15 state partners, 5 Tribal Nations, and 86 public and local partners.",
+          "location": "Element 7/8: Coordination with Conservation Partners",
+          "sub_component": null,
           "citations": []
         },
         {
           "text": "Secure stable and additional sources of federal and state funding for SGCN and habitat conservation.",
-          "location": "Conservation Actions chapter, Table 4-14, Programmatic Action 4",
-          "sub_component": "funding",
+          "location": "Table 4-14 / Programmatic Action 4",
+          "sub_component": null,
           "citations": []
         },
         {
-          "text": "Programmatic Action 5: Consider establishing a competitive small grants program to make a portion of State Wildlife Grant (SWG) or other conservation funds available to partners implementing priority actions identified in the 2025 Plan (mid-term).",
-          "location": "Conservation Actions chapter, Funding and Tracking section",
-          "sub_component": "funding",
+          "text": "Continue to participate in the NEAFWA Northeast Landscape Wildlife Conservation Committee, the Regional Conservation Needs Program (RCN) and other multi-state/ international landscape and watershed scale",
+          "location": "Table – Landscape-level habitat conservation actions",
+          "sub_component": null,
           "citations": []
         }
       ],
@@ -772,8 +687,14 @@
       "score": 1,
       "evidence": [
         {
-          "text": "These include impacts from sea level rise; changes in the timing, frequency, and size of storms; and changes to water temperature, stratification, and chemistry.",
-          "location": "Conservation Actions chapter, 2025 Update of Habitat Themes, Climate Change super-theme",
+          "text": "These changes include rising seas, increasing coastal storms, altered natural disturbance processes (e.g., increased fire), changes in hydrology of wetlands and waterways, increasing non-native invasive species, pests and pathogens, increasing water temperatures, and transitions in forest composition.",
+          "location": "Element 2: Landscape Overview of Maine",
+          "sub_component": null,
+          "citations": ["Whitman et al. 2013", "Fernandez et al. 2015", "Peters et al. 2020", "Whitehead et al. 2023", "MCC STS 2024"]
+        },
+        {
+          "text": "Storm surge causes damage and erosion to coastal habitats, and often, residential or commercial development adjacent to these habitats prevent habitat migration upland and reduce overall habitat resiliency.",
+          "location": "Element 3: Threats to Habitats",
           "sub_component": null,
           "citations": []
         }
@@ -786,20 +707,26 @@
       "evidence": [
         {
           "text": "Rising water in June of 2023 caused nest failure due to flooding at all know breeding sites.",
-          "location": "Threats chapter, Case Study figure caption (Black Tern)",
+          "location": "Figure caption / Case Study: Changing Precipitation Patterns due to Climate Change",
           "sub_component": null,
           "citations": []
         }
       ],
-      "absence_note": {}
+      "absence_note": "The Black Tern nest failure example is a direct climate event (flooding from extreme precipitation) causing reproductive failure—a vital rate directly impacted. This meets the threshold for 3.6."
     },
     "climate_threat_biotic_stressors": {
       "evaluable": true,
       "score": 1,
       "evidence": [
         {
-          "text": "Warming waters have also driven the expansion of the invasive European green crab (Carcinus maenas), an intertidal predator considered to be a major factor in the statewide decline in soft shell clam abundance.",
-          "location": "Key Habitats chapter, Intertidal Shores and Flats section",
+          "text": "The steep declines of aerial insectivores are likely driven by a combination of factors including declines of aerial insect abundance, habitat loss, exposure to environmental contaminants, phenological mismatches due to climate change, and stressors on migratory stopover and wintering grounds.",
+          "location": "Element 1: Birds / Grassland birds",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Invasive Non-native-Alien Species-Diseases in particular take advantage of disturbed ground near development and longer growing seasons due to Changes in Temperature Regimes, and can easily become established, thereby enabling additional spread nearby.",
+          "location": "Element 3: Threats to Habitats",
           "sub_component": null,
           "citations": []
         }
@@ -813,20 +740,20 @@
       "score": 2,
       "evidence": [
         {
-          "text": "BwH's Focus Areas of Statewide Ecological Significance (Focus Areas) are areas to prioritize collaborative, non-regulatory conservation actions that benefit biodiversity in Maine. Focus Areas were mapped to highlight natural areas of statewide biodiversity importance and contain high concentrations of at-risk species and habitats.",
-          "location": "Key Habitats chapter, Focus Areas of Statewide Ecological Significance",
+          "text": "BwH's Focus Areas of Statewide Ecological Significance (Focus Areas) are areas to prioritize collaborative, nonregulatory conservation actions that benefit biodiversity in Maine. Focus Areas were mapped to highlight natural areas of statewide biodiversity importance.",
+          "location": "Element 2: Focus Areas of Statewide Ecological Significance",
           "sub_component": null,
           "citations": []
         },
         {
-          "text": "Identify conservation priorities in areas that may serve as climate refugia.",
-          "location": "Conservation Actions chapter, Climate Change section (new actions list)",
+          "text": "Identify conservation priorities in areas that may serve as climate refugia. … Assess conserved lands resiliency and gaps.",
+          "location": "2025 Update of Habitat Themes / Climate Change section",
           "sub_component": null,
           "citations": []
         },
         {
-          "text": "Maine will not retain its biodiversity without considering how species may move across the landscape in response to a changing climate. Building on the Focus Areas of Statewide Ecological Significance, this project will address this planning need by identifying and mapping priority habitat resources that promote connectivity",
-          "location": "Conservation Actions chapter, Programmatic Action 10",
+          "text": "identifying and mapping priority habitat resources that promote connectivity, such as places where wildlife move across the landscape, within stream networks, across roadways, or in marine environments.",
+          "location": "Regional and Statewide Partnerships / Programmatic Action 10",
           "sub_component": null,
           "citations": []
         }
@@ -839,13 +766,13 @@
       "evidence": [
         {
           "text": "Facilitate the persistence and range migration of SGCN in Maine in the face of a changing climate by ensuring landscape connectivity (both terrestrial and aquatic) through reducing habitat fragmentation and promoting the voluntary conservation of diverse and resilient landscapes and watersheds.",
-          "location": "Conservation Actions chapter, Terrestrial and Freshwater Wetland Habitat Conservation Action Theme, Connectivity theme",
+          "location": "Table – Terrestrial and Freshwater Wetland Habitat Conservation Action Theme Description / Connectivity",
           "sub_component": null,
           "citations": []
         },
         {
           "text": "Secure opportunities for inland marsh migration. Collaborate with landowners and municipalities to preserve adjacent uplands and remove barriers to inland marsh migration, reducing the impacts of coastal squeeze and maintaining marsh function in the face of sea-level rise.",
-          "location": "Conservation Actions appendix, Saltmarsh birds guild",
+          "location": "Appendix 4-1 / Saltmarsh birds guild conservation actions",
           "sub_component": null,
           "citations": []
         }
@@ -854,16 +781,28 @@
     },
     "time_bound_and_monitoring": {
       "evaluable": true,
-      "score": 1,
+      "score": 2,
       "evidence": [
         {
-          "text": "Target initiation dates for each programmatic action were also assigned: short-term- within the first few years of Plan implementation, mid-term -within the first half of Plan implementation, and long-term -within the second half of Plan implementation.",
-          "location": "Conservation Actions chapter, Programmatic Conservation Actions",
-          "sub_component": "deadlines",
+          "text": "Target initiation dates for each programmatic action were also assigned: short-term within the first few years of Plan implementation, mid-term -within the first half of Plan implementation, and long-term -within the second half of Plan implementation.",
+          "location": "Programmatic Conservation Actions",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "Develop SMART (Specific, Measurable, Achievable, Results-oriented, and Time-bound) style objectives for high priority habitat-scale and SGCN conservation actions.",
+          "location": "Table 4-14 / Programmatic Action 9",
+          "sub_component": null,
+          "citations": []
+        },
+        {
+          "text": "The Plan team and Steering Committee will meet annually to assess implementation efforts, and biennially track the continued relevancy, implementation, and efficacy of the Conservation Actions.",
+          "location": "Regional and Statewide Partnerships / Programmatic Action 11",
+          "sub_component": null,
           "citations": []
         }
       ],
-      "absence_note": "The plan has time-framing at the programmatic level (short/mid/long-term), and explicitly calls for creating SMART objectives as a future action (PA 9), but those SMART objectives (with deadlines and monitoring) are not yet developed for individual conservation actions. The plan also proposes biennual efficacy tracking of conservation actions. Score is 1 (deadlines present at programmatic level, but effectiveness monitoring tied to specific actions is a planned future step, not yet operationalized at the action level)."
+      "absence_note": {}
     },
     "evidence_of_efficacy": {
       "evaluable": true,
@@ -871,44 +810,44 @@
       "evidence": [
         {
           "text": "Maine Audubon, in coordination with MDIFW, construct nest exclosures (left) to protect eggs. This action increases nest success (right) and has helped Maine reach a record number of breeding plovers.",
-          "location": "Conservation Actions chapter, Case Study: Predator Nest Exclosures Aid Piping Plover Recovery",
+          "location": "Case Study: Predator Nest Exclosures Aid Piping Plover Recovery",
           "sub_component": null,
           "citations": []
         },
         {
-          "text": "A highway in southern Maine, hosting over 16,000 vehicles per day was identified as one of the state's deadliest roadways for turtles...Since installation, nearly all turtle mortality of any species has ceased.",
-          "location": "Conservation Actions chapter, Case Study: Wildlife crossing structure for turtles",
+          "text": "Restore marshes using science-based best practices. Implement priority restoration techniques such as elevation enhancement, ditch remediation, and runneling, specifically tailored to each marsh, with Saltmarsh Guild species in mind. All restoration projects should incorporate pre-and post-restoration bird monitoring to evaluate efficacy and inform adaptive management.",
+          "location": "Appendix 4-1 / Saltmarsh birds guild conservation actions",
           "sub_component": null,
           "citations": []
         }
       ],
-      "absence_note": "The plan provides some case studies with documented outcomes (Piping Plover, turtle crossing) representing limited empirical evidence of efficacy for specific actions. Most actions are not accompanied by citations to supporting research directly testing the actions for Maine's focal subjects. Score 2 reflects limited evidence present — case studies exist but coverage is narrow relative to the plan's 1,300+ actions.",
-      "projects": ["Piping Plover nest exclosure program (Maine Audubon / MDIFW): Documented increase in nest success and a record number of breeding plovers in Maine, providing direct evidence of efficacy for predator exclosure actions.", "Turtle wildlife crossing structure on I-95 in southern Maine (MDIFW / Maine Turnpike Authority / USDOT): Pre/post monitoring showed near-cessation of turtle road mortality following installation, providing strong case-study evidence for crossing structure effectiveness.", "Chop & Drop wood addition in headwater streams: Case study described restoring Brook Trout habitat through instream wood addition, though quantitative efficacy data are presented qualitatively."]
+      "absence_note": "Score is 2 (limited evidence) rather than 3 (strong evidence) because while the plan includes case studies with outcome data (Piping Plover, turtle crossing), the majority of conservation actions in the plan are presented without citations or evidence of efficacy. The case studies provide limited direct evidence for range-shift-specific actions specifically.",
+      "projects": ["Piping Plover nest exclosures (Maine Audubon / MDIFW): Predator exclosures are documented to increase nest success, and the case study reports that Maine has reached a record number of breeding plovers — a direct outcome measure supporting the efficacy of this action.", "Wildlife crossing structure for turtles (MaineDOT / MDIFW / MTA): An 8-foot concrete box structure with 0.8 km of barrier fencing was installed at a high-mortality highway; since installation, nearly all turtle mortality of any species has ceased, providing strong before-after evidence for the crossing structure action.", "Chop & Drop wood addition in headwater streams: A description of past stream straightening impacts and the ecological restoration rationale for instream wood addition is provided, but no post-project outcome data are cited — limited evidence category."]
     },
     "adaptation_planning_frameworks": {
       "evaluable": true,
       "score": 2,
       "evidence": [
         {
+          "text": "A crosswalk was developed to connect the 2025 Plan conservation actions to the priority actions identified in Maine Won't Wait (see Appendix 4-17).",
+          "location": "2025 Update of Habitat Themes / Climate Change section",
+          "sub_component": null,
+          "citations": []
+        },
+        {
           "text": "We wrote conservation action descriptions broadly enough to allow adaptive management over the next ten years, but with enough specificity to help assess performance (AFWA 2012).",
-          "location": "Conservation Actions chapter, General Considerations section",
+          "location": "General Considerations for Development of Conservation Actions",
           "sub_component": null,
           "citations": ["AFWA 2012"]
         },
         {
-          "text": "This action relates to creating SMART (Specific, Measurable, Achievable, Results-oriented, and Time-bound) objectives for high priority SGCN and habitat conservation actions.",
-          "location": "Conservation Actions chapter, Table 4-14, Programmatic Action 9",
-          "sub_component": null,
-          "citations": []
-        },
-        {
-          "text": "A crosswalk was developed to connect the 2025 Plan conservation actions to the priority actions identified in Maine Won't Wait (see Appendix 4 -17).",
-          "location": "Conservation Actions chapter, Climate Change section",
+          "text": "Continue research to better understand predicted impacts of climate change on vulnerable habitats, assess conserved lands for climate change resiliency and use this information to guide future conservation efforts, and adopt climate-friendly forest management practices.",
+          "location": "Table – Terrestrial and Freshwater Wetland Habitat Conservation Action Theme Description / Climate Change",
           "sub_component": null,
           "citations": []
         }
       ],
-      "absence_note": "The plan references climate change vulnerability assessment as a planning process applied to focal species/habitats (scoring SGCN on climate vulnerability criteria, commissioned prior CCVA from Whitman et al. 2013), and uses adaptive management framing tied to climate. SMART objectives framework is named explicitly. No Resist-Accept-Direct (RAD) or RRT framework is mentioned. Score 2 given specific named frameworks (CCVA, SMART, adaptive management in climate context)."
+      "absence_note": "The plan references adaptive management explicitly in a climate context and has a Maine Won't Wait crosswalk (a specific climate adaptation planning tool). The Climate Subcommittee process and crosswalk constitute a climate adaptation planning framework specifically referenced. Score 2 is appropriate because named specific frameworks (Maine Won't Wait, climate vulnerability assessment) are referenced and applied."
     }
   },
   "coding_meta": {
@@ -921,7 +860,7 @@
     "temperature": null,
     "thinking": null,
     "thinking_effort": null,
-    "coded_at": "2026-07-06T18:39:23Z",
+    "coded_at": "2026-07-08T00:55:54Z",
     "notes": {}
   }
 }

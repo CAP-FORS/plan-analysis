@@ -25,6 +25,7 @@ source("pipeline/grobid_extract.R")  # extract_text_grobid(): PDF -> reading-ord
 source("pipeline/verify_evidence.R") # verify_evidence(): quote-vs-source checking
 source("pipeline/validate_record.R") # validate_record(): record vs schema contract
 source("pipeline/tabulate.R")        # tabulate(): finalized JSON -> analysis CSVs
+source("pipeline/batch.R")           # code_batch(), check_batch_status(): batch scoring
 
 # ==== Configuration =============================================================
 
@@ -81,6 +82,7 @@ make_config <- function(source_dir, out_dir,
                         segment_sentences = NULL,
                         # --- scoring mode / re-run ---
                         scoring_mode = "sequential", overwrite = FALSE,
+                        batch_wait = FALSE,
                         verify_threshold = 0.85) {
       list(
             source_dir    = source_dir,
@@ -109,6 +111,7 @@ make_config <- function(source_dir, out_dir,
             url = url, endpoint = endpoint, timeout_sec = timeout_sec,
             segment_sentences = segment_sentences,
             scoring_mode = scoring_mode, overwrite = overwrite,
+            batch_wait = batch_wait,
             verify_threshold = verify_threshold
       )
 }
@@ -841,18 +844,11 @@ code <- function(config) {
       invisible(TRUE)
 }
 
-# Batch scoring STUB — the horizontal cost-optimized path (Anthropic Message
-# Batches API via ellmer's batch_chat_structured(), ~50% cheaper, async up to
-# 24h). To be fleshed out: build one request per doc from the same system_prompt +
-# singlecall_instructions + schema, submit as a batch, persist the batch state,
-# and on completion write each result to coded_dir/<doc>.rds in the SAME shape
-# code_document() returns — so finalize()/verify() consume batch and sequential
-# output identically. Set config$scoring_mode="batch" to route here.
-code_batch <- function(config) {
-      stop("Batch scoring not yet implemented. Use scoring_mode='sequential' for ",
-           "now. (Planned: ellmer batch_chat_structured() -> coded_dir/*.rds, ",
-           "consumed by finalize() unchanged.)")
-}
+# code_batch() and check_batch_status() are defined in batch.R (sourced above) —
+# the batch scoring band (Anthropic Message Batches API via ellmer, ~50% cheaper,
+# async up to 24h). code() routes to code_batch() when scoring_mode="batch"; the
+# batch writes coded_dir/<doc>.rds in the SAME shape code_document() returns, so
+# finalize()/verify()/tabulate() consume batch and sequential output identically.
 
 # Shared log-row writer for the code phase (upsert keyed by doc_id).
 .log_code_row <- function(config, res, dt) {
