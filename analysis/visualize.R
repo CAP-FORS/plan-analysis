@@ -114,13 +114,21 @@ ds <- c("output/swap_run01/tables/scores_long.csv",
         "output/sfap_run01/tables/scores_long.csv") %>%
       map(read_csv) %>%
       bind_rows() %>%
-      filter(doc_type %in% c("FAP", "SWAP"))
+      filter(doc_type %in% c("FAP", "SWAP")) %>%
+      
+      mutate(juris = ifelse(juris == "VI", "USVI", juris)) %>%
+      group_by(juris) %>%
+      mutate(jurisdiction = jurisdiction[1])
 
 dc <- c("output/swap_run01/tables/checklists_long.csv",
         "output/sfap_run01/tables/checklists_long.csv") %>%
       map(read_csv) %>%
       bind_rows() %>%
-      filter(doc_type %in% c("FAP", "SWAP"))
+      filter(doc_type %in% c("FAP", "SWAP")) %>%
+      
+      mutate(juris = ifelse(juris == "VI", "USVI", juris)) %>%
+      group_by(juris) %>%
+      mutate(jurisdiction = jurisdiction[1])
 
 
 # plotting helpers ------------------------
@@ -148,7 +156,7 @@ stacked_bar <- function(x, outfile, vjust = 3){
       ggsave(outfile, p, height = 6, width = 6, units = "in")
 }
 
-choropleth <- function(x, outfile){
+choropleth <- function(x, outfile, title){
       
       library(rnaturalearth)
       library(sf)
@@ -160,13 +168,11 @@ choropleth <- function(x, outfile){
             st_as_sf() %>%
             mutate(juris = str_remove(iso_3166_2, "US-"))
       
-      d <- x %>%
-            left_join(states, .) %>%
-            mutate(max_score = max(score),
-                   min_score = min(score))
+      d <- left_join(states, x)
+      minmax <- range(x$score)
       
       make_map <- function(x, crs = 5070, xlim = NULL, ylim = NULL){
-            # if(x$juris[1] == "HI") browser()
+            
             if(!is.null(xlim) & !is.null(ylim)){
                   x <- st_crop(x, st_bbox(c(xmin = xlim[1], xmax = xlim[2], 
                                             ymax = ylim[1], ymin = ylim[2]), crs = st_crs(4326)))
@@ -182,7 +188,7 @@ choropleth <- function(x, outfile){
                   coord_sf(crs = st_crs(crs), 
                            xlim = st_bbox(x)[c(1, 3)], 
                            ylim = st_bbox(x)[c(2, 4)]) +
-                  scale_fill_viridis_c(limits = c(x$min_score[1], x$max_score[1])) +
+                  scale_fill_viridis_c(limits = minmax) +
                   theme_minimal() +
                   theme(axis.text = element_blank(),
                         axis.ticks = element_blank(),
@@ -196,12 +202,29 @@ choropleth <- function(x, outfile){
       hi <- d %>% filter(juris == "HI") %>% 
             make_map("ESRI:102007", xlim = c(-162, -154), ylim = c(18, 23))
       
-      p <- conus + ak + hi +
+      others <- x %>%
+            anti_join(states) %>%
+            mutate(jurisdiction = str_remove(jurisdiction, " \\(.*")) %>%
+            ggplot(aes(1, jurisdiction, fill = score)) +
+            geom_tile(color = "white", linewidth = 2) +
+            geom_text(aes(2, jurisdiction, label = jurisdiction), hjust = 0) +
+            coord_fixed() +
+            xlim(NA, 25) +
+            scale_fill_viridis_c(limits = minmax) +
+            theme_void() +
+            theme(legend.position = "none")
+      
+      p <- conus + ak + hi + others +
             plot_layout(guides = "collect",
-                        design = "AA
-                        BC", 
-                        heights = c(2, 1),
-                        widths = c(1, .8))
+                        design = "AAA
+                        BCD", 
+                        heights = c(2, .5),
+                        widths = c(1, .75, 1.25)) +
+            plot_annotation(theme = theme(legend.position = "top")) &
+            labs(fill = title) &
+            guides(fill = guide_colorbar(barwidth = 15)) &
+            theme(legend.direction = "horizontal",
+                  legend.title = element_text(size = 16))
       ggsave(outfile, p, height = 10.75, width = 12, units = "in")
 }
 
@@ -216,9 +239,10 @@ ds %>%
 
 ds %>% 
       filter(theme == "tools") %>%
-      group_by(juris) %>%
+      group_by(juris, jurisdiction) %>%
       summarize(score = mean(score)) %>%
-      choropleth("analysis/figures/tools_map.png")
+      choropleth("analysis/figures/tools_map.png",
+                 "Diversity of tools referenced  ")
 
 
 # threats ------------------------
@@ -233,9 +257,10 @@ ds %>%
 ds %>%
       filter(str_detect(element, "climate_threat")) %>%
       mutate(element = str_replace_all(str_remove(element, "climate_threat_"), "_", " ")) %>%
-      group_by(juris) %>%
+      group_by(juris, jurisdiction) %>%
       summarize(score = mean(score)) %>%
-      choropleth("analysis/figures/threats_map.png")
+      choropleth("analysis/figures/threats_map.png",
+                 "Diversity of climate impacts described  ")
 
 
 # biological units ------------------------
@@ -247,4 +272,5 @@ dc %>%
       summarize(score = mean(present)) %>%
       stacked_bar("analysis/figures/bio_units_by_doc_type.png",
                   vjust = 1)
+
 
