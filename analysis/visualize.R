@@ -106,9 +106,10 @@ ggsave("analysis/figures/checklist_heatmap.png", p, width = 7, height = 10, unit
 
 
 
+
 # figures for ESA poster ========================
 
-# load data -----------------------------
+## load data -----------------------------
 
 ds <- c("output/swap_run01/tables/scores_long.csv",
         "output/sfap_run01/tables/scores_long.csv") %>%
@@ -131,7 +132,7 @@ dc <- c("output/swap_run01/tables/checklists_long.csv",
       mutate(jurisdiction = jurisdiction[1])
 
 
-# plotting helpers ------------------------
+## plotting helpers ------------------------
 
 stacked_bar <- function(x, outfile, vjust = 3){
       p <- x %>%
@@ -229,7 +230,7 @@ choropleth <- function(x, outfile, title){
 }
 
 
-# tools ----------------------------------
+## tools ----------------------------------
 
 ds %>% 
       filter(theme == "tools") %>%
@@ -245,7 +246,7 @@ ds %>%
                  "Diversity of tools referenced  ")
 
 
-# threats ------------------------
+## threats ------------------------
 
 ds %>%
       filter(str_detect(element, "climate_threat")) %>%
@@ -263,7 +264,7 @@ ds %>%
                  "Diversity of climate impacts described  ")
 
 
-# biological units ------------------------
+## biological units ------------------------
 
 dc %>%
       filter(checklist == "biological_unit_components") %>%
@@ -274,3 +275,36 @@ dc %>%
                   vjust = 1)
 
 
+
+
+## composite score -------------------------
+
+source("analysis/composite_score.R")
+
+scores_long <- c("output/swap_run01/tables/scores_long.csv",
+                 "output/sfap_run01/tables/scores_long.csv") %>%
+      map(read_csv) %>%
+      bind_rows() %>%
+      filter(doc_type %in% c("FAP", "SWAP")) 
+
+checklists_long <- c("output/swap_run01/tables/checklists_long.csv",
+                     "output/sfap_run01/tables/checklists_long.csv") %>%
+      map(read_csv) %>%
+      bind_rows() %>%
+      filter(doc_type %in% c("FAP", "SWAP"))
+
+
+comp <- compute_composite(ds, dc, null_as = "drop") %>%
+      left_join(distinct(select(ds, doc_id, juris, jurisdiction, doc_type)))
+
+comp %>%
+      filter(doc_type == "SWAP") %>%
+      mutate(score = composite) %>%
+      choropleth("analysis/figures/swap_composite_map.png",
+                 "SWAP range shift science engagement score  ")
+
+comp %>%
+      filter(doc_type == "FAP") %>%
+      mutate(score = composite) %>%
+      choropleth("analysis/figures/sfap_composite_map.png",
+                 "SFAP range shift science engagement score  ")
