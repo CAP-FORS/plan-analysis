@@ -50,29 +50,35 @@ vulnerability_scores %>%
                               doc_type == "SWAP" ~ "Wildlife Plan")) %>% 
   mutate(score = case_when(
     score == "0" ~ "No Mention",
-    score == "1" ~ "Non-Specific Mention",
-    score == "2" ~ "Climate Exposure or \nAC Referenced",
-    score == "3" ~ "Climate Exposure & \nAC Referenced"),
-    score = fct_relevel(score, "Climate Exposure & \nAC Referenced", "Climate Exposure or \nAC Referenced", "Non-Specific Mention", "No Mention")) %>% 
+    score == "1" ~ "Non-Specific\nMention",
+    score == "2" ~ "Climate Exposure\nor AC",
+    score == "3" ~ "Climate Exposure\n& AC"),
+    score = fct_relevel(score, "Climate Exposure\n& AC", "Climate Exposure\nor AC", "Non-Specific\nMention", "No Mention")) %>% 
   group_by(doc_type) %>% 
   count(score) %>%
   arrange(score) %>% 
   ungroup() %>%
   ggplot(aes(x = "", y = n, fill = as.factor(score))) +
   geom_bar(stat = "identity", width = 1, color = "white") +
-  geom_text(aes(label = score), position = position_stack(vjust = 0.5), color = "gray22", size = 6)+
+  geom_text(aes(label = score), position = position_stack(vjust = 0.5), color = "gray22", size = 7)+
   theme_minimal() +
-  labs(x = "", y = "", title = "How did the plans \ndescribe climate vulnerability?")+
+  labs(x = "", y = "")+
   scale_fill_brewer(palette = "Set2", name = "Action")+
   theme(
-    axis.text.y = element_text(size = 15),
-    axis.ticks.y = element_line(),
-    strip.text = element_text(size = 20),
-    panel.grid = element_blank(),
-    legend.position = "none",
-    plot.title = element_text(size = 24, hjust = 0.5)
+      axis.text.x = element_blank(),
+      axis.text.y = element_text(size = 15),
+      axis.ticks.y = element_line(),
+      strip.text = element_text(size = 24),
+      panel.grid = element_blank(),
+      legend.box = "horizontal",
+      legend.position = "none",
+      legend.text = element_text(size = 14),
+      legend.title = element_text(size = 24),
   ) + 
   facet_wrap(~doc_type, ncol = 2)
+
+ggsave("analysis/figures/concepts_by_doc_type_vulnerability.png", height = 7, width = 6, units = "in")
+
 
 # Element 1.2: Adaptive Capacity Specificity ####
 
@@ -126,7 +132,7 @@ region_means <- adaptive_capacity_scores %>%
   group_by(region) %>% 
   summarize(mean_score = mean(score))
 
-write.csv(juris_means, "analysis/analyze_concepts/adaptive_capacity_mean_scores.csv", row.names = FALSE)
+# write.csv(juris_means, "analysis/analyze_concepts/adaptive_capacity_mean_scores.csv", row.names = FALSE)
 # save as CSV to plot in ArcGIS.... but will also try mapping here below
 
 ## Mapping attempt ####
@@ -172,7 +178,7 @@ p2 <- juris_means %>%
 p1 +
   inset_element(p2, left = 0.85, bottom = 0.25, right = 1, top = 0.5, align_to = "full")
 
-ggsave("analysis/figures/adaptive_capacity_mean_scores_map.png", height = 5, width = 10)
+# ggsave("analysis/figures/adaptive_capacity_mean_scores_map.png", height = 5, width = 10)
 
 # Element 1.3: Adaptive Capacity Components ####
 

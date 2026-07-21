@@ -119,7 +119,7 @@ doc_summary %>%
   ungroup() %>%
   ggplot(aes(x = "", y = n, fill = action_code)) +
   geom_bar(stat = "identity", width = 1, color = "white") +
-  geom_text(aes(label = action_code), position = position_stack(vjust = 0.5), color = "gray22", size = 6)+
+  # geom_text(aes(label = action_code), position = position_stack(vjust = 0.5), color = "gray22", size = 6)+
   theme_minimal() +
   labs(x = "", y = "")+
   scale_fill_brewer(palette = "Set2", name = "Action")+
@@ -135,7 +135,7 @@ doc_summary %>%
   ) + 
   facet_wrap(~doc_type, ncol = 3)
 
-# ggsave("analysis/figures/actions_by_doc_type.png", height = 12, width = 10, units = 'in')
+ggsave("analysis/figures/actions_by_doc_type.png", height = 7, width = 6, units = 'in')
 
 
 # PERMANOVA: action ~ region
