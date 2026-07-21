@@ -308,3 +308,30 @@ comp %>%
       mutate(score = composite) %>%
       choropleth("analysis/figures/sfap_composite_map.png",
                  "SFAP range shift science engagement score  ")
+
+
+comp %>%
+      select(juris, doc_type, score = composite) %>%
+      pivot_wider(names_from = "doc_type", values_from = "score") %>%
+      ggplot(aes(SWAP, FAP)) +
+      geom_point()
+
+
+## SWAP vs SFAP scatterplot
+p <- comp %>%
+      select(theme_actions:composite, juris, doc_type) %>%
+      pivot_longer(theme_actions:composite, names_to = "theme", values_to = "score") %>%
+      pivot_wider(names_from = "doc_type", values_from = "score") %>%
+      mutate(theme = ifelse(theme == "composite", "COMBINED", 
+                            str_remove(theme, "theme_")),
+             theme = factor(theme, levels = c("actions", "concepts", "context", "tools", "COMBINED"))) %>%
+      ggplot(aes(SWAP, FAP, color = theme, fill = theme)) +
+      geom_point() +
+      geom_smooth(method = lm, alpha = .1) +
+      coord_fixed() +
+      theme_minimal() +
+      labs(x = "Wildlife plan (SWAP) range shift science engagement",
+           y = "Forest plan (SFAP) range shift science engagement",
+           color = NULL, fill = NULL)
+ggsave("analysis/figures/swap_vs_sfap_composite.png", 
+       p, width = 8, height = 7, units = "in")
