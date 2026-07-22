@@ -105,8 +105,6 @@ p <- ggplot(d, aes(category, doc_id, fill = present)) +
 ggsave("analysis/figures/checklist_heatmap.png", p, width = 7, height = 10, units = "in")
 
 
-
-
 # figures for ESA poster ========================
 
 ## load data -----------------------------
@@ -115,7 +113,8 @@ ds <- c("output/swap_run01/tables/scores_long.csv",
         "output/sfap_run01/tables/scores_long.csv") %>%
   map(read_csv) %>%
   bind_rows() %>%
-  filter(doc_type %in% c("FAP", "SWAP")) %>%
+  mutate(doc_type = ifelse(doc_type == "FAP", "SFAP", doc_type)) %>% 
+  filter(doc_type %in% c("SFAP", "SWAP")) %>%
   mutate(juris = ifelse(juris == "VI", "USVI", juris)) %>%
   group_by(juris) %>%
   mutate(jurisdiction = jurisdiction[1])
@@ -124,8 +123,8 @@ dc <- c("output/swap_run01/tables/checklists_long.csv",
         "output/sfap_run01/tables/checklists_long.csv") %>%
   map(read_csv) %>%
   bind_rows() %>%
-  filter(doc_type %in% c("FAP", "SWAP")) %>%
-  
+  mutate(doc_type = ifelse(doc_type == "FAP", "SFAP", doc_type)) %>% 
+  filter(doc_type %in% c("SFAP", "SWAP")) %>%
   mutate(juris = ifelse(juris == "VI", "USVI", juris)) %>%
   group_by(juris) %>%
   mutate(jurisdiction = jurisdiction[1])
@@ -140,7 +139,7 @@ stacked_bar <- function(x, outfile, vjust = 2, save = FALSE, checklist = FALSE, 
     geom_col(position = "stack", color = "white", width = 1) +
     {if(show_labels) geom_text(aes(label = if(!checklist) element else category), position = "stack", vjust = vjust, size = 7)}+ 
     theme_minimal() +
-    labs(x = "", y = ylab)+
+    labs(x = "", y = "")+
     scale_fill_brewer(palette = "Set2", name = "Action")+
     theme(
       axis.text.x = element_blank(),
@@ -177,8 +176,9 @@ grouped_bar <- function(x, outfile, vjust = 2, save = FALSE, checklist = FALSE, 
       panel.grid.minor = element_blank(),
       legend.box = "horizontal",
       legend.position = "bottom",
-      legend.text = element_text(size = 20),
+      legend.text = element_text(size = 22),
       legend.title = element_text(size = 22),
+      legend.key.size = unit(1.5, "cm")
     )   
   if(save) ggsave(outfile, p, height = 7, width = 8, units = "in") else p
 }
@@ -258,16 +258,16 @@ choropleth <- function(x, outfile, title){
 
 ## tools ----------------------------------
 
-ds %>% 
-  filter(theme == "tools") %>%
-  group_by(doc_type, element) %>%
-  summarize(score = mean(score)) %>%
-  mutate(element = case_when(element == "climate_models" ~ "Climate",
-                             element == "connectivity_models" ~ "Connectivity",
-                             element == "niche_models" ~ "Niche",
-                             element == "vulnerability_models" ~ "Vulnerability",
-                             .default = element)) %>% 
-  stacked_bar("analysis/figures/tools_by_doc_type.png", vjust = 2, save = TRUE)
+# ds %>% 
+#   filter(theme == "tools") %>%
+#   group_by(doc_type, element) %>%
+#   summarize(score = mean(score)) %>%
+#   mutate(element = case_when(element == "climate_models" ~ "Climate",
+#                              element == "connectivity_models" ~ "Connectivity",
+#                              element == "niche_models" ~ "Niche",
+#                              element == "vulnerability_models" ~ "Vulnerability",
+#                              .default = element)) %>% 
+#   stacked_bar("analysis/figures/tools_by_doc_type.png", vjust = 2, save = FALSE)
 
 ds %>% 
   filter(theme == "tools") %>%
@@ -276,17 +276,40 @@ ds %>%
   mutate(element = case_when(element == "climate_models" ~ "Climate\nModels",
                              element == "connectivity_models" ~ "Connectivity\nModels",
                              element == "niche_models" ~ "Niche\nModels",
-                             element == "vulnerability_models" ~ "Vulnerability\nAssessment",
+                             element == "vulnerability_models" ~ "Vulnerability\nAssessments",
                              .default = element)) %>% 
-  grouped_bar("analysis/figures/tools_by_doc_type_grouped.png", palette = c("#BFDBFE", "#1D4ED8"), save = TRUE)
+  ggplot(aes(y = score, x = element,  fill = doc_type)) +
+  geom_col(position = "dodge", stat = 'identity', color = "white", width = 0.75) +
+  theme_minimal() +
+  labs(x = "", y = "Mean Engagement\n with Tool")+
+  scale_fill_manual(values = c("#BFDBFE", "#1D4ED8"), name = "")+
+  scale_y_continuous(
+    breaks = c(0,1,2),
+    labels = c("Not Referenced", "Referenced", "Applied"),
+    limits = c(0, 2)
+  ) +
+  theme(
+    axis.text.x = element_text(size = 20, color = 'black', angle = 45, vjust = 1, hjust = 1),
+    axis.text.y = element_text(size = 20, color = 'black'),
+    axis.ticks.y = element_line(),
+    axis.title.y = element_text(size = 22),
+    # panel.grid.minor = element_blank(),
+    legend.box = "horizontal",
+    legend.position = "bottom",
+    legend.text = element_text(size = 22),
+    legend.title = element_text(size = 22),
+    legend.key.size = unit(1.5, "cm")
+  )  
 
+ggsave("analysis/figures/tools_by_doc_type_grouped_bar.png", height = 7, width = 8, units = "in")
 
-ds %>% 
-  filter(theme == "tools") %>%
-  group_by(juris, jurisdiction) %>%
-  summarize(score = mean(score)) %>%
-  choropleth("analysis/figures/tools_map.png",
-             "Diversity of tools referenced  ")
+  
+# ds %>% 
+#   filter(theme == "tools") %>%
+#   group_by(juris, jurisdiction) %>%
+#   summarize(score = mean(score)) %>%
+#   choropleth("analysis/figures/tools_map.png",
+#              "Diversity of tools referenced  ")
 
 
 ## threats ------------------------
@@ -296,40 +319,155 @@ ds %>%
   mutate(element = str_replace_all(str_remove(element, "climate_threat_"), "_", " ")) %>%
   group_by(doc_type, element) %>%
   summarize(score = mean(score)) %>%
-  mutate(element = case_when(element == "biotic stressors" ~ "Biotic Stressor",
-                             element == "habitat degradation" ~ "Habitat Threat",
-                             element == "species vital rates" ~ "Direct Threat",
+  mutate(element = case_when(element == "biotic stressors" ~ "Biotic\nStressor",
+                             element == "habitat degradation" ~ "Habitat\nDegradation",
+                             element == "species vital rates" ~ "Direct\nClimate Threat",
                              .default = element),
-         element = fct_relevel(element, c("Direct Threat", "Habitat Threat", "Biotic Stressor"))) %>% 
-  stacked_bar("analysis/figures/threats_by_doc_type.png", save = TRUE)
+         element = factor(element, levels = c("Direct\nClimate Threat", "Habitat\nDegradation", "Biotic\nStressor"))) %>% 
+  ggplot(aes(y = score, x = element,  fill = doc_type)) +
+  geom_col(position = "dodge", stat = 'identity', color = "white", width = 0.5) +
+  theme_minimal() +
+  labs(x = "", y = "Documents\nReferencing Threat")+
+  scale_fill_manual(values = c("#D1BBD7", "#882E72"), name = "")+
+  scale_y_continuous(
+    breaks = c(0,1),
+    labels = c("0%", "100%"),
+    limits = c(0, 1)
+  ) +
+  theme(
+    axis.text.x = element_text(size = 20, color = 'black', angle = 45, vjust = 1, hjust = 1),
+    axis.text.y = element_text(size = 20, color = 'black'),
+    axis.ticks.y = element_line(),
+    axis.title.y = element_text(size = 22),
+    # panel.grid.minor = element_blank(),
+    legend.box = "horizontal",
+    legend.position = "bottom",
+    legend.text = element_text(size = 22),
+    legend.title = element_text(size = 22),
+    legend.key.size = unit(1.5, "cm")
+  )  
 
-ds %>%
-  filter(str_detect(element, "climate_threat")) %>%
-  mutate(element = str_replace_all(str_remove(element, "climate_threat_"), "_", " ")) %>%
-  group_by(juris, jurisdiction) %>%
-  summarize(score = mean(score)) %>%
-  choropleth("analysis/figures/threats_map.png",
-             "Diversity of climate impacts described  ")
+ggsave("analysis/figures/threats_by_doc_type_grouped_bar.png", height = 7, width = 8, units = "in")
 
 
-## biological units ------------------------
+# ds %>%
+#   filter(str_detect(element, "climate_threat")) %>%
+#   mutate(element = str_replace_all(str_remove(element, "climate_threat_"), "_", " ")) %>%
+#   group_by(doc_type, element) %>%
+#   summarize(score = mean(score)) %>%
+#   mutate(element = case_when(element == "biotic stressors" ~ "Biotic Stressor",
+#                              element == "habitat degradation" ~ "Habitat Threat",
+#                              element == "species vital rates" ~ "Direct Threat",
+#                              .default = element),
+#          element = fct_relevel(element, c("Direct Threat", "Habitat Threat", "Biotic Stressor"))) %>% 
+#   stacked_bar("analysis/figures/threats_by_doc_type.png", save = TRUE)
+
+# ds %>%
+#   filter(str_detect(element, "climate_threat")) %>%
+#   mutate(element = str_replace_all(str_remove(element, "climate_threat_"), "_", " ")) %>%
+#   group_by(juris, jurisdiction) %>%
+#   summarize(score = mean(score)) %>%
+#   choropleth("analysis/figures/threats_map.png",
+#              "Diversity of climate impacts described  ")
+
+
+## Actions -------------------------------------
+action_summary <- read_excel("analysis/analyze_actions/action_evidence_coded.xlsx") %>% 
+  filter(!is.na(action_code))
+
+action_summary %>% 
+  separate_longer_delim(cols = action_code, delim = ";") %>% 
+  mutate(action_code = str_trim(action_code)) %>% 
+  separate_wider_delim(cols = action_code, delim = " - ", names = c("action_code", "sub-code"), too_few = "align_start") %>%
+  mutate(action_code = stringr::str_to_title(action_code)) %>% 
+  mutate(action_code = ifelse(action_code %in% c("Facilitate Movement (Generic)", "Reduce Exposure", "Planning", "Adaptive Capacity"), "Other", action_code)) %>% 
+  filter(!action_code %in% 'Na') %>% 
+  rename(doc_type = doct_type, element = action_code) %>% 
+  select(doc_type, juris, element) %>% 
+  filter(doc_type %in% c("SWAP", "FAP")) %>% 
+  mutate(doc_type = ifelse(doc_type == "FAP", "SFAP", doc_type)) %>% 
+  mutate(present = 1) %>% 
+  distinct() %>% 
+  complete(doc_type, juris, element) %>% 
+  mutate(present = ifelse(is.na(present), 0, present)) %>% 
+  group_by(doc_type, element) %>% 
+  summarize(score = mean(present)) %>%
+  mutate(element = case_when(element == "Assisted Migration" ~ "Assisted\nMigration",
+                             element == "Climate Refugia" ~ "Climate\nRefugia",
+                             element == "Species Selection" ~ "Species\nSelection",
+                             .default = element),
+         element = factor(element, levels = c("Connectivity", "Assisted\nMigration", "Species\nSelection", "Climate\nRefugia", "Other"))) %>% 
+  ggplot(aes(y = score, x = element,  fill = doc_type)) +
+  geom_col(position = "dodge", stat = 'identity', color = "white", width = 0.75) +
+  theme_minimal() +
+  labs(x = "", y = "Documents\nReferencing Action")+
+  scale_fill_manual(values = c("#CAE0AB","#4EB265"), name = "")+
+  scale_y_continuous(
+    breaks = c(0,1),
+    labels = c("0%", "100%"),
+    limits = c(0, 1)
+  ) +
+  theme(
+    axis.text.x = element_text(size = 20, color = 'black', angle = 45, vjust = 1, hjust = 1),
+    axis.text.y = element_text(size = 20, color = 'black'),
+    axis.ticks.y = element_line(),
+    axis.title.y = element_text(size = 22),
+    # panel.grid.minor = element_blank(),
+    legend.box = "horizontal",
+    legend.position = "bottom",
+    legend.text = element_text(size = 22),
+    legend.title = element_text(size = 22),
+    legend.key.size = unit(1.5, "cm")
+  )  
+
+ggsave("analysis/figures/actions_by_doc_type_grouped_bar.png", height = 7, width = 8, units = "in")
+
+
+## Concepts ------------------------------------
 
 dc %>%
-  filter(checklist == "biological_unit_components") %>%
-  mutate(element = category) %>%
+  ungroup() %>% 
+  filter(checklist == "adaptive_capacity_components") %>%
+  mutate(category = case_when(
+    category == "abiotic_niche" ~ "Abiotic Niche",
+    category == "demography" ~ "Demography",
+    category == "distribution" ~ "Distribution",
+    category == "ecological_dependencies" ~ "Ecological\nDependencies",
+    category == "evolutionary_potential" ~ "Evolutionary\nPotential",
+    category == "life_history" ~ "Demography",
+    category == "movement" ~ "Movement",
+    .default = category),
+    category = factor(category, levels = c("Demography", "Movement", "Distribution", "Abiotic Niche", "Ecological\nDependencies", "Evolutionary\nPotential"))) %>% 
+  mutate(element = category,
+         present = ifelse(n_evidence > 0, 1, 0)) %>%
   group_by(doc_type, element) %>%
   summarize(score = mean(present)) %>%
-  stacked_bar("analysis/figures/bio_units_by_doc_type.png",
-              vjust = 1)
+  ggplot(aes(y = score, x = element,  fill = doc_type)) +
+  geom_col(position = "dodge", stat = 'identity', color = "white", width = 0.75) +
+  theme_minimal() +
+  labs(x = "", y = "Documents Referencing\n Adaptive Capacity Component")+
+  scale_fill_manual(values = c("#F6C141","#E8601C"), name = "")+
+  scale_y_continuous(
+    breaks = c(0,1),
+    labels = c("0%", "100%"),
+    limits = c(0, 1)
+  ) +
+  theme(
+    axis.text.x = element_text(size = 20, color = 'black', angle = 45, vjust = 1, hjust = 1),
+    axis.text.y = element_text(size = 20, color = 'black'),
+    axis.ticks.y = element_line(),
+    axis.title.y = element_text(size = 22),
+    # panel.grid.minor = element_blank(),
+    legend.box = "horizontal",
+    legend.position = "bottom",
+    legend.text = element_text(size = 22),
+    legend.title = element_text(size = 22),
+    legend.key.size = unit(1.5, "cm")
+  )  
+ggsave("analysis/figures/concepts_by_doc_type_grouped_bar.png", height = 7, width = 8, units = "in")
 
-## composite score -------------------------
 
-ds <- ds %>% 
-  mutate(doc_type = case_when(doc_type == "Forest Plan" ~ "FAP",
-                              doc_type == "Wildlife Plan" ~ "SWAP"))
-dc <- dc %>% 
-  mutate(doc_type = case_when(doc_type == "Forest Plan" ~ "FAP",
-                              doc_type == "Wildlife Plan" ~ "SWAP"))
+## composite score maps -------------------------
 
 source("analysis/composite_score.R")
 
@@ -353,38 +491,56 @@ comp %>%
   filter(doc_type == "SWAP") %>%
   mutate(score = composite) %>%
   choropleth("analysis/figures/swap_composite_map.png",
-             "SWAP Range Shift Science Engagement Score  ")
+             "SWAP Range Shift Science Engagement Score")
 
 comp %>%
   filter(doc_type == "FAP") %>%
   mutate(score = composite) %>%
   choropleth("analysis/figures/sfap_composite_map.png",
-             "SFAP Range Shift Science Engagement Score  ")
-
-
+             "SFAP Range Shift Science Engagement Score")
 comp %>%
   select(juris, doc_type, score = composite) %>%
   pivot_wider(names_from = "doc_type", values_from = "score") %>%
-  ggplot(aes(SWAP, FAP)) +
+  ggplot(aes(SWAP, SFAP)) +
   geom_point()
 
 
-## SWAP vs SFAP scatterplot
+## SWAP vs SFAP scatterplot ----------------------------
 (p <- comp %>%
-  select(theme_actions:composite, juris, doc_type) %>%
-  pivot_longer(theme_actions:composite, names_to = "theme", values_to = "score") %>%
-  pivot_wider(names_from = "doc_type", values_from = "score") %>%
-  mutate(theme = ifelse(theme == "composite", "COMBINED", 
-                        str_remove(theme, "theme_")),
-         theme = stringr::str_to_sentence(theme),
-         theme = factor(theme, levels = c("Actions", "Concepts", "Context", "Tools", "Combined"))) %>%
-  ggplot(aes(`Wildlife Plan`, `Forest Plan`, color = theme, fill = theme)) +
-  geom_point() +
-  geom_smooth(method = lm, alpha = .1) +
-  coord_fixed() +
-  theme_bw(base_size = 24) +
-  labs(x = "Wildlife Plan (SWAP)\nRange Shift Science Engagement",
-       y = "Forest Plan (SFAP)\nRange Shift Science Engagement",
-       color = NULL, fill = NULL))
+   select(theme_actions:composite, juris, doc_type) %>%
+   pivot_longer(theme_actions:composite, names_to = "theme", values_to = "score") %>%
+   pivot_wider(names_from = "doc_type", values_from = "score") %>%
+   mutate(theme = ifelse(theme == "composite", "COMBINED", 
+                         str_remove(theme, "theme_")),
+          theme = stringr::str_to_sentence(theme),
+          theme = factor(theme, levels = c("Actions", "Concepts", "Context", "Tools", "Combined"))) %>%
+   ggplot(aes(SWAP, SFAP, color = theme, fill = theme)) +
+   geom_point() +
+   geom_smooth(method = lm, alpha = .1) +
+   coord_fixed() +
+   scale_fill_manual(values = c("#90C987","#F1932D", "#AE76A3", "#5289C7", "black"),
+                      labels = c("Actions", "Concepts", "Context", "Tools", "Combined"))+
+   scale_color_manual(values = c("#90C987","#F1932D", "#AE76A3", "#5289C7", "black"),
+                      labels = c("Actions", "Concepts", "Context", "Tools", "Combined"))+
+   theme_bw(base_size = 24) +
+   theme(
+     legend.text = element_text(size = 20),
+     axis.text = element_text(color = "black")
+   )+
+   labs(x = "Wildlife Plan (SWAP)\nRange Shift Science Engagement",
+        y = "Forest Plan (SFAP)\nRange Shift Science Engagement",
+        color = NULL, fill = NULL))
 ggsave("analysis/figures/swap_vs_sfap_composite.png", 
        p, width = 10, height = 8.5, units = "in")
+
+## extra figures ------------------------------------------
+
+### biological units --------------------------------------
+
+dc %>%
+  filter(checklist == "biological_unit_components") %>%
+  mutate(element = category) %>%
+  group_by(doc_type, element) %>%
+  summarize(score = mean(present)) %>%
+  stacked_bar("analysis/figures/bio_units_by_doc_type.png",
+              vjust = 1)
